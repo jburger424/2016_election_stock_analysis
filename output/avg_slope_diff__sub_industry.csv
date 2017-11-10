@@ -1,0 +1,85 @@
+avg_slope_diff,sub_ind_count,sector,sub_industry
+-0.0631060895660741,4,Consumer Staples,Soft Drinks
+-0.0239553910710219,2,Utilities,Independent Power Producers & Energy Traders
+-0.0134951773064324,4,Consumer Discretionary,Internet & Direct Marketing Retail
+-0.0121447313591827,3,Real Estate,Specialized REITs
+-0.0109733967813408,16,Health Care,Health Care Equipment
+-0.0101754192112266,3,Health Care,Health Care Supplies
+-0.00901300474416414,3,Information Technology,Data Processing & Outsourced Services
+-0.00805541451550111,5,Materials,Diversified Chemicals
+-0.00794242045740129,3,Consumer Staples,Tobacco
+-0.00751479933906896,2,Health Care,Life Sciences Tools & Services
+-0.00747146492606857,12,Consumer Staples,Packaged Foods & Meats
+-0.00696564452243219,7,Health Care,Biotechnology
+-0.00695652440822767,2,Materials,Construction Materials
+-0.00641902980113225,13,Utilities,MultiUtilities
+-0.00627882982752921,2,Materials,Industrial Gases
+-0.00619255844377184,2,Information Technology,Telecommunications Equipment
+-0.00617752034133073,5,Health Care,Pharmaceuticals
+-0.00576772096673433,12,Utilities,Electric Utilities
+-0.00574910681541859,3,Information Technology,Systems Software
+-0.00567202521195274,2,Consumer Staples,Distillers & Vintners
+-0.00507205061152689,2,Industrials,Research & Consulting Services
+-0.00498797096482069,20,Information Technology,Internet Software & Services
+-0.00432887575452665,3,Consumer Staples,Personal Products
+-0.00429001205525887,4,Materials,Specialty Chemicals
+-0.00403502977344345,4,Real Estate,Residential REITs
+-0.0040033614282694,6,Health Care,Managed Health Care
+-0.00374023464397669,6,Industrials,Industrial Machinery
+-0.00344857277434726,10,Consumer Discretionary,Apparel / Accessories & Luxury Goods
+-0.00323608603316673,5,Information Technology,Application Software
+-0.00298976406898913,2,Information Technology,Computer Hardware
+-0.00286584302282879,3,Consumer Discretionary,Household Appliances
+-0.00270613635482657,6,Energy,Oil & Gas Refining & Marketing & Transportation
+-0.00252072290290591,18,Real Estate,REITs
+-0.00248988289206714,2,Consumer Discretionary,Home Improvement Retail
+-0.00219390339340654,2,Financials,Insurance Brokers
+-0.00216977196312152,3,Industrials,Building Products
+-0.00212882693704707,3,Industrials,Electrical Components & Equipment
+-0.00195835728422522,5,Health Care,Health Care Facilities
+-0.00181643876134679,2,Information Technology,Home Entertainment Software
+-0.00177291438823907,4,Consumer Staples,Household Products
+-0.000648872321593416,4,Industrials,Air Freight & Logistics
+-0.000430262279581967,5,Energy,Integrated Oil & Gas
+-0.000288592567575739,3,Industrials,Construction & Farm Machinery & Heavy Trucks
+-0.000107035173582221,2,Real Estate,Retail REITs
+7.37745764119759e-05,3,Information Technology,Semiconductor Equipment
+0.000139638875231602,18,Energy,Oil & Gas Exploration & Production
+0.000144499120554759,4,Industrials,Railroads
+0.00035529411718455,4,Energy,Oil & Gas Equipment & Services
+0.000418920668219322,4,Telecommunications Services,Integrated Telecommunications Services
+0.000704284497321461,3,Financials,Life & Health Insurance
+0.000730252435879991,4,Materials,Paper Packaging
+0.000838782080923138,5,Consumer Discretionary,Restaurants
+0.00125524572915912,8,Health Care,Health Care Distributors
+0.00141431053906836,3,Information Technology,Networking Equipment
+0.00153616780118654,3,Consumer Discretionary,Homebuilding
+0.0017386493985752,18,Industrials,Industrial Conglomerates
+0.00198874175281404,3,Materials,Fertilizers & Agricultural Chemicals
+0.00209710525593544,5,Industrials,Airlines
+0.00228332028132062,4,Consumer Discretionary,Hotels / Resorts & Cruise Lines
+0.00231487641554109,2,Consumer Discretionary,Advertising
+0.00233281306969578,5,Consumer Discretionary,Broadcasting & Cable TV
+0.00243243836086739,4,Information Technology,IT Consulting & Other Services
+0.00246623173205789,6,Financials,Asset Management & Custody Banks
+0.00255593798309225,3,Financials,Multi-Sector Holdings
+0.00258604425312942,2,Consumer Discretionary,Leisure Products
+0.00308302408084178,2,Consumer Staples,Hypermarkets & Super Centers
+0.00329339325449147,5,Consumer Discretionary,Publishing
+0.00378432596921999,4,Consumer Discretionary,Cable & Satellite
+0.00418007781899444,8,Industrials,Aerospace & Defense
+0.00455750679177895,2,Financials,Multi-line Insurance
+0.00548694586497843,6,Financials,Property & Casualty Insurance
+0.00557249143024957,6,Consumer Discretionary,Apparel Retail
+0.00570804215057492,13,Information Technology,Semiconductors
+0.00606598432219,2,Consumer Discretionary,Automobile Manufacturers
+0.00702056968960873,2,Consumer Staples,Drug Retail
+0.00841256647115903,14,Financials,Banks
+0.00846878541550942,4,Financials,Investment Banking & Brokerage
+0.00886459694880948,8,Consumer Discretionary,Specialty Stores
+0.00917568582259012,2,Financials,Regional Banks
+0.00948178463677296,4,Consumer Discretionary,General Merchandise Stores
+0.0100906986422035,2,Consumer Discretionary,Department Stores
+0.0110556572069326,6,Financials,Consumer Finance
+0.0130765342935722,2,Consumer Staples,Food Retail
+0.0691105581960045,11,Financials,Diversified Financial Services

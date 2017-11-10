@@ -1,0 +1,455 @@
+company_name,symbol,slope_diff,city,county,state,pct_lead,winner,sector,sub_industry
+3M Company,MMM,-0.0021,Saint Paul,Washington,Minnesota,0.1676,Clinton,Industrials,Industrial Conglomerates
+AES Corp,AES,-0.0209,Arlington,Arlington,Virginia,0.601,Clinton,Utilities,Independent Power Producers & Energy Traders
+AFLAC Inc,AFL,-0.0026,Columbus,Muscogee,Georgia,0.186,Clinton,Financials,Life & Health Insurance
+AT&T Inc,T,-0.0052,Dallas,Dallas,Texas,0.1075,Clinton,Telecommunications Services,Integrated Telecommunications Services
+AbbVie,ABBV,-0.0073,North Chicago,Lake,Illinois,0.203,Clinton,Health Care,Pharmaceuticals
+Abbott Laboratories,ABT,-0.0091,North Chicago,Lake,Illinois,0.203,Clinton,Health Care,Health Care Equipment
+Activision Blizzard,ATVI,0.0033,Santa Monica,Los Angeles,California,0.4805,Clinton,Information Technology,Home Entertainment Software
+Acuity Brands Inc,AYI,-0.0006,Atlanta,Fulton,Georgia,0.1495,Clinton,Industrials,Electrical Components & Equipment
+Adobe Systems Inc,ADBE,-0.0094,San Jose,Santa Clara,California,0.5238,Clinton,Information Technology,Application Software
+Advance Auto Parts,AAP,0.0157,Roanoke,Roanoke (city),Virginia,0.1763,Clinton,Consumer Discretionary,Automotive Retail
+Aetna Inc,AET,-0.0016,Hartford,Hartford,Connecticut,0.2151,Clinton,Health Care,Managed Health Care
+Affiliated Managers Group Inc,AMG,0.0005,Beverly,Essex,Massachusetts,0.2141,Clinton,Financials,Asset Management & Custody Banks
+Agilent Technologies Inc,A,-0.0129,Santa Clara,Santa Clara,California,0.5238,Clinton,Health Care,Health Care Equipment
+Air Products & Chemicals Inc,APD,-0.0048,Allentown,Lehigh,Pennsylvania,0.0444,Clinton,Materials,Industrial Gases
+Akamai Technologies Inc,AKAM,-0.0009,Cambridge,Middlesex,Massachusetts,0.0513,Clinton,Information Technology,Internet Software & Services
+Alaska Air Group Inc,ALK,0.0048,Seattle,King,Washington,0.5052,Clinton,Industrials,Airlines
+Albemarle Corp,ALB,-0.0072,Baton Rouge,East Baton Rouge Parish,Louisiana,0.0921,Clinton,Materials,Specialty Chemicals
+Alexion Pharmaceuticals,ALXN,-0.0026,Cheshire,New Haven,Connecticut,0.1203,Clinton,Health Care,Biotechnology
+Alliance Data Systems,ADS,0.0003,Plano,Collin,Texas,0.1698,Trump,Information Technology,Data Processing & Outsourced Services
+Alliant Energy Corp,LNT,-0.0087,Madison,Dane,Wisconsin,0.4799,Clinton,Utilities,Electric Utilities
+Alphabet Inc Class A,GOOGL,-0.012,Mountain View,Santa Clara,California,0.5238,Clinton,Information Technology,Internet Software & Services
+Alphabet Inc Class C,GOOG,-0.0115,Mountain View,Santa Clara,California,0.5238,Clinton,Information Technology,Internet Software & Services
+Altria Group Inc,MO,-0.006,Richmond,Henrico,Virginia,0.2096,Clinton,Consumer Staples,Tobacco
+Amazon.com Inc,AMZN,-0.0111,Seattle,King,Washington,0.5052,Clinton,Consumer Discretionary,Internet & Direct Marketing Retail
+American Airlines Group,AAL,-0.0004,Fort Worth,Tarrant,Texas,0.087,Trump,Industrials,Airlines
+American Electric Power,AEP,-0.0058,Columbus,Franklin,Ohio,0.1909,Clinton,Utilities,Electric Utilities
+American Express Co,AXP,0.004,New York,Rockland,New York,0.0509,Clinton,Financials,Consumer Finance
+American International Group Inc.,AIG,0.0092,New York,Rockland,New York,0.0509,Clinton,Financials,Property & Casualty Insurance
+American Tower Corp A,AMT,-0.0126,Boston,Suffolk,Massachusetts,0.2699,Clinton,Real Estate,Specialized REITs
+American Water Works Company Inc,AWK,0.0,Voorhees,Camden,New Jersey,0.1079,Clinton,Utilities,Water Utilities
+Ameriprise Financial,AMP,0.0091,Minneapolis,Hennepin,Minnesota,0.3531,Clinton,Financials,Asset Management & Custody Banks
+Ametek,AME,-0.0012,Berwyn,Chester,Pennsylvania,0.2633,Clinton,Industrials,Electrical Components & Equipment
+Amgen Inc,AMGN,-0.0032,Thousand Oaks,Ventura,California,0.1609,Clinton,Health Care,Biotechnology
+Amphenol Corp A,APH,-0.0046,Wallingford,New Haven,Connecticut,0.1203,Clinton,Industrials,Electrical Components & Equipment
+Analog Devices Inc.,ADI,0.0053,Norwood,Norfolk,Massachusetts,0.2794,Clinton,Information Technology,Semiconductors
+Anthem Inc.,ANTM,0.006,Indianapolis,Marion,Indiana,0.2737,Clinton,Health Care,Managed Health Care
+Apache Corporation,APA,0.012,Houston,Harris,Texas,0.1857,Clinton,Energy,Oil & Gas Exploration & Production
+Apartment Investment & Mgmt,AIV,-0.0097,Denver,Jefferson,Colorado,0.0523,Clinton,Real Estate,REITs
+Apple Inc.,AAPL,-0.0046,Cupertino,Santa Clara,California,0.5238,Clinton,Information Technology,Computer Hardware
+Applied Materials Inc,AMAT,-0.0017,Santa Clara,Santa Clara,California,0.5238,Clinton,Information Technology,Semiconductor Equipment
+Archer-Daniels-Midland Co,ADM,-0.0132,Decatur,Macon,Illinois,0.0085,Clinton,Consumer Staples,Agricultural Products
+Arconic Inc,ARNC,0.0193,New York,Rockland,New York,0.0509,Clinton,Industrials,Aerospace & Defense
+Arthur J. Gallagher & Co.,AJG,-0.0002,Itasca,DuPage,Illinois,0.1408,Clinton,Financials,Insurance Brokers
+Assurant Inc,AIZ,0.0055,New York,Rockland,New York,0.0509,Clinton,Financials,Multi-line Insurance
+AutoNation Inc,AN,0.0173,Fort Lauderdale,Broward,Florida,0.3505,Clinton,Consumer Discretionary,Specialty Stores
+AutoZone Inc,AZO,0.001,Memphis,Shelby,Tennessee,0.1678,Clinton,Consumer Discretionary,Specialty Stores
+Autodesk Inc,ADSK,-0.0062,San Rafael,Marin,California,0.6276,Clinton,Information Technology,Application Software
+Automatic Data Processing,ADP,-0.0001,Roseland,Essex,New Jersey,0.2141,Clinton,Information Technology,Internet Software & Services
+AvalonBay Communities Inc.,AVB,-0.0032,Arlington,Arlington,Virginia,0.601,Clinton,Real Estate,Residential REITs
+Avery Dennison Corp,AVY,-0.0047,Glendale,Los Angeles,California,0.4805,Clinton,Materials,Paper Packaging
+BB&T Corporation,BBT,0.0069,Winston Salem,Forsyth,North Carolina,0.1812,Clinton,Financials,Banks
+BIOGEN IDEC Inc.,BIIB,-0.0107,Weston,Middlesex,Massachusetts,0.0513,Clinton,Health Care,Biotechnology
+Baker Hughes Inc,BHI,-0.0102,Houston,Harris,Texas,0.1857,Clinton,Energy,Oil & Gas Equipment & Services
+Ball Corp,BLL,-0.0068,Broomfield,Jefferson,Colorado,0.0523,Clinton,Materials,Metal & Glass Containers
+Bank of America Corp,BAC,0.0122,Charlotte,Robeson,North Carolina,0.0486,Trump,Financials,Banks
+Baxter International Inc.,BAX,-0.0098,Deerfield,Lake,Illinois,0.203,Clinton,Health Care,Health Care Equipment
+Becton Dickinson,BDX,-0.0213,Franklin Lakes,Bergen,New Jersey,0.1199,Clinton,Health Care,Health Care Equipment
+Bed Bath & Beyond,BBBY,0.0123,Union,Union,New Jersey,0.1553,Clinton,Consumer Discretionary,Specialty Stores
+Berkshire Hathaway,BRK-B,0.0012,Omaha,Sarpy,Nebraska,0.2178,Trump,Financials,Multi-Sector Holdings
+BlackRock,BLK,-0.0056,New York,Rockland,New York,0.0509,Clinton,Financials,Asset Management & Custody Banks
+Block H&R,HRB,0.0188,Kansas City,Platte,Missouri,0.3679,Trump,Financials,Consumer Finance
+Boeing Company,BA,0.0014,Chicago,Cook,Illinois,0.0523,Clinton,Industrials,Aerospace & Defense
+BorgWarner,BWA,-0.0042,Auburn Hills,Oakland,Michigan,0.0812,Clinton,Consumer Discretionary,Auto Parts & Equipment
+Boston Properties,BXP,0.0025,Boston,Suffolk,Massachusetts,0.2699,Clinton,Real Estate,REITs
+Boston Scientific,BSX,-0.0122,Marlborough,Middlesex,Massachusetts,0.0513,Clinton,Health Care,Health Care Equipment
+Bristol-Myers Squibb,BMY,-0.0074,New York,Rockland,New York,0.0509,Clinton,Health Care,Health Care Distributors
+Broadcom,AVGO,-0.0109,San Jose,Santa Clara,California,0.5238,Clinton,Information Technology,Semiconductors
+Brown-Forman Corporation,BF-B,-0.0039,Louisville,Jefferson,Kentucky,0.0523,Clinton,Consumer Staples,Distillers & Vintners
+C. H. Robinson Worldwide,CHRW,0.0007,Eden Prairie,Hennepin,Minnesota,0.3531,Clinton,Industrials,Air Freight & Logistics
+CA Inc.,CA,-0.0058,Islandia,Suffolk,New York,0.2699,Clinton,Information Technology,Systems Software
+CBRE Group,CBG,-0.001,Los Angeles,Los Angeles,California,0.4805,Clinton,Real Estate,Real Estate Services
+CBS Corp.,CBS,-0.0025,New York,Rockland,New York,0.0509,Clinton,Consumer Discretionary,Broadcasting & Cable TV
+CF Industries Holdings Inc,CF,0.0089,Deerfield,Lake,Illinois,0.203,Clinton,Materials,Fertilizers & Agricultural Chemicals
+CIGNA Corp.,CI,-0.0117,Philadelphia,Philadelphia,Pennsylvania,0.6691,Clinton,Health Care,Managed Health Care
+CME Group Inc.,CME,-0.0023,Chicago,Cook,Illinois,0.0523,Clinton,Financials,Financial Exchanges & Data
+CMS Energy,CMS,-0.0047,Jackson,Jackson,Michigan,0.3321,Clinton,Utilities,MultiUtilities
+CSRA Inc.,CSRA,0.0152,Falls Church,Falls Church (city),Virginia,0.5852,Clinton,Information Technology,IT Consulting & Other Services
+CSX Corp.,CSX,-0.003,Jacksonville,Duval,Florida,0.1792,Clinton,Industrials,Railroads
+CVS Health,CVS,0.0091,Woonsocket,Providence,Rhode Island,0.2117,Clinton,Consumer Staples,Drug Retail
+Cabot Oil & Gas,COG,0.0003,Houston,Harris,Texas,0.1857,Clinton,Energy,Oil & Gas Exploration & Production
+Campbell Soup,CPB,-0.0054,Camden,Camden,New Jersey,0.1079,Clinton,Consumer Staples,Packaged Foods & Meats
+Cardinal Health Inc.,CAH,0.0091,Dublin,Franklin,Ohio,0.1909,Clinton,Health Care,Health Care Distributors
+Carmax Inc,KMX,0.0142,Richmond,Henrico,Virginia,0.2096,Clinton,Consumer Discretionary,Specialty Stores
+Carnival Corp.,CCL,0.0006,Miami,Putnam,Florida,0.4336,Trump,Consumer Discretionary,Hotels / Resorts & Cruise Lines
+Caterpillar Inc.,CAT,-0.0018,Peoria,Peoria,Illinois,0.0276,Clinton,Industrials,Construction & Farm Machinery & Heavy Trucks
+Celgene Corp.,CELG,-0.0077,Summit,Union,New Jersey,0.1553,Clinton,Health Care,Biotechnology
+CenterPoint Energy,CNP,-0.0115,Houston,Harris,Texas,0.1857,Clinton,Utilities,MultiUtilities
+CenturyLink Inc,CTL,0.0027,Monroe,Ouachita Parish,Louisiana,0.2543,Trump,Telecommunications Services,Integrated Telecommunications Services
+Charles Schwab Corporation,SCHW,0.0081,San Francisco,San Mateo,California,0.5721,Clinton,Financials,Investment Banking & Brokerage
+Charter Communications,CHTR,-0.0119,Stamford,Fairfield,Connecticut,0.0045,Clinton,Consumer Discretionary,Cable & Satellite
+Chesapeake Energy,CHK,0.0005,Oklahoma City,Oklahoma,Oklahoma,0.1051,Trump,Energy,Integrated Oil & Gas
+Chevron Corp.,CVX,-0.0023,San Ramon,Contra Costa,California,0.4291,Clinton,Energy,Integrated Oil & Gas
+Chipotle Mexican Grill,CMG,0.0094,Denver,Jefferson,Colorado,0.0523,Clinton,Consumer Discretionary,Restaurants
+Cimarex Energy,XEC,0.009,Denver,Jefferson,Colorado,0.0523,Clinton,Energy,Oil & Gas Exploration & Production
+Cincinnati Financial,CINF,0.0033,Fairfield,Butler,Ohio,0.3662,Trump,Financials,Property & Casualty Insurance
+Cintas Corporation,CTAS,-0.0016,Mason,Warren,Ohio,0.0803,Clinton,Industrials,Diversified Support Services
+Cisco Systems,CSCO,-0.0011,San Jose,Santa Clara,California,0.5238,Clinton,Information Technology,Networking Equipment
+Citigroup Inc.,C,0.0042,New York,Rockland,New York,0.0509,Clinton,Financials,Banks
+Citizens Financial Group,CFG,0.0075,Providence,Providence,Rhode Island,0.2117,Clinton,Financials,Banks
+Citrix Systems,CTXS,-0.0059,Fort Lauderdale,Broward,Florida,0.3505,Clinton,Information Technology,Internet Software & Services
+Coach Inc.,COH,0.0023,New York,Rockland,New York,0.0509,Clinton,Consumer Discretionary,Apparel / Accessories & Luxury Goods
+Coca Cola Company,KO,-0.0047,Atlanta,Fulton,Georgia,0.1495,Clinton,Consumer Staples,Soft Drinks
+Cognizant Technology Solutions,CTSH,-0.0082,Teaneck,Bergen,New Jersey,0.1199,Clinton,Information Technology,IT Consulting & Other Services
+Colgate-Palmolive,CL,-0.0072,New York,Rockland,New York,0.0509,Clinton,Consumer Staples,Household Products
+Comcast A Corp,CMCSA,0.0067,Philadelphia,Philadelphia,Pennsylvania,0.6691,Clinton,Consumer Discretionary,Cable & Satellite
+Comerica Inc.,CMA,0.009,Dallas,Dallas,Texas,0.1075,Clinton,Financials,Regional Banks
+ConAgra Foods Inc.,CAG,-0.0422,Omaha,Sarpy,Nebraska,0.2178,Trump,Consumer Staples,Packaged Foods & Meats
+Concho Resources,CXO,-0.0069,Midland,Midland,Texas,0.3874,Trump,Energy,Oil & Gas Exploration & Production
+ConocoPhillips,COP,-0.0055,Houston,Harris,Texas,0.1857,Clinton,Energy,Oil & Gas Exploration & Production
+Consolidated Edison,ED,-0.0068,New York,Rockland,New York,0.0509,Clinton,Utilities,Electric Utilities
+Constellation Brands,STZ,-0.0075,Victor,Ontario,New York,0.0862,Trump,Consumer Staples,Distillers & Vintners
+Corning Inc.,GLW,-0.0019,Corning,Steuben,New York,0.4047,Trump,Industrials,Construction & Engineering
+Costco Co.,COST,0.007,Issaquah,King,Washington,0.5052,Clinton,Consumer Staples,Hypermarkets & Super Centers
+Coty Inc,COTY,-0.0066,New York,Rockland,New York,0.0509,Clinton,Consumer Staples,Personal Products
+Crown Castle International Corp.,CCI,-0.0087,Houston,Harris,Texas,0.1857,Clinton,Real Estate,REITs
+Cummins Inc.,CMI,-0.0125,Columbus,Bartholomew,Indiana,0.3334,Trump,Industrials,Industrial Machinery
+D. R. Horton,DHI,0.0039,Fort Worth,Tarrant,Texas,0.087,Trump,Consumer Discretionary,Homebuilding
+DTE Energy Co.,DTE,-0.0038,Detroit,Wayne,Michigan,0.1937,Clinton,Utilities,MultiUtilities
+DaVita Inc.,DVA,0.0027,Denver,Jefferson,Colorado,0.0523,Clinton,Health Care,Health Care Facilities
+Danaher Corp.,DHR,-0.0059,Washington,District of Columbia,District of Columbia,0.8873,Clinton,Industrials,Industrial Machinery
+Darden Restaurants,DRI,0.007,Orlando,Orange,Florida,0.0589,Clinton,Consumer Discretionary,Restaurants
+Deere & Co.,DE,0.0008,Moline,Rock Island,Illinois,0.084,Clinton,Industrials,Construction & Farm Machinery & Heavy Trucks
+Delta Air Lines,DAL,-0.0016,Atlanta,Fulton,Georgia,0.1495,Clinton,Industrials,Airlines
+Dentsply Sirona,XRAY,-0.0097,York,York,Pennsylvania,0.2591,Clinton,Health Care,Health Care Supplies
+Devon Energy Corp.,DVN,-0.006,Oklahoma City,Oklahoma,Oklahoma,0.1051,Trump,Energy,Oil & Gas Exploration & Production
+Digital Realty Trust,DLR,-0.0119,San Francisco,San Mateo,California,0.5721,Clinton,Real Estate,Specialized REITs
+Discovery Communications-A,DISCA,0.0112,Silver Spring,Montgomery,Maryland,0.0016,Clinton,Consumer Discretionary,Cable & Satellite
+Discovery Communications-C,DISCK,0.0091,Silver Spring,Montgomery,Maryland,0.0016,Clinton,Consumer Discretionary,Cable & Satellite
+Dollar General,DG,0.0089,Goodlettsville,Davidson,Tennessee,0.1311,Clinton,Consumer Discretionary,General Merchandise Stores
+Dollar Tree,DLTR,0.0041,Chesapeake,Chesapeake (city),Virginia,0.0128,Trump,Consumer Discretionary,General Merchandise Stores
+Dominion Resources,D,-0.0068,Richmond,Henrico,Virginia,0.2096,Clinton,Utilities,Electric Utilities
+Dover Corp.,DOV,0.0007,Downers Grove,DuPage,Illinois,0.1408,Clinton,Industrials,Industrial Machinery
+Dow Chemical,DOW,-0.0024,Midland,Midland,Michigan,0.3874,Trump,Materials,Diversified Chemicals
+Dr Pepper Snapple Group,DPS,-0.0074,Plano,Collin,Texas,0.1698,Trump,Consumer Staples,Soft Drinks
+Du Pont (E.I.),DD,-0.0074,Wilmington,New Castle,Delaware,0.296,Clinton,Materials,Diversified Chemicals
+Duke Energy,DUK,-0.006,Charlotte,Robeson,North Carolina,0.0486,Trump,Utilities,Electric Utilities
+Dun & Bradstreet,DNB,0.0,Short Hills,Essex,New Jersey,0.2141,Clinton,Industrials,Data Processing Services
+E*Trade,ETFC,0.01,New York,Rockland,New York,0.0509,Clinton,Financials,Investment Banking & Brokerage
+EOG Resources,EOG,-0.0029,Houston,Harris,Texas,0.1857,Clinton,Energy,Oil & Gas Exploration & Production
+EQT Corporation,EQT,0.0049,Pittsburgh,Allegheny,Pennsylvania,0.1641,Clinton,Energy,Oil & Gas Exploration & Production
+Eastman Chemical,EMN,-0.0035,Kingsport,Sullivan,Tennessee,0.3,Trump,Materials,Diversified Chemicals
+Ecolab Inc.,ECL,-0.004,Saint Paul,Washington,Minnesota,0.1676,Clinton,Materials,Specialty Chemicals
+Edison Int'l,EIX,-0.0044,Rosemead,Los Angeles,California,0.4805,Clinton,Utilities,Electric Utilities
+Edwards Lifesciences,EW,-0.0143,Irvine,Orange,California,0.0589,Clinton,Health Care,Health Care Equipment
+Electronic Arts,EA,-0.0069,Redwood City,San Mateo,California,0.5721,Clinton,Information Technology,Home Entertainment Software
+Entergy Corp.,ETR,-0.0009,New Orleans,Orleans,Louisiana,0.2211,Clinton,Utilities,Electric Utilities
+Envision Healthcare Corp,EVHC,0.0057,Nashville,Davidson,Tennessee,0.1311,Clinton,Health Care,Health Care Services
+Equifax Inc.,EFX,-0.012,Atlanta,Fulton,Georgia,0.1495,Clinton,Financials,Diversified Financial Services
+Equinix,EQIX,-0.0102,Redwood City,San Mateo,California,0.5721,Clinton,Real Estate,REITs
+Equity Residential,EQR,-0.0062,Chicago,Cook,Illinois,0.0523,Clinton,Real Estate,REITs
+Essex Property Trust Inc.,ESS,-0.0033,Palo Alto,Santa Clara,California,0.5238,Clinton,Real Estate,Residential REITs
+Estee Lauder Cos.,EL,-0.003,New York,Rockland,New York,0.0509,Clinton,Consumer Staples,Personal Products
+Eversource Energy,ES,-0.0071,Springfield,Hampden,Massachusetts,0.1603,Clinton,Utilities,MultiUtilities
+Exelon Corp.,EXC,-0.0043,Chicago,Cook,Illinois,0.0523,Clinton,Utilities,MultiUtilities
+Expedia Inc.,EXPE,-0.0085,Bellevue,King,Washington,0.5052,Clinton,Consumer Discretionary,Internet & Direct Marketing Retail
+Expeditors Int'l,EXPD,0.0063,Seattle,King,Washington,0.5052,Clinton,Industrials,Air Freight & Logistics
+Extra Space Storage,EXR,-0.0119,Salt Lake City,Salt Lake,Utah,0.1251,Clinton,Real Estate,Specialized REITs
+Exxon Mobil Corp.,XOM,-0.0046,Irving,Dallas,Texas,0.1075,Clinton,Energy,Integrated Oil & Gas
+F5 Networks,FFIV,0.0026,Seattle,King,Washington,0.5052,Clinton,Information Technology,Networking Equipment
+FLIR Systems,FLIR,0.0101,Wilsonville,Clackamas,Oregon,0.0611,Clinton,Industrials,Aerospace & Defense
+FMC Corporation,FMC,-0.0227,Philadelphia,Philadelphia,Pennsylvania,0.6691,Clinton,Materials,Diversified Chemicals
+FMC Technologies Inc.,FTI,0.0021,Houston,Harris,Texas,0.1857,Clinton,Energy,Oil & Gas Equipment & Services
+Facebook,FB,-0.0072,Menlo Park,San Mateo,California,0.5721,Clinton,Information Technology,Internet Software & Services
+Fastenal Co,FAST,-0.0054,Winona,Winona,Minnesota,0.0292,Trump,Industrials,Building Products
+FedEx Corporation,FDX,-0.0041,Memphis,Shelby,Tennessee,0.1678,Clinton,Industrials,Air Freight & Logistics
+Federal Realty Investment Trust,FRT,-0.0032,Rockville,Montgomery,Maryland,0.0016,Clinton,Real Estate,Retail REITs
+Fidelity National Information Services,FIS,-0.0087,Jacksonville,Duval,Florida,0.1792,Clinton,Information Technology,Internet Software & Services
+Fifth Third Bancorp,FITB,0.0154,Cincinnati,Hamilton,Ohio,0.3213,Clinton,Financials,Banks
+First Solar Inc,FSLR,0.0341,Tempe,Maricopa,Arizona,0.0345,Trump,Information Technology,Semiconductors
+FirstEnergy Corp,FE,-0.0118,Akron,Summit,Ohio,0.1534,Clinton,Utilities,Electric Utilities
+Fiserv Inc,FISV,-0.001,Brookfield,Waukesha,Wisconsin,0.2807,Trump,Information Technology,Internet Software & Services
+Flowserve Corporation,FLS,0.0024,Irving,Dallas,Texas,0.1075,Clinton,Industrials,Industrial Machinery
+Fluor Corp.,FLR,0.0335,Irving,Dallas,Texas,0.1075,Clinton,Industrials,Diversified Commercial Services
+Foot Locker Inc,FL,-0.0004,New York,Rockland,New York,0.0509,Clinton,Consumer Discretionary,Apparel Retail
+Ford Motor,F,0.0041,Dearborn,Wayne,Michigan,0.1937,Clinton,Consumer Discretionary,Automobile Manufacturers
+Fortive Corp,FTV,-0.0052,Everett,Snohomish,Washington,0.1669,Clinton,Industrials,Industrial Machinery
+Fortune Brands Home & Security,FBHS,0.0006,Deerfield,Lake,Illinois,0.203,Clinton,Industrials,Building Products
+Franklin Resources,BEN,-0.003,San Mateo,San Mateo,California,0.5721,Clinton,Financials,Asset Management & Custody Banks
+Freeport-McMoran Cp & Gld,FCX,-0.0059,Phoenix,Maricopa,Arizona,0.0345,Trump,Materials,Copper
+Frontier Communications,FTR,0.0088,Stamford,Fairfield,Connecticut,0.0045,Clinton,Telecommunications Services,Integrated Telecommunications Services
+Gap (The),GPS,0.012,San Francisco,San Mateo,California,0.5721,Clinton,Consumer Discretionary,Apparel Retail
+General Dynamics,GD,0.0024,Falls Church,Falls Church (city),Virginia,0.5852,Clinton,Industrials,Aerospace & Defense
+General Electric,GE,-0.0008,Fairfield,Fairfield,Connecticut,0.0045,Clinton,Industrials,Industrial Conglomerates
+General Growth Properties Inc.,GGP,0.0022,Chicago,Cook,Illinois,0.0523,Clinton,Real Estate,REITs
+General Motors,GM,0.0081,Detroit,Wayne,Michigan,0.1937,Clinton,Consumer Discretionary,Automobile Manufacturers
+Genuine Parts,GPC,0.0085,Atlanta,Fulton,Georgia,0.1495,Clinton,Consumer Discretionary,Specialty Stores
+Global Payments Inc,GPN,-0.0172,Atlanta,Fulton,Georgia,0.1495,Clinton,Information Technology,Data Processing & Outsourced Services
+Goldman Sachs Group,GS,0.0086,New York,Rockland,New York,0.0509,Clinton,Financials,Investment Banking & Brokerage
+Goodyear Tire & Rubber,GT,0.0095,Akron,Summit,Ohio,0.1534,Clinton,Consumer Discretionary,Tires & Rubber
+Grainger (W.W.) Inc.,GWW,-0.0048,Lake Forest,Lake,Illinois,0.203,Clinton,Industrials,Industrial Materials
+HCA Holdings,HCA,-0.0128,Nashville,Davidson,Tennessee,0.1311,Clinton,Health Care,Health Care Facilities
+HCP Inc.,HCP,-0.0008,Long Beach,Los Angeles,California,0.4805,Clinton,Real Estate,REITs
+HP Inc.,HPQ,-0.0014,Palo Alto,Santa Clara,California,0.5238,Clinton,Information Technology,Computer Hardware
+Halliburton Co.,HAL,-0.0007,Houston,Harris,Texas,0.1857,Clinton,Energy,Oil & Gas Equipment & Services
+Hanesbrands Inc,HBI,0.0061,Winston Salem,Forsyth,North Carolina,0.1812,Clinton,Consumer Discretionary,Apparel / Accessories & Luxury Goods
+Harley-Davidson,HOG,-0.0039,Milwaukee,Milwaukee,Wisconsin,0.3745,Clinton,Consumer Discretionary,Motorcycle Manufacturers
+Harman Int'l Industries,HAR,0.027,Stamford,Fairfield,Connecticut,0.0045,Clinton,Consumer Discretionary,Consumer Electronics
+Harris Corporation,HRS,-0.0018,Melbourne,Brevard,Florida,0.1976,Trump,Information Technology,Telecommunications Equipment
+Hartford Financial Svc.Gp.,HIG,0.0056,Hartford,Hartford,Connecticut,0.2151,Clinton,Financials,Property & Casualty Insurance
+Hasbro Inc.,HAS,0.0016,Pawtucket,Providence,Rhode Island,0.2117,Clinton,Consumer Discretionary,Leisure Products
+Helmerich & Payne,HP,0.0041,Tulsa,Tulsa,Oklahoma,0.2285,Trump,Energy,Oil & Gas Drilling
+Henry Schein,HSIC,-0.0002,Melville,Suffolk,New York,0.2699,Clinton,Health Care,Health Care Distributors
+Hess Corporation,HES,-0.0012,New York,Rockland,New York,0.0509,Clinton,Energy,Integrated Oil & Gas
+Hewlett Packard Enterprise,HPE,-0.0076,Palo Alto,Santa Clara,California,0.5238,Clinton,Information Technology,Technology Hardware / Storage & Peripherals
+Hologic,HOLX,-0.0149,Marlborough,Middlesex,Massachusetts,0.0513,Clinton,Health Care,Health Care Equipment
+Home Depot,HD,-0.007,Atlanta,Fulton,Georgia,0.1495,Clinton,Consumer Discretionary,Home Improvement Retail
+Honeywell Int'l Inc.,HON,-0.0029,Morristown,Morris,New Jersey,0.2371,Trump,Industrials,Industrial Conglomerates
+Hormel Foods Corp.,HRL,-0.0034,Austin,Mower,Minnesota,0.0785,Trump,Consumer Staples,Packaged Foods & Meats
+Host Hotels & Resorts,HST,0.0039,Bethesda,Montgomery,Maryland,0.0016,Clinton,Real Estate,REITs
+Humana Inc.,HUM,0.0003,Louisville,Jefferson,Kentucky,0.0523,Clinton,Health Care,Managed Health Care
+Huntington Bancshares,HBAN,0.0122,Columbus,Franklin,Ohio,0.1909,Clinton,Financials,Banks
+Illinois Tool Works,ITW,-0.0019,Glenview,Cook,Illinois,0.0523,Clinton,Industrials,Industrial Machinery
+Illumina Inc,ILMN,-0.0005,San Diego,San Diego,California,0.1703,Clinton,Health Care,Life Sciences Tools & Services
+Intel Corp.,INTC,-0.0009,Santa Clara,Santa Clara,California,0.5238,Clinton,Information Technology,Semiconductors
+Intercontinental Exchange,ICE,0.7657,Atlanta,Fulton,Georgia,0.1495,Clinton,Financials,Diversified Financial Services
+International Bus. Machines,IBM,-0.0012,Armonk,Westchester,New York,0.3277,Clinton,Information Technology,IT Consulting & Other Services
+International Paper,IP,0.004,Memphis,Shelby,Tennessee,0.1678,Clinton,Materials,Paper Packaging
+Interpublic Group,IPG,0.0024,New York,Rockland,New York,0.0509,Clinton,Consumer Discretionary,Advertising
+Intl Flavors & Fragrances,IFF,-0.0032,New York,Rockland,New York,0.0509,Clinton,Materials,Specialty Chemicals
+Intuit Inc.,INTU,-0.0008,Mountain View,Santa Clara,California,0.5238,Clinton,Information Technology,Internet Software & Services
+Intuitive Surgical Inc.,ISRG,-0.0076,Sunnyvale,Santa Clara,California,0.5238,Clinton,Health Care,Health Care Equipment
+Invesco Ltd.,IVZ,0.006,Atlanta,Fulton,Georgia,0.1495,Clinton,Financials,Asset Management & Custody Banks
+Iron Mountain Incorporated,IRM,-0.0113,Boston,Suffolk,Massachusetts,0.2699,Clinton,Real Estate,REITs
+J. B. Hunt Transport Services,JBHT,0.004,Lowell,Benton,Arkansas,0.1287,Clinton,Industrials,Trucking
+JM Smucker,SJM,-0.0037,Orrville,Wayne,Ohio,0.1937,Clinton,Consumer Staples,Packaged Foods & Meats
+JPMorgan Chase & Co.,JPM,0.0084,New York,Rockland,New York,0.0509,Clinton,Financials,Banks
+Jacobs Engineering Group,JEC,0.0144,Pasadena,Los Angeles,California,0.4805,Clinton,Industrials,Industrial Conglomerates
+Johnson & Johnson,JNJ,-0.0086,New Brunswick,Middlesex,New Jersey,0.0513,Clinton,Health Care,Health Care Equipment
+Johnson Controls,JCI,-0.0076,Milwaukee,Milwaukee,Wisconsin,0.3745,Clinton,Consumer Discretionary,Building Products
+Juniper Networks,JNPR,0.0028,Sunnyvale,Santa Clara,California,0.5238,Clinton,Information Technology,Networking Equipment
+KLA-Tencor Corp.,KLAC,0.0023,Milpitas,Santa Clara,California,0.5238,Clinton,Information Technology,Semiconductor Equipment
+Kansas City Southern,KSU,-0.0025,Kansas City,Platte,Missouri,0.3679,Trump,Industrials,Railroads
+Kellogg Co.,K,-0.0059,Battle Creek,Calhoun,Michigan,0.1946,Clinton,Consumer Staples,Packaged Foods & Meats
+KeyCorp,KEY,0.0115,Cleveland,Cuyahoga,Ohio,0.35,Clinton,Financials,Banks
+Kimberly-Clark,KMB,-0.0027,Irving,Dallas,Texas,0.1075,Clinton,Consumer Staples,Household Products
+Kimco Realty,KIM,-0.0006,New Hyde Park,Nassau,New York,0.2229,Clinton,Real Estate,REITs
+Kinder Morgan,KMI,-0.0045,Houston,Harris,Texas,0.1857,Clinton,Energy,Oil & Gas Refining & Marketing & Transportation
+Kohl's Corp.,KSS,0.0175,Menomonee Falls,Waukesha,Wisconsin,0.2807,Trump,Consumer Discretionary,General Merchandise Stores
+Kraft Heinz Co,KHC,-0.0056,Pittsburgh,Allegheny,Pennsylvania,0.1641,Clinton,Consumer Staples,Packaged Foods & Meats
+Kroger Co.,KR,0.016,Cincinnati,Hamilton,Ohio,0.3213,Clinton,Consumer Staples,Food Retail
+L Brands Inc.,LB,0.0066,Columbus,Franklin,Ohio,0.1909,Clinton,Consumer Discretionary,Apparel Retail
+L-3 Communications Holdings,LLL,0.0003,New York,Rockland,New York,0.0509,Clinton,Industrials,Industrial Conglomerates
+LKQ Corporation,LKQ,0.0025,Chicago,Cook,Illinois,0.0523,Clinton,Consumer Discretionary,Distributors
+Laboratory Corp. of America Holding,LH,0.0027,Burlington,Alamance,North Carolina,0.1294,Trump,Health Care,Health Care Facilities
+Lam Research,LRCX,-0.0003,Fremont,Alameda,California,0.6443,Clinton,Information Technology,Semiconductor Equipment
+Leggett & Platt,LEG,0.0033,Carthage,Jasper,Missouri,0.2444,Clinton,Industrials,Industrial Conglomerates
+Lennar Corp.,LEN,-0.0003,Miami,Putnam,Florida,0.4336,Trump,Consumer Discretionary,Homebuilding
+Leucadia National Corp.,LUK,0.0053,New York,Rockland,New York,0.0509,Clinton,Financials,Multi-Sector Holdings
+Level 3 Communications,LVLT,-0.0009,Broomfield,Jefferson,Colorado,0.0523,Clinton,Telecommunications Services,Alternative Carriers
+Lilly (Eli) & Co.,LLY,-0.0063,Indianapolis,Marion,Indiana,0.2737,Clinton,Health Care,Pharmaceuticals
+Linear Technology Corp.,LLTC,0.0027,Milpitas,Santa Clara,California,0.5238,Clinton,Information Technology,Semiconductors
+Lockheed Martin Corp.,LMT,0.0107,Bethesda,Montgomery,Maryland,0.0016,Clinton,Industrials,Aerospace & Defense
+Loews Corp.,L,0.0012,New York,Rockland,New York,0.0509,Clinton,Financials,Multi-Sector Holdings
+Lowe's Cos.,LOW,0.002,Mooresville,Iredell,North Carolina,0.3682,Trump,Consumer Discretionary,Home Improvement Retail
+M&T Bank Corp.,MTB,0.005,Buffalo,Erie,New York,0.0243,Clinton,Financials,Banks
+Macerich,MAC,0.003,Santa Monica,Los Angeles,California,0.4805,Clinton,Real Estate,Retail REITs
+Macy's Inc.,M,0.0068,Cincinnati,Hamilton,Ohio,0.3213,Clinton,Consumer Discretionary,Department Stores
+Marathon Oil Corp.,MRO,-0.0059,Houston,Harris,Texas,0.1857,Clinton,Energy,Oil & Gas Exploration & Production
+Marathon Petroleum,MPC,-0.0038,Findlay,Hancock,Ohio,0.0719,Clinton,Energy,Oil & Gas Refining & Marketing & Transportation
+Marriott Int'l.,MAR,-0.0001,Bethesda,Montgomery,Maryland,0.0016,Clinton,Consumer Discretionary,Hotels / Resorts & Cruise Lines
+Marsh & McLennan,MMC,-0.0042,New York,Rockland,New York,0.0509,Clinton,Financials,Insurance Brokers
+Martin Marietta Materials,MLM,-0.0073,Raleigh,Wake,North Carolina,0.205,Clinton,Materials,Construction Materials
+Masco Corp.,MAS,-0.0017,Taylor,Wayne,Michigan,0.1937,Clinton,Industrials,Building Products
+Mastercard Inc.,MA,-0.0091,Harrison,Westchester,New York,0.3277,Clinton,Information Technology,Internet Software & Services
+Mattel Inc.,MAT,0.0036,El Segundo,Los Angeles,California,0.4805,Clinton,Consumer Discretionary,Leisure Products
+McDonald's Corp.,MCD,0.0028,Oak Brook,DuPage,Illinois,0.1408,Clinton,Consumer Discretionary,Restaurants
+McKesson Corp.,MCK,0.0007,San Francisco,San Mateo,California,0.5721,Clinton,Health Care,Health Care Distributors
+Mead Johnson,MJN,-0.0032,Glenview,Cook,Illinois,0.0523,Clinton,Consumer Staples,Packaged Foods & Meats
+Merck & Co.,MRK,-0.0072,Whitehouse Station,Hunterdon,New Jersey,0.1384,Trump,Health Care,Pharmaceuticals
+MetLife Inc.,MET,0.0036,New York,Rockland,New York,0.0509,Clinton,Financials,Life & Health Insurance
+Mettler Toledo,MTD,-0.0145,Columbus,Franklin,Ohio,0.1909,Clinton,Health Care,Life Sciences Tools & Services
+Michael Kors Holdings,KORS,-0.019,New York,Rockland,New York,0.0509,Clinton,Consumer Discretionary,Apparel / Accessories & Luxury Goods
+Microchip Technology,MCHP,-0.007,Chandler,Maricopa,Arizona,0.0345,Trump,Information Technology,Semiconductors
+Micron Technology,MU,0.0017,Boise,Ada,Idaho,0.0924,Trump,Information Technology,Semiconductors
+Microsoft Corp.,MSFT,-0.0061,Redmond,King,Washington,0.5052,Clinton,Information Technology,Systems Software
+Mid-America Apartments,MAA,-0.0074,Memphis,Shelby,Tennessee,0.1678,Clinton,Real Estate,Residential REITs
+Mohawk Industries,MHK,-0.0189,Amsterdam,Montgomery,New York,0.0016,Clinton,Consumer Discretionary,Home Furnishings
+Molson Coors Brewing Company,TAP,-0.012,Denver,Jefferson,Colorado,0.0523,Clinton,Consumer Staples,Brewers
+Monster Beverage,MNST,-0.231,Corona,Riverside,California,0.0255,Clinton,Consumer Staples,Soft Drinks
+Moody's Corp,MCO,-0.0043,New York,Rockland,New York,0.0509,Clinton,Financials,Diversified Financial Services
+Morgan Stanley,MS,0.0072,New York,Rockland,New York,0.0509,Clinton,Financials,Investment Banking & Brokerage
+Motorola Solutions Inc.,MSI,-0.0106,Schaumburg,Cook,Illinois,0.0523,Clinton,Information Technology,Telecommunications Equipment
+Murphy Oil,MUR,0.0055,El Dorado,Union,Arkansas,0.1553,Clinton,Energy,Integrated Oil & Gas
+NASDAQ OMX Group,NDAQ,-0.011,New York,Rockland,New York,0.0509,Clinton,Financials,Diversified Financial Services
+NRG Energy,NRG,-0.027,Princeton,Mercer,New Jersey,0.1509,Clinton,Utilities,Independent Power Producers & Energy Traders
+National Oilwell Varco Inc.,NOV,0.0103,Houston,Harris,Texas,0.1857,Clinton,Energy,Oil & Gas Equipment & Services
+Navient,NAVI,0.0115,Newark,New Castle,Delaware,0.296,Clinton,Financials,Consumer Finance
+NetApp,NTAP,0.0105,Sunnyvale,Santa Clara,California,0.5238,Clinton,Information Technology,Internet Software & Services
+Netflix Inc.,NFLX,-0.0134,Los Gatos,Santa Clara,California,0.5238,Clinton,Information Technology,Internet Software & Services
+Newfield Exploration Co,NFX,0.0093,Houston,Harris,Texas,0.1857,Clinton,Energy,Oil & Gas Exploration & Production
+Newmont Mining Corp. (Hldg. Co.),NEM,-0.0119,Denver,Jefferson,Colorado,0.0523,Clinton,Materials,Gold
+News Corp. Class A,NWSA,0.0012,New York,Rockland,New York,0.0509,Clinton,Consumer Discretionary,Publishing
+News Corp. Class B,NWS,-0.0011,New York,Rockland,New York,0.0509,Clinton,Consumer Discretionary,Publishing
+NiSource Inc.,NI,-0.0048,Merrillville,Lake,Indiana,0.203,Clinton,Utilities,MultiUtilities
+Nielsen Holdings,NLSN,-0.0078,New York,Rockland,New York,0.0509,Clinton,Industrials,Research & Consulting Services
+Noble Energy Inc,NBL,-0.0054,Houston,Harris,Texas,0.1857,Clinton,Energy,Oil & Gas Exploration & Production
+Nordstrom,JWN,0.0134,Seattle,King,Washington,0.5052,Clinton,Consumer Discretionary,Department Stores
+Norfolk Southern Corp.,NSC,0.0024,Norfolk,Norfolk (city),Virginia,0.4198,Clinton,Industrials,Railroads
+Northern Trust Corp.,NTRS,0.0078,Chicago,Cook,Illinois,0.0523,Clinton,Financials,Asset Management & Custody Banks
+Nucor Corp.,NUE,-0.0038,Charlotte,Robeson,North Carolina,0.0486,Trump,Materials,Steel
+Nvidia Corporation,NVDA,0.0334,Santa Clara,Santa Clara,California,0.5238,Clinton,Information Technology,Semiconductors
+O'Reilly Automotive,ORLY,0.0033,Springfield,Greene,Missouri,0.0147,Clinton,Consumer Discretionary,Specialty Stores
+ONEOK,OKE,-0.0097,Tulsa,Tulsa,Oklahoma,0.2285,Trump,Energy,Oil & Gas Exploration & Production
+Occidental Petroleum,OXY,0.0039,Los Angeles,Los Angeles,California,0.4805,Clinton,Energy,Oil & Gas Exploration & Production
+Omnicom Group,OMC,0.0022,New York,Rockland,New York,0.0509,Clinton,Consumer Discretionary,Advertising
+PACCAR Inc.,PCAR,0.0001,Bellevue,King,Washington,0.5052,Clinton,Industrials,Construction & Farm Machinery & Heavy Trucks
+PG&E Corp.,PCG,-0.0051,San Francisco,San Mateo,California,0.5721,Clinton,Utilities,MultiUtilities
+PNC Financial Services,PNC,0.0065,Pittsburgh,Allegheny,Pennsylvania,0.1641,Clinton,Financials,Banks
+PPG Industries,PPG,-0.0043,Pittsburgh,Allegheny,Pennsylvania,0.1641,Clinton,Materials,Diversified Chemicals
+PPL Corp.,PPL,-0.0053,Allentown,Lehigh,Pennsylvania,0.0444,Clinton,Utilities,Electric Utilities
+PVH Corp.,PVH,-0.0052,New York,Rockland,New York,0.0509,Clinton,Consumer Discretionary,Apparel / Accessories & Luxury Goods
+Parker-Hannifin,PH,-0.0002,Cleveland,Cuyahoga,Ohio,0.35,Clinton,Industrials,Industrial Conglomerates
+Patterson Companies,PDCO,-0.0018,Saint Paul,Washington,Minnesota,0.1676,Clinton,Health Care,Health Care Supplies
+PayPal,PYPL,-0.0101,San Jose,Santa Clara,California,0.5238,Clinton,Information Technology,Data Processing & Outsourced Services
+Paychex Inc.,PAYX,0.0016,Penfield,Monroe,New York,0.2639,Clinton,Information Technology,Internet Software & Services
+People's United Financial,PBCT,0.0045,Bridgeport,Fairfield,Connecticut,0.0045,Clinton,Financials,Thrifts & Mortgage Finance
+PepsiCo Inc.,PEP,-0.0094,Purchase,Westchester,New York,0.3277,Clinton,Consumer Staples,Soft Drinks
+PerkinElmer,PKI,-0.0053,Waltham,Middlesex,Massachusetts,0.0513,Clinton,Health Care,Health Care Equipment
+Pfizer Inc.,PFE,-0.0009,New York,Rockland,New York,0.0509,Clinton,Health Care,Pharmaceuticals
+Philip Morris International,PM,-0.0146,New York,Rockland,New York,0.0509,Clinton,Consumer Staples,Tobacco
+Phillips 66,PSX,-0.001,Houston,Harris,Texas,0.1857,Clinton,Energy,Oil & Gas Refining & Marketing & Transportation
+Pinnacle West Capital,PNW,-0.002,Phoenix,Maricopa,Arizona,0.0345,Trump,Utilities,MultiUtilities
+Pioneer Natural Resources,PXD,-0.0048,Irving,Dallas,Texas,0.1075,Clinton,Energy,Oil & Gas Exploration & Production
+Pitney-Bowes,PBI,0.001,Stamford,Fairfield,Connecticut,0.0045,Clinton,Industrials,Technology / Hardware / Software and Supplies
+Polo Ralph Lauren Corp.,RL,0.0115,New York,Rockland,New York,0.0509,Clinton,Consumer Discretionary,Apparel / Accessories & Luxury Goods
+Praxair Inc.,PX,-0.0078,Danbury,Fairfield,Connecticut,0.0045,Clinton,Materials,Industrial Gases
+Priceline.com Inc,PCLN,-0.0192,Norwalk,Fairfield,Connecticut,0.0045,Clinton,Consumer Discretionary,Internet & Direct Marketing Retail
+Principal Financial Group,PFG,-0.0005,Des Moines,Polk,Iowa,0.2802,Clinton,Financials,Diversified Financial Services
+Procter & Gamble,PG,-0.0035,Cincinnati,Hamilton,Ohio,0.3213,Clinton,Consumer Staples,Personal Products
+Prologis,PLD,-0.0055,San Francisco,San Mateo,California,0.5721,Clinton,Real Estate,REITs
+Prudential Financial,PRU,0.0,Newark,Essex,New Jersey,0.2141,Clinton,Financials,Diversified Financial Services
+Public Serv. Enterprise Inc.,PEG,-0.0035,Newark,Essex,New Jersey,0.2141,Clinton,Utilities,Electric Utilities
+Public Storage,PSA,-0.0105,Glendale,Los Angeles,California,0.4805,Clinton,Real Estate,REITs
+Pulte Homes Inc.,PHM,0.001,Atlanta,Fulton,Georgia,0.1495,Clinton,Consumer Discretionary,Homebuilding
+QUALCOMM Inc.,QCOM,-0.0055,San Diego,San Diego,California,0.1703,Clinton,Information Technology,Semiconductors
+Qorvo,QRVO,0.0278,Greensboro,Guilford,North Carolina,0.2003,Clinton,Information Technology,Semiconductors
+Quanta Services Inc.,PWR,0.0067,Houston,Harris,Texas,0.1857,Clinton,Industrials,Industrial Conglomerates
+Quest Diagnostics,DGX,0.0048,Madison,Morris,New Jersey,0.2371,Trump,Health Care,Health Care Facilities
+Range Resources Corp.,RRC,0.0024,Fort Worth,Tarrant,Texas,0.087,Trump,Energy,Oil & Gas Exploration & Production
+Raytheon Co.,RTN,0.0002,Waltham,Middlesex,Massachusetts,0.0513,Clinton,Industrials,Aerospace & Defense
+Realty Income Corporation,O,-0.0055,San Diego,San Diego,California,0.1703,Clinton,Real Estate,REITs
+Red Hat Inc.,RHT,-0.0053,Raleigh,Wake,North Carolina,0.205,Clinton,Information Technology,Systems Software
+Regeneron,REGN,-0.0048,Tarrytown,Westchester,New York,0.3277,Clinton,Health Care,Biotechnology
+Regions Financial Corp.,RF,0.0166,Birmingham,Shelby,Alabama,0.1678,Clinton,Financials,Diversified Financial Services
+Republic Services Inc,RSG,0.0027,Phoenix,Maricopa,Arizona,0.0345,Trump,Industrials,Industrial Conglomerates
+Reynolds American Inc.,RAI,-0.0033,Winston Salem,Forsyth,North Carolina,0.1812,Clinton,Consumer Staples,Tobacco
+Robert Half International,RHI,0.0066,Menlo Park,San Mateo,California,0.5721,Clinton,Industrials,Human Resource & Employment Services
+Rockwell Automation Inc.,ROK,-0.002,Milwaukee,Milwaukee,Wisconsin,0.3745,Clinton,Industrials,Industrial Conglomerates
+Rockwell Collins,COL,0.0061,Cedar Rapids,Linn,Iowa,0.2792,Clinton,Industrials,Industrial Conglomerates
+Roper Industries,ROP,-0.0004,Sarasota,Sarasota,Florida,0.1157,Trump,Industrials,Industrial Conglomerates
+Ross Stores,ROST,-0.0014,Pleasanton,Alameda,California,0.6443,Clinton,Consumer Discretionary,Apparel Retail
+Royal Caribbean Cruises Ltd,RCL,0.0054,Miami,Putnam,Florida,0.4336,Trump,Consumer Discretionary,Hotels / Resorts & Cruise Lines
+Ryder System,R,-0.0039,Miami,Putnam,Florida,0.4336,Trump,Industrials,Industrial Conglomerates
+S&P Global Inc.,SPGI,-0.0127,New York,Rockland,New York,0.0509,Clinton,Financials,Diversified Financial Services
+SCANA Corp,SCG,-0.0031,Cayce,Lexington,South Carolina,0.3671,Trump,Utilities,MultiUtilities
+SL Green Realty,SLG,0.0052,New York,Rockland,New York,0.0509,Clinton,Real Estate,Office REITs
+Salesforce.com,CRM,-0.0076,San Francisco,San Mateo,California,0.5721,Clinton,Information Technology,Internet Software & Services
+Scripps Networks Interactive Inc.,SNI,0.0115,Cincinnati,Hamilton,Ohio,0.3213,Clinton,Consumer Discretionary,Broadcasting & Cable TV
+Sealed Air,SEE,-0.0023,Elmwood Park,Bergen,New Jersey,0.1199,Clinton,Materials,Paper Packaging
+Sempra Energy,SRE,-0.0135,San Diego,San Diego,California,0.1703,Clinton,Utilities,MultiUtilities
+Sherwin-Williams,SHW,-0.0027,Cleveland,Cuyahoga,Ohio,0.35,Clinton,Materials,Specialty Chemicals
+Simon Property Group Inc,SPG,0.0002,Indianapolis,Marion,Indiana,0.2737,Clinton,Real Estate,REITs
+Skyworks Solutions,SWKS,-0.0105,Woburn,Middlesex,Massachusetts,0.0513,Clinton,Information Technology,Semiconductors
+Snap-On Inc.,SNA,0.0001,Kenosha,Kenosha,Wisconsin,0.0034,Trump,Consumer Discretionary,Household Appliances
+Southern Co.,SO,-0.0042,Atlanta,Fulton,Georgia,0.1495,Clinton,Utilities,Electric Utilities
+Southwest Airlines,LUV,0.0034,Dallas,Dallas,Texas,0.1075,Clinton,Industrials,Airlines
+Southwestern Energy,SWN,0.0142,Houston,Harris,Texas,0.1857,Clinton,Energy,Oil & Gas Exploration & Production
+Spectra Energy Corp.,SE,-0.0129,Houston,Harris,Texas,0.1857,Clinton,Energy,Oil & Gas Refining & Marketing & Transportation
+Stanley Black & Decker,SWK,-0.0043,New Britain,Hartford,Connecticut,0.2151,Clinton,Consumer Discretionary,Household Appliances
+Staples Inc.,SPLS,0.0062,Framingham,Middlesex,Massachusetts,0.0513,Clinton,Consumer Discretionary,Specialty Stores
+Starbucks Corp.,SBUX,-0.006,Seattle,King,Washington,0.5052,Clinton,Consumer Discretionary,Restaurants
+State Street Corp.,STT,0.0017,Boston,Suffolk,Massachusetts,0.2699,Clinton,Financials,Diversified Financial Services
+Stericycle Inc,SRCL,0.0044,Lake Forest,Lake,Illinois,0.203,Clinton,Industrials,Industrial Conglomerates
+Stryker Corp.,SYK,-0.02,Kalamazoo,Kalamazoo,Michigan,0.1279,Clinton,Health Care,Health Care Equipment
+SunTrust Banks,STI,0.009,Atlanta,Fulton,Georgia,0.1495,Clinton,Financials,Banks
+Symantec Corp.,SYMC,0.0037,Mountain View,Santa Clara,California,0.5238,Clinton,Information Technology,Application Software
+Synchrony Financial,SYF,0.0126,Stamford,Fairfield,Connecticut,0.0045,Clinton,Financials,Consumer Finance
+Sysco Corp.,SYY,-0.0201,Houston,Harris,Texas,0.1857,Clinton,Consumer Staples,Food Distributors
+T. Rowe Price Group,TROW,0.0092,Baltimore,Baltimore (city),Maryland,0.7457,Clinton,Financials,Diversified Financial Services
+TJX Companies Inc.,TJX,-0.0034,Framingham,Middlesex,Massachusetts,0.0513,Clinton,Consumer Discretionary,Apparel Retail
+Target Corp.,TGT,0.0074,Minneapolis,Hennepin,Minnesota,0.3531,Clinton,Consumer Discretionary,General Merchandise Stores
+Tegna Inc.,TGNA,0.0238,Mc Lean,Fairfax,Virginia,0.3622,Clinton,Consumer Discretionary,Publishing
+Teradata Corp.,TDC,0.0016,Miamisburg,Montgomery,Ohio,0.0016,Clinton,Information Technology,Application Software
+Tesoro Petroleum Co.,TSO,0.0046,San Antonio,Comal,Texas,0.5007,Trump,Energy,Oil & Gas Refining & Marketing & Transportation
+Texas Instruments,TXN,0.0006,Dallas,Dallas,Texas,0.1075,Clinton,Information Technology,Semiconductors
+Textron Inc.,TXT,0.001,Providence,Providence,Rhode Island,0.2117,Clinton,Industrials,Industrial Conglomerates
+The Bank of New York Mellon Corp.,BK,0.004,New York,Rockland,New York,0.0509,Clinton,Financials,Banks
+The Clorox Company,CLX,0.0007,Oakland,Alameda,California,0.6443,Clinton,Consumer Staples,Household Products
+The Cooper Companies,COO,-0.019,Pleasanton,Alameda,California,0.6443,Clinton,Health Care,Health Care Supplies
+The Hershey Company,HSY,-0.0003,Hershey,Dauphin,Pennsylvania,0.0282,Clinton,Consumer Staples,Packaged Foods & Meats
+The Travelers Companies Inc.,TRV,0.0049,New York,Rockland,New York,0.0509,Clinton,Financials,Property & Casualty Insurance
+The Walt Disney Company,DIS,0.0029,Burbank,Los Angeles,California,0.4805,Clinton,Consumer Discretionary,Broadcasting & Cable TV
+Thermo Fisher Scientific,TMO,-0.0131,Waltham,Middlesex,Massachusetts,0.0513,Clinton,Health Care,Health Care Equipment
+Tiffany & Co.,TIF,-0.0122,New York,Rockland,New York,0.0509,Clinton,Consumer Discretionary,Apparel / Accessories & Luxury Goods
+Time Warner Inc.,TWX,0.002,New York,Rockland,New York,0.0509,Clinton,Consumer Discretionary,Broadcasting & Cable TV
+Torchmark Corp.,TMK,0.0012,Mc Kinney,Collin,Texas,0.1698,Trump,Financials,Life & Health Insurance
+Total System Services,TSS,-0.0082,Columbus,Muscogee,Georgia,0.186,Clinton,Information Technology,Internet Software & Services
+Tractor Supply Company,TSCO,0.0112,Brentwood,Williamson,Tennessee,0.2641,Trump,Consumer Discretionary,Specialty Retail
+TransDigm Group,TDG,-0.0133,Cleveland,Cuyahoga,Ohio,0.35,Clinton,Industrials,Aerospace & Defense
+TripAdvisor,TRIP,-0.0151,Newton,Middlesex,Massachusetts,0.0513,Clinton,Consumer Discretionary,Internet & Direct Marketing Retail
+Twenty-First Century Fox Class A,FOXA,-0.0035,New York,Rockland,New York,0.0509,Clinton,Consumer Discretionary,Publishing
+Twenty-First Century Fox Class B,FOX,-0.0039,New York,Rockland,New York,0.0509,Clinton,Consumer Discretionary,Publishing
+Tyson Foods,TSN,0.0024,Springdale,Washington,Arkansas,0.1676,Clinton,Consumer Staples,Packaged Foods & Meats
+U.S. Bancorp,USB,0.0031,Minneapolis,Hennepin,Minnesota,0.3531,Clinton,Financials,Banks
+Ulta Salon Cosmetics & Fragrance Inc,ULTA,0.0083,Bolingbrook,Will,Illinois,0.0567,Clinton,Consumer Discretionary,Specialty Stores
+Under Armour,UA,-0.0035,Baltimore,Baltimore (city),Maryland,0.7457,Clinton,Consumer Discretionary,Apparel / Accessories & Luxury Goods
+Under Armour,UA.C,-0.0094,Baltimore,Baltimore (city),Maryland,0.7457,Clinton,Consumer Discretionary,Apparel / Accessories & Luxury Goods
+Union Pacific,UNP,0.0037,Omaha,Sarpy,Nebraska,0.2178,Trump,Industrials,Railroads
+United Continental Holdings,UAL,0.0043,Chicago,Cook,Illinois,0.0523,Clinton,Industrials,Airlines
+United Health Group Inc.,UNH,0.0059,Minnetonka,Hennepin,Minnesota,0.3531,Clinton,Health Care,Managed Health Care
+United Parcel Service,UPS,-0.0055,Atlanta,Fulton,Georgia,0.1495,Clinton,Industrials,Air Freight & Logistics
+United Rentals Inc.,URI,0.0018,Stamford,Fairfield,Connecticut,0.0045,Clinton,Industrials,Trading Companies & Distributors
+United Technologies,UTX,0.0,Hartford,Hartford,Connecticut,0.2151,Clinton,Industrials,Industrial Conglomerates
+Universal Health Services Inc.,UHS,-0.0073,King Of Prussia,Montgomery,Pennsylvania,0.0016,Clinton,Health Care,Health Care Facilities
+Unum Group,UNM,0.0076,Chattanooga,Hamilton,Tennessee,0.3213,Clinton,Financials,Diversified Financial Services
+Urban Outfitters,URBN,0.02,Philadelphia,Philadelphia,Pennsylvania,0.6691,Clinton,Consumer Discretionary,Apparel Retail
+V.F. Corp.,VFC,0.0018,Greensboro,Guilford,North Carolina,0.2003,Clinton,Consumer Discretionary,Apparel / Accessories & Luxury Goods
+Valero Energy,VLO,0.0013,San Antonio,Comal,Texas,0.5007,Trump,Energy,Oil & Gas Refining & Marketing & Transportation
+Varian Medical Systems,VAR,-0.0038,Palo Alto,Santa Clara,California,0.5238,Clinton,Health Care,Health Care Equipment
+Ventas Inc,VTR,0.0008,Chicago,Cook,Illinois,0.0523,Clinton,Real Estate,REITs
+Verisign Inc.,VRSN,-0.0082,Dulles,Loudoun,Virginia,0.1679,Clinton,Information Technology,Internet Software & Services
+Verisk Analytics,VRSK,-0.0023,Jersey City,Hudson,New Jersey,0.5181,Clinton,Industrials,Research & Consulting Services
+Verizon Communications,VZ,-0.0047,New York,Rockland,New York,0.0509,Clinton,Telecommunications Services,Integrated Telecommunications Services
+Vertex Pharmaceuticals Inc,VRTX,-0.0111,Cambridge,Middlesex,Massachusetts,0.0513,Clinton,Health Care,Biotechnology
+Viacom Inc.,VIAB,-0.0022,New York,Rockland,New York,0.0509,Clinton,Consumer Discretionary,Broadcasting & Cable TV
+Visa Inc.,V,-0.014,San Francisco,San Mateo,California,0.5721,Clinton,Information Technology,Internet Software & Services
+Vornado Realty Trust,VNO,0.0079,New York,Rockland,New York,0.0509,Clinton,Real Estate,REITs
+Vulcan Materials,VMC,-0.0066,Birmingham,Shelby,Alabama,0.1678,Clinton,Materials,Construction Materials
+Wal-Mart Stores,WMT,-0.0009,Bentonville,Benton,Arkansas,0.1287,Clinton,Consumer Staples,Hypermarkets & Super Centers
+Walgreens Boots Alliance,WBA,0.005,Deerfield,Lake,Illinois,0.203,Clinton,Consumer Staples,Drug Retail
+Waste Management Inc.,WM,0.0021,Houston,Harris,Texas,0.1857,Clinton,Industrials,Environmental Services
+Waters Corporation,WAT,-0.0078,Milford,Worcester,Massachusetts,0.1048,Clinton,Health Care,Health Care Distributors
+Wells Fargo,WFC,0.012,San Francisco,San Mateo,California,0.5721,Clinton,Financials,Banks
+Welltower Inc.,HCN,0.0069,Toledo,Lucas,Ohio,0.1085,Clinton,Real Estate,REITs
+Western Digital,WDC,0.0014,Irvine,Orange,California,0.0589,Clinton,Information Technology,Computer Storage & Peripherals
+Western Union Co,WU,0.0022,Englewood,Arapahoe,Colorado,0.1375,Clinton,Information Technology,Internet Software & Services
+Westrock Co,WRK,0.0059,Richmond,Henrico,Virginia,0.2096,Clinton,Materials,Paper Packaging
+Weyerhaeuser Corp.,WY,-0.0008,Federal Way,King,Washington,0.5052,Clinton,Real Estate,REITs
+Whirlpool Corp.,WHR,-0.0044,Benton Harbor,Berrien,Michigan,0.4137,Trump,Consumer Discretionary,Household Appliances
+Whole Foods Market,WFM,0.0101,Austin,Williamson,Texas,0.2641,Trump,Consumer Staples,Food Retail
+Williams Cos.,WMB,-0.0087,Tulsa,Tulsa,Oklahoma,0.2285,Trump,Energy,Oil & Gas Exploration & Production
+Wisconsin Energy Corporation,WEC,-0.0049,Milwaukee,Milwaukee,Wisconsin,0.3745,Clinton,Utilities,Electric Utilities
+Wyndham Worldwide,WYN,0.0032,Parsippany,Morris,New Jersey,0.2371,Trump,Consumer Discretionary,Hotels / Resorts & Cruise Lines
+Wynn Resorts Ltd,WYNN,0.0106,Las Vegas,Clark,Nevada,0.2173,Clinton,Consumer Discretionary,Casinos & Gaming
+Xcel Energy Inc,XEL,-0.005,Minneapolis,Hennepin,Minnesota,0.3531,Clinton,Utilities,MultiUtilities
+Xerox Corp.,XRX,0.0039,Norwalk,Fairfield,Connecticut,0.0045,Clinton,Information Technology,IT Consulting & Other Services
+Xilinx Inc,XLNX,0.0032,San Jose,Santa Clara,California,0.5238,Clinton,Information Technology,Semiconductors
+Xylem Inc.,XYL,0.0027,White Plains,Westchester,New York,0.3277,Clinton,Industrials,Industrial Conglomerates
+Yahoo Inc.,YHOO,-0.0067,Sunnyvale,Santa Clara,California,0.5238,Clinton,Information Technology,Internet Software & Services
+Yum! Brands Inc,YUM,-0.0091,Louisville,Jefferson,Kentucky,0.0523,Clinton,Consumer Discretionary,Restaurants
+Zimmer Biomet Holdings,ZBH,-0.0042,Warsaw,Kosciusko,Indiana,0.5515,Trump,Health Care,Health Care Equipment
+Zions Bancorp,ZION,0.0094,Salt Lake City,Salt Lake,Utah,0.1251,Clinton,Financials,Regional Banks
+Zoetis,ZTS,-0.0092,Florham Park,Morris,New Jersey,0.2371,Trump,Health Care,Pharmaceuticals
+eBay Inc.,EBAY,0.0012,San Jose,Santa Clara,California,0.5238,Clinton,Information Technology,Internet Software & Services

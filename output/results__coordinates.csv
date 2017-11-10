@@ -1,0 +1,1643 @@
+county,state,pct_lead,winner,latitude,longitude
+abbeville,south carolina,0.2826,Trump,34.3344,-82.4002
+accomack,virginia,0.1171,Trump,38.0064,-75.4029
+ada,idaho,0.0924,Trump,43.7318,-116.2797
+adair,oklahoma,0.4615,Trump,36.1152,-94.6345
+adams,wisconsin,0.1968,Clinton,44.0529,-89.8962
+addison,vermont,0.3365,Clinton,44.2515,-73.2033
+aiken,south carolina,0.2749,Trump,33.6993,-81.6465
+aitkin,minnesota,0.2593,Trump,46.9968,-93.5994
+alachua,florida,0.2252,Clinton,29.8433,-82.4048
+alamance,north carolina,0.1294,Trump,36.1855,-79.5055
+alameda,california,0.6443,Clinton,37.8927,-122.2761
+alamosa,colorado,0.0198,Clinton,37.7232,-105.8712
+albany,wyoming,0.1322,Clinton,42.2035,-105.678
+albemarle,virginia,0.2506,Clinton,38.1944,-78.5849
+alcona,michigan,0.3996,Trump,44.8224,-83.5044
+alcorn,mississippi,0.6179,Trump,34.9205,-88.5218
+alexander,north carolina,0.3201,Trump,35.9504,-81.0487
+alfalfa,oklahoma,0.7602,Trump,36.9412,-98.2458
+alger,michigan,0.2043,Trump,46.6529,-85.9836
+allamakee,iowa,0.2433,Trump,43.4899,-91.2942
+allegan,michigan,0.288,Trump,42.737,-85.6635
+allegany,new york,0.4588,Trump,42.4777,-78.1403
+alleghany,virginia,0.4304,Trump,37.8203,-79.8054
+allegheny,pennsylvania,0.1641,Clinton,40.6534,-80.0795
+allen,ohio,0.4204,Trump,40.879,-83.8914
+allendale,south carolina,0.5406,Clinton,33.1093,-81.5003
+alpena,michigan,0.2869,Trump,45.079,-83.4602
+amador,california,0.2636,Trump,38.6707,-120.1135
+amelia,virginia,0.3631,Trump,37.345,-77.9449
+amherst,virginia,0.3071,Trump,37.6027,-79.0506
+amite,mississippi,0.2266,Trump,31.3672,-90.6752
+anderson,texas,0.4765,Trump,32.0535,-95.5163
+andrew,missouri,0.5055,Trump,40.1007,-94.8847
+andrews,texas,0.6271,Trump,32.3201,-102.5409
+androscoggin,maine,0.0942,Trump,44.4325,-70.1427
+angelina,texas,0.4729,Trump,31.4291,-94.8254
+anne arundel,maryland,0.0065,Clinton,39.2259,-76.6153
+anoka,minnesota,0.097,Trump,45.3903,-93.3598
+anson,north carolina,0.1256,Clinton,35.1046,-80.1092
+antelope,nebraska,0.7255,Trump,42.3648,-98.1235
+antrim,michigan,0.2963,Trump,45.1599,-85.2633
+apache,arizona,0.3688,Clinton,36.7797,-109.359
+appanoose,iowa,0.3639,Trump,40.8825,-92.8534
+appling,georgia,0.5794,Trump,31.7837,-82.3486
+appomattox,virginia,0.4641,Trump,37.3643,-78.9059
+aransas,texas,0.5037,Trump,28.0865,-97.0416
+arapahoe,colorado,0.1375,Clinton,39.7388,-104.4083
+archer,texas,0.7943,Trump,33.8162,-98.6951
+archuleta,colorado,0.2394,Trump,37.2694,-107.0098
+arenac,michigan,0.3307,Trump,44.1293,-83.8491
+arkansas,arkansas,0.3036,Trump,34.5095,-91.299
+arlington,virginia,0.601,Clinton,38.9033,-77.1263
+armstrong,texas,0.5198,Trump,35.0967,-101.3813
+aroostook,maine,0.1728,Trump,47.4589,-69.2243
+ashe,north carolina,0.4466,Trump,36.5415,-81.4468
+ashland,wisconsin,0.1914,Clinton,46.8467,-90.6036
+ashley,arkansas,0.3625,Trump,33.3631,-91.9088
+ashtabula,ohio,0.19,Trump,41.9345,-80.5803
+asotin,washington,0.2678,Trump,46.3946,-117.0645
+atascosa,texas,0.2913,Trump,29.2366,-98.7945
+atchison,missouri,0.4518,Trump,40.5357,-95.3134
+athens,ohio,0.1695,Clinton,39.4978,-82.0871
+atkinson,georgia,0.452,Trump,31.3455,-83.0449
+atlantic,new jersey,0.0624,Clinton,39.638,-74.7728
+atoka,oklahoma,0.6544,Trump,34.5384,-95.7088
+attala,mississippi,0.199,Trump,33.1632,-89.3268
+audrain,missouri,0.4395,Trump,39.2949,-91.4883
+audubon,iowa,0.3125,Trump,41.8401,-94.9812
+auglaize,ohio,0.6258,Trump,40.6752,-84.1244
+augusta,virginia,0.4921,Trump,38.3328,-79.1028
+austin,texas,0.5972,Trump,30.0477,-96.3269
+autauga,alabama,0.4948,Trump,32.6841,-86.4946
+avery,north carolina,0.5653,Trump,36.1705,-81.8412
+baca,colorado,0.6825,Trump,37.5214,-102.4332
+bacon,georgia,0.6855,Trump,31.5465,-82.4633
+baker,oregon,0.6048,Trump,44.9749,-116.8629
+baldwin,georgia,0.278,Clinton,33.0846,-83.238
+ballard,kentucky,0.5718,Trump,37.1459,-88.9455
+baltimore,maryland,0.1744,Clinton,39.7114,-76.6595
+baltimore (city),maryland,0.7457,Clinton,39.3716,-76.6744
+bamberg,south carolina,0.2727,Clinton,33.3209,-81.1407
+bandera,texas,0.6299,Trump,29.8475,-99.3215
+banks,georgia,0.784,Trump,34.4574,-83.476
+bannock,idaho,0.2047,Trump,42.9357,-112.4679
+baraga,michigan,0.2874,Trump,46.8747,-88.1732
+barber,kansas,0.6976,Trump,37.4485,-98.5351
+barbour,west virginia,0.2819,Trump,39.2234,-79.9017
+barnes,north dakota,0.2968,Trump,47.1862,-97.7605
+barnstable,massachusetts,0.1341,Clinton,42.0534,-70.1865
+barnwell,south carolina,0.052,Trump,33.3926,-81.4161
+barren,kentucky,0.4982,Trump,37.117,-85.9443
+barron,wisconsin,0.2538,Trump,45.619,-92.0196
+barrow,georgia,0.5038,Trump,34.0191,-83.8261
+barry,missouri,0.4815,Trump,36.9212,-93.9258
+bartholomew,indiana,0.3334,Trump,39.3039,-85.7714
+barton,missouri,0.6551,Trump,37.5848,-94.1572
+bartow,georgia,0.5521,Trump,34.3595,-84.9176
+bastrop,texas,0.2039,Trump,30.3231,-97.3737
+bates,missouri,0.5464,Trump,38.4956,-94.5928
+bath,virginia,0.3931,Trump,38.1898,-79.5879
+baxter,arkansas,0.5318,Trump,36.4724,-92.3296
+bay,michigan,0.3027,Trump,43.9267,-84.1053
+bayfield,wisconsin,0.0873,Clinton,46.8372,-91.0974
+beadle,south dakota,0.3756,Trump,44.5834,-98.4509
+bear lake,idaho,0.6653,Trump,42.4821,-111.3708
+beaufort,south carolina,0.2071,Trump,32.5693,-80.7192
+beaver,utah,0.5058,Trump,38.3311,-112.9934
+beaverhead,montana,0.4534,Trump,45.7424,-112.9963
+becker,minnesota,0.3319,Trump,47.1029,-95.9151
+beckham,oklahoma,0.7078,Trump,35.412,-99.4043
+bedford,virginia,0.597,Trump,37.5306,-79.3827
+bee,texas,0.1537,Trump,28.6526,-97.9921
+belknap,new hampshire,0.1681,Trump,43.7107,-71.4797
+bell,texas,0.3988,Trump,31.1952,-97.3486
+belmont,ohio,0.3955,Trump,40.1623,-81.1326
+beltrami,minnesota,0.0983,Trump,48.177,-94.5037
+ben hill,georgia,0.2762,Trump,31.7706,-84.7936
+benewah,idaho,0.5536,Trump,47.3278,-116.8662
+bennington,vermont,0.2211,Clinton,43.2636,-73.1905
+benson,north dakota,0.0438,Trump,48.3388,-99.6713
+bent,colorado,0.3092,Trump,38.085,-102.8869
+benton,washington,0.1287,Clinton,46.3257,-119.3067
+benzie,michigan,0.14,Trump,44.7317,-85.8528
+bergen,new jersey,0.1199,Clinton,41.1039,-74.1644
+berkeley,west virginia,0.2732,Trump,39.5865,-77.8852
+berks,pennsylvania,0.1018,Trump,40.6328,-75.8513
+berkshire,massachusetts,0.4146,Clinton,42.7089,-73.2036
+bernalillo,new mexico,0.1768,Clinton,35.1996,-106.6448
+berrien,michigan,0.4137,Trump,42.2248,-86.3723
+bertie,north carolina,0.2517,Clinton,36.2257,-76.933
+bexar,texas,0.1349,Clinton,29.7327,-98.6646
+bibb,georgia,0.1802,Clinton,32.8926,-83.7455
+big horn,wyoming,0.3062,Clinton,44.9257,-108.5979
+big stone,minnesota,0.2514,Trump,45.5602,-96.4209
+bingham,idaho,0.4802,Trump,43.4449,-112.8128
+black hawk,iowa,0.0732,Clinton,42.578,-92.1588
+blackford,indiana,0.4367,Trump,40.5577,-85.2513
+bladen,north carolina,0.0946,Trump,34.7662,-78.7301
+blaine,oklahoma,0.162,Clinton,36.1212,-98.55
+blair,pennsylvania,0.4638,Trump,40.6619,-78.2419
+blanco,texas,0.5236,Trump,30.4429,-98.4365
+bland,virginia,0.6783,Trump,37.2578,-81.1159
+bleckley,georgia,0.5316,Trump,32.3981,-83.3229
+bledsoe,tennessee,0.586,Trump,35.6408,-85.2077
+blount,tennessee,0.6654,Trump,35.8375,-84.0089
+blue earth,minnesota,0.0373,Trump,44.2221,-93.8289
+boise,idaho,0.4974,Trump,44.1106,-115.5285
+bolivar,mississippi,0.3241,Clinton,34.1294,-90.7382
+bollinger,missouri,0.7271,Trump,37.537,-89.9272
+bon homme,south dakota,0.4711,Trump,43.1212,-97.7296
+bond,illinois,0.3776,Trump,39.0344,-89.4909
+bonner,idaho,0.3021,Trump,48.6339,-116.9473
+bonneville,idaho,0.4019,Trump,43.5936,-111.9573
+boone,west virginia,0.3089,Clinton,38.1823,-81.7113
+bosque,texas,0.6474,Trump,32.1035,-97.5421
+botetourt,virginia,0.4762,Trump,37.7529,-79.8189
+bottineau,north dakota,0.5085,Trump,48.9585,-101.3338
+boulder,colorado,0.4864,Clinton,40.2357,-105.3231
+boundary,idaho,0.5545,Trump,48.9994,-116.1813
+bourbon,kentucky,0.4117,Trump,38.2963,-84.1513
+bowie,texas,0.4665,Trump,33.5253,-94.2657
+box butte,nebraska,0.5454,Trump,42.3312,-103.0644
+box elder,utah,0.5143,Trump,41.9757,-112.2384
+boyd,nebraska,0.3701,Trump,42.9521,-99.071
+boyle,kentucky,0.2905,Trump,37.6465,-84.7747
+bracken,kentucky,0.5687,Trump,38.763,-83.9954
+bradford,pennsylvania,0.4901,Trump,41.9842,-76.5218
+bradley,tennessee,0.4146,Trump,35.2556,-84.7666
+branch,michigan,0.3812,Trump,42.0551,-85.1356
+brantley,georgia,0.7863,Trump,31.3199,-81.9596
+braxton,west virginia,0.4347,Trump,38.8376,-80.7295
+brazoria,texas,0.2459,Trump,29.5617,-95.2721
+brazos,texas,0.2366,Trump,30.8202,-96.3059
+breathitt,kentucky,0.4279,Trump,37.6477,-83.3806
+breckinridge,kentucky,0.5158,Trump,37.9616,-86.4615
+bremer,iowa,0.1386,Trump,42.8827,-92.3063
+brevard,florida,0.1976,Trump,28.7702,-80.872
+brewster,texas,0.0482,Trump,30.3631,-103.6539
+bristol,rhode island,0.1619,Clinton,41.7443,-71.3175
+bristol (city),virginia,0.4381,Trump,36.6609,-82.2126
+broadwater,montana,0.5683,Trump,46.4545,-111.651
+bronx,new york,0.7914,Clinton,40.9011,-73.9053
+brooke,west virginia,0.4219,Trump,40.3484,-80.5493
+brookings,south dakota,0.1474,Trump,44.4675,-96.911
+brooks,texas,0.1592,Clinton,27.2242,-98.1408
+broome,new york,0.0369,Trump,42.4028,-76.0366
+broomfield,colorado,0.1408,Clinton,39.9619,-105.0148
+broward,florida,0.3505,Clinton,26.602,-81.7311
+brown,wisconsin,0.4425,Trump,44.6611,-88.2634
+brule,south dakota,0.4344,Trump,43.8108,-99.3307
+brunswick,virginia,0.0459,Clinton,36.953,-77.8237
+bryan,oklahoma,0.4923,Trump,34.1481,-96.3622
+buchanan,virginia,0.3997,Trump,37.4017,-82.0262
+buckingham,virginia,0.1155,Trump,37.6714,-78.3889
+bucks,pennsylvania,0.0058,Clinton,40.5782,-75.2191
+buena vista,iowa,0.2499,Trump,42.9065,-95.1388
+buena vista (city),virginia,0.3085,Trump,37.7396,-79.3523
+buffalo,wisconsin,0.3387,Trump,44.4877,-91.6807
+bullitt,kentucky,0.498,Trump,38.0764,-85.6774
+bulloch,georgia,0.2345,Trump,32.555,-81.9123
+bullock,alabama,0.5086,Clinton,32.2165,-85.8888
+buncombe,north carolina,0.1457,Clinton,35.7748,-82.4567
+bureau,illinois,0.1996,Trump,41.55,-89.3534
+burke,north dakota,0.178,Clinton,48.9758,-102.548
+burleigh,north dakota,0.4615,Trump,47.1527,-100.5224
+burleson,texas,0.5507,Trump,30.5994,-96.7708
+burlington,new jersey,0.1478,Clinton,40.1476,-74.6615
+burnet,texas,0.5676,Trump,30.9325,-97.9702
+burnett,wisconsin,0.2826,Trump,45.9726,-92.293
+burt,nebraska,0.4065,Trump,41.9966,-96.2595
+butler,pennsylvania,0.3662,Trump,41.1631,-79.9796
+butte,south dakota,0.3344,Trump,44.741,-103.3914
+butts,georgia,0.438,Trump,33.3224,-84.0287
+cabarrus,north carolina,0.1998,Trump,35.502,-80.6359
+cabell,west virginia,0.2551,Trump,38.477,-82.2957
+cache,utah,0.2623,Trump,41.9701,-111.8768
+caddo,oklahoma,0.4343,Trump,35.4675,-98.3313
+caddo parish,louisiana,0.0423,Clinton,32.9934,-93.9022
+calaveras,california,0.2272,Trump,38.4197,-120.4759
+caldwell,texas,0.3561,Trump,29.9528,-97.581
+caledonia,vermont,0.0704,Clinton,44.6636,-71.9572
+calhoun,west virginia,0.1946,Clinton,38.9854,-81.0721
+callahan,texas,0.7722,Trump,32.3916,-99.3777
+callaway,missouri,0.4216,Trump,39.0122,-91.8858
+calloway,kentucky,0.3501,Trump,36.7155,-88.236
+calumet,wisconsin,0.2161,Trump,44.2125,-88.1443
+calvert,maryland,0.1844,Trump,38.7408,-76.6427
+cambria,pennsylvania,0.3775,Trump,40.7178,-78.4637
+camden,north carolina,0.1079,Clinton,36.4536,-76.3033
+cameron,texas,0.0925,Clinton,26.2555,-97.8257
+camp,texas,0.4274,Trump,32.9763,-95.1079
+campbell,wyoming,0.5347,Trump,44.7861,-105.776
+canadian,oklahoma,0.5123,Trump,35.6695,-97.7431
+candler,georgia,0.436,Trump,32.4143,-82.0867
+cannon,tennessee,0.5435,Trump,35.9338,-86.1126
+canyon,idaho,0.4176,Trump,43.7896,-116.9401
+cape girardeau,missouri,0.5009,Trump,37.5975,-89.703
+cape may,new jersey,0.1987,Trump,39.2901,-74.7538
+carbon,wyoming,0.4006,Trump,41.903,-106.2012
+caribou,idaho,0.6603,Trump,43.0269,-111.2541
+carlisle,kentucky,0.639,Trump,36.8963,-88.8728
+carlton,minnesota,0.0166,Clinton,46.7546,-92.5408
+caroline,virginia,0.2247,Trump,38.2079,-77.2502
+carroll,virginia,0.3515,Trump,36.8145,-80.6123
+carson,texas,0.804,Trump,35.5685,-101.1721
+carson city (city),nevada,0.1405,Trump,39.2025,-119.7526
+carter,tennessee,0.5959,Trump,36.3702,-82.2683
+carteret,north carolina,0.4448,Trump,35.0082,-76.316
+carver,minnesota,0.137,Trump,44.98,-93.2638
+cascade,montana,0.2149,Trump,47.62,-111.2393
+casey,kentucky,0.7323,Trump,37.3591,-84.8321
+cass,texas,0.394,Trump,33.1758,-94.3467
+cassia,idaho,0.6007,Trump,42.5245,-113.4338
+castro,texas,0.4444,Trump,34.7437,-102.5064
+caswell,north carolina,0.115,Trump,36.5158,-79.2087
+catawba,north carolina,0.3801,Trump,35.7576,-81.3289
+catoosa,georgia,0.607,Trump,34.9765,-85.1413
+catron,new mexico,0.5047,Trump,34.3243,-108.3682
+cattaraugus,new york,0.3436,Trump,42.5247,-78.4755
+cavalier,north dakota,0.447,Trump,48.9986,-98.3648
+cayuga,new york,0.1325,Trump,43.3296,-76.6747
+cecil,maryland,0.3528,Trump,39.6882,-76.0492
+cedar,nebraska,0.4291,Trump,42.8046,-97.3047
+centre,pennsylvania,0.0194,Clinton,41.0642,-77.5978
+cerro gordo,iowa,0.077,Trump,43.246,-93.1226
+chaffee,colorado,0.0464,Trump,39.0307,-106.2566
+chambers,texas,0.3787,Trump,29.8752,-94.5938
+champaign,ohio,0.1427,Clinton,40.2229,-83.5615
+chariton,missouri,0.52,Trump,39.6627,-93.0467
+charles,maryland,0.3021,Clinton,38.6415,-77.0766
+charles city,virginia,0.2304,Clinton,37.3796,-77.0348
+charles mix,south dakota,0.4215,Trump,43.4251,-98.9479
+charleston,south carolina,0.0786,Clinton,33.1194,-79.5074
+charlevoix,michigan,0.2429,Trump,45.6684,-85.5473
+charlotte,virginia,0.2532,Trump,37.1914,-78.8145
+charlottesville (city),virginia,0.6714,Clinton,38.0401,-78.4851
+charlton,georgia,0.4855,Trump,30.8508,-82.0116
+chase,nebraska,0.7833,Trump,40.5251,-101.6468
+chatham,north carolina,0.1212,Clinton,35.7835,-79.1298
+chattooga,georgia,0.5875,Trump,34.5864,-85.4774
+chautauqua,new york,0.4912,Trump,42.5739,-79.0596
+chaves,new mexico,0.3623,Trump,33.6397,-104.3748
+cheatham,tennessee,0.4688,Trump,36.3783,-87.0395
+cheboygan,michigan,0.3208,Trump,45.7777,-84.7298
+chelan,washington,0.1499,Trump,48.3093,-120.6565
+chemung,new york,0.1997,Trump,42.2581,-76.8392
+chenango,new york,0.2805,Trump,42.7197,-75.5589
+cherokee,texas,0.5078,Trump,32.0415,-95.42
+cherry,nebraska,0.7482,Trump,42.9411,-100.256
+chesapeake (city),virginia,0.0128,Trump,36.814,-76.2406
+cheshire,new hampshire,0.1262,Clinton,43.1428,-72.4483
+chester,tennessee,0.2633,Clinton,35.5355,-88.5379
+chesterfield,virginia,0.097,Trump,37.5133,-77.5646
+cheyenne,nebraska,0.6365,Trump,41.4068,-102.9726
+chickasaw,mississippi,0.1247,Trump,34.0561,-89.0531
+chicot,arkansas,0.1518,Clinton,33.5241,-91.4394
+childress,texas,0.7433,Trump,34.4104,-100.2364
+chilton,alabama,0.666,Trump,32.9805,-86.7181
+chippewa,wisconsin,0.2316,Trump,45.2513,-91.133
+chisago,minnesota,0.3053,Trump,45.6855,-92.9655
+chittenden,vermont,0.4681,Clinton,44.6483,-73.1317
+choctaw,oklahoma,0.3476,Trump,34.1508,-95.3771
+chouteau,montana,0.367,Trump,48.1497,-110.0776
+chowan,north carolina,0.1433,Trump,36.2502,-76.6428
+christian,missouri,0.422,Trump,37.0628,-93.5476
+churchill,nevada,0.5137,Trump,39.4735,-118.7774
+cibola,new mexico,0.0676,Clinton,35.255,-107.9856
+citrus,florida,0.3972,Trump,28.9949,-82.5196
+clackamas,oregon,0.0611,Clinton,45.5235,-122.6762
+claiborne,tennessee,0.0518,Clinton,36.5862,-83.901
+clallam,washington,0.0002,Trump,48.328,-124.6151
+clare,michigan,0.3181,Trump,44.0285,-84.7729
+clarendon,south carolina,0.0257,Clinton,33.8907,-80.0184
+clarion,pennsylvania,0.4741,Trump,41.3957,-79.2266
+clark,wisconsin,0.2173,Clinton,45.0042,-90.3596
+clarke,virginia,0.0077,Clinton,39.1532,-77.9688
+clatsop,oregon,0.0609,Clinton,46.198,-123.9527
+clay,west virginia,0.3015,Clinton,38.6271,-81.0257
+clayton,iowa,0.2671,Clinton,43.0493,-91.4583
+clear creek,colorado,0.0288,Clinton,39.7647,-105.6003
+clearfield,pennsylvania,0.4958,Trump,41.2085,-78.5791
+clearwater,minnesota,0.4899,Trump,47.749,-95.499
+cleburne,arkansas,0.7045,Trump,35.6674,-92.0933
+clermont,ohio,0.4132,Trump,39.2445,-84.2588
+cleveland,oklahoma,0.3791,Trump,35.3792,-97.5362
+clinch,georgia,0.4253,Trump,31.0744,-82.644
+clinton,pennsylvania,0.3806,Clinton,41.4083,-77.6641
+cloud,kansas,0.5513,Trump,39.6021,-97.8631
+coahoma,mississippi,0.4435,Clinton,34.4618,-90.4981
+coal,oklahoma,0.6188,Trump,34.6066,-96.3386
+cobb,georgia,0.0209,Clinton,34.0756,-84.6477
+cochise,arizona,0.2258,Trump,32.373,-109.8631
+cocke,tennessee,0.6451,Trump,36.074,-83.1631
+coconino,arizona,0.1944,Clinton,36.9147,-111.4558
+codington,south dakota,0.3934,Trump,45.1049,-96.9859
+coffee,tennessee,0.4772,Trump,35.6447,-86.2046
+coffey,kansas,0.5732,Trump,38.4161,-95.8222
+colbert,alabama,0.3826,Trump,34.7578,-87.6971
+cole,missouri,0.3678,Trump,38.6297,-92.3995
+coleman,texas,0.7675,Trump,32.0482,-99.6775
+coles,illinois,0.2641,Trump,39.6516,-88.0253
+colfax,new mexico,0.2849,Trump,36.8952,-104.4349
+colleton,south carolina,0.0851,Trump,33.0963,-80.813
+collier,florida,0.2602,Trump,26.4642,-81.5047
+collin,texas,0.1698,Trump,33.3627,-96.4635
+colonial heights (city),virginia,0.3932,Trump,37.27,-77.4038
+colorado,texas,0.5125,Trump,29.7092,-96.4865
+colquitt,georgia,0.4732,Trump,31.3136,-83.9253
+columbia,wisconsin,0.228,Clinton,43.6508,-89.7665
+columbiana,ohio,0.4156,Trump,40.9,-80.8619
+columbus,north carolina,0.2209,Trump,34.4204,-78.8947
+colusa,california,0.1503,Trump,39.4168,-122.0519
+comal,texas,0.5007,Trump,29.9627,-98.2088
+comanche,texas,0.4738,Trump,32.1087,-98.5489
+conecuh,alabama,0.0525,Trump,31.458,-86.9258
+conejos,colorado,0.0332,Trump,37.2907,-106.0054
+contra costa,california,0.4291,Clinton,38.0519,-122.2177
+converse,wyoming,0.7405,Trump,43.0421,-104.7973
+conway,arkansas,0.2763,Trump,35.5699,-92.8251
+cook,minnesota,0.0523,Clinton,47.9591,-89.6989
+cooke,texas,0.6814,Trump,33.6595,-97.3624
+cooper,missouri,0.4628,Trump,38.9727,-92.9683
+coos,oregon,0.1571,Trump,43.5833,-124.1624
+coosa,alabama,0.3056,Trump,33.0746,-86.0781
+copiah,mississippi,0.0527,Clinton,31.9933,-90.3744
+cortland,new york,0.0668,Trump,42.795,-76.2141
+coryell,texas,0.3947,Trump,31.5599,-97.8456
+coshocton,ohio,0.4327,Trump,40.3983,-81.9688
+costilla,colorado,0.2901,Clinton,37.4317,-105.5178
+cotton,oklahoma,0.6264,Trump,34.3605,-98.314
+cottonwood,minnesota,0.3513,Trump,44.0737,-95.1547
+covington,mississippi,0.4642,Trump,31.7613,-89.6551
+covington (city),virginia,0.1836,Trump,37.7802,-79.987
+coweta,georgia,0.4231,Trump,33.4299,-84.8744
+cowley,kansas,0.3763,Trump,37.4413,-97.0059
+cowlitz,washington,0.129,Trump,46.3752,-123.0431
+craig,virginia,0.5521,Trump,37.5745,-80.2544
+craighead,arkansas,0.3481,Trump,35.9165,-90.5762
+craven,north carolina,0.218,Trump,35.3063,-77.1716
+crawford,wisconsin,0.3324,Trump,43.3959,-91.0446
+creek,oklahoma,0.5455,Trump,36.0927,-96.3576
+crenshaw,alabama,0.4555,Trump,31.9283,-86.2971
+crisp,georgia,0.2272,Trump,31.9566,-83.7835
+crittenden,kentucky,0.2885,Clinton,37.3254,-88.1005
+crockett,texas,0.4967,Trump,30.7164,-101.2388
+crook,wyoming,0.665,Trump,44.7473,-104.1931
+cross,arkansas,0.3762,Trump,35.3995,-90.9823
+crow wing,minnesota,0.3178,Trump,46.7478,-93.9484
+cullman,alabama,0.778,Trump,34.2837,-86.5519
+culpeper,virginia,0.2534,Trump,38.6256,-77.9069
+cumberland,virginia,0.2149,Clinton,37.6479,-78.1389
+cuming,nebraska,0.5976,Trump,42.0267,-96.6171
+currituck,north carolina,0.4984,Trump,36.5232,-75.9702
+curry,oregon,0.3144,Trump,42.9154,-124.4413
+custer,south dakota,0.5809,Trump,43.8188,-103.206
+cuyahoga,ohio,0.35,Clinton,41.6857,-81.6728
+dade,missouri,0.6479,Trump,37.5512,-93.8619
+dakota,nebraska,0.0727,Clinton,42.4656,-96.4182
+dale,alabama,0.5044,Trump,31.6446,-85.3911
+dallas,texas,0.1075,Clinton,33.0041,-96.5394
+dane,wisconsin,0.4799,Clinton,43.2773,-89.3564
+danville (city),virginia,0.1986,Clinton,36.6218,-79.4124
+dare,north carolina,0.2212,Trump,36.0646,-75.7057
+darke,ohio,0.6121,Trump,40.3406,-84.4963
+darlington,south carolina,0.0373,Trump,34.4512,-79.8865
+dauphin,pennsylvania,0.0282,Clinton,40.6392,-76.8029
+davidson,tennessee,0.1311,Clinton,36.3417,-86.7212
+davie,north carolina,0.4812,Trump,36.0065,-80.4463
+daviess,missouri,0.4865,Trump,40.145,-93.832
+davis,utah,0.4523,Trump,41.1294,-112.0482
+davison,south dakota,0.3523,Trump,43.7204,-98.2633
+dawes,nebraska,0.4958,Trump,42.8193,-102.9953
+dawson,texas,0.5965,Trump,32.9298,-102.1278
+day,south dakota,0.2377,Trump,45.5097,-97.3092
+de witt,illinois,0.4238,Trump,40.2447,-88.6634
+dekalb,tennessee,0.0267,Clinton,36.0711,-86.0372
+desoto,mississippi,0.3089,Trump,34.9771,-89.9992
+dewitt,texas,0.6375,Trump,29.3125,-97.2917
+deaf smith,texas,0.4108,Trump,34.9106,-102.2002
+dearborn,indiana,0.5532,Trump,39.3008,-84.881
+decatur,tennessee,0.3813,Trump,35.792,-88.0322
+deer lodge,montana,0.0684,Clinton,46.2183,-112.8117
+defiance,ohio,0.3482,Trump,41.4222,-84.3966
+del norte,california,0.1728,Trump,41.9404,-124.1587
+delaware,pennsylvania,0.1584,Clinton,40.0612,-75.3999
+delta,texas,0.4574,Trump,33.4768,-95.7689
+dent,missouri,0.6818,Trump,37.7825,-91.6788
+denton,texas,0.2017,Trump,33.371,-96.9446
+denver,colorado,0.5638,Clinton,39.7878,-104.8288
+des moines,iowa,0.0695,Trump,41.0059,-91.1321
+deschutes,oregon,0.0381,Trump,44.3909,-121.2379
+desha,arkansas,0.0734,Clinton,34.0665,-91.0071
+deuel,south dakota,0.3827,Trump,44.8754,-96.8608
+dewey,south dakota,0.7756,Trump,45.4483,-100.9213
+dickenson,virginia,0.5616,Trump,37.2959,-82.281
+dickey,north dakota,0.4658,Trump,46.1951,-98.3882
+dickinson,michigan,0.4388,Trump,46.1546,-88.0772
+dickson,tennessee,0.4563,Trump,36.2948,-87.4703
+dillon,south carolina,0.0166,Clinton,34.5613,-79.4335
+dimmit,texas,0.3718,Clinton,28.5693,-99.5781
+dinwiddie,virginia,0.1243,Trump,37.195,-77.6646
+district of columbia,district of columbia,0.8873,Clinton,38.9757,-77.0282
+dixie,florida,0.6321,Trump,29.6699,-83.005
+dixon,nebraska,0.5412,Trump,42.6905,-96.9809
+doddridge,west virginia,0.7031,Trump,39.4125,-80.6352
+dodge,wisconsin,0.3916,Trump,43.6324,-88.7373
+doniphan,kansas,0.5992,Trump,39.9627,-95.2982
+dooly,georgia,0.0211,Trump,32.3026,-84.0041
+door,wisconsin,0.0321,Trump,45.3738,-86.8975
+dorchester,south carolina,0.1598,Trump,33.2205,-80.4501
+dougherty,georgia,0.3831,Clinton,31.5948,-84.1948
+douglas,wisconsin,0.1993,Clinton,46.7016,-92.0912
+drew,arkansas,0.2433,Trump,33.7471,-91.4649
+dupage,illinois,0.1408,Clinton,41.9995,-88.1451
+dubois,indiana,0.4004,Trump,38.4728,-86.7832
+dubuque,iowa,0.0125,Trump,42.6171,-90.8115
+duchesne,utah,0.722,Trump,40.4501,-110.8097
+dukes,massachusetts,0.5128,Clinton,41.4543,-70.562
+dunklin,missouri,0.5358,Trump,36.5672,-89.9737
+dunn,wisconsin,0.3875,Trump,45.1868,-91.879
+duplin,north carolina,0.192,Trump,35.1538,-78.1053
+durham,north carolina,0.6038,Clinton,36.2393,-78.9019
+dutchess,new york,0.0107,Trump,42.0579,-73.9025
+duval,texas,0.1792,Clinton,27.88,-98.6061
+dyer,tennessee,0.5538,Trump,36.2011,-89.1863
+eagle,colorado,0.199,Clinton,39.9134,-106.7309
+early,georgia,0.081,Trump,31.1745,-85.037
+east baton rouge parish,louisiana,0.0921,Clinton,30.6561,-91.1358
+eastland,texas,0.7544,Trump,32.4681,-98.6747
+eaton,michigan,0.0552,Trump,42.7693,-84.9813
+eau claire,wisconsin,0.0734,Clinton,44.8346,-91.5159
+ector,texas,0.4056,Trump,32.0245,-102.3572
+eddy,north dakota,0.414,Trump,47.8184,-99.0583
+edgar,illinois,0.4955,Trump,39.8009,-87.8747
+edgecombe,north carolina,0.3218,Clinton,36.0067,-77.7074
+edgefield,south carolina,0.2019,Trump,33.8231,-81.7972
+edmonson,kentucky,0.6022,Trump,37.2975,-86.2794
+edmunds,south dakota,0.549,Trump,45.569,-99.4857
+edwards,texas,0.7081,Trump,30.3274,-99.9062
+effingham,illinois,0.5737,Trump,39.1881,-88.6418
+el dorado,california,0.1326,Trump,39.0644,-120.1357
+el paso,texas,0.128,Clinton,31.9907,-106.5976
+elbert,georgia,0.4184,Trump,34.1919,-83.0284
+elk,pennsylvania,0.4379,Trump,41.6192,-78.8394
+elkhart,indiana,0.3244,Trump,41.7169,-85.8262
+elko,nevada,0.5469,Trump,41.9477,-116.0987
+elliott,kentucky,0.4413,Trump,38.1316,-83.0797
+ellis,texas,0.6249,Trump,32.5223,-96.6643
+ellsworth,kansas,0.54,Trump,38.8134,-98.4432
+elmore,idaho,0.5198,Trump,43.8479,-115.2538
+emanuel,georgia,0.3696,Trump,32.6549,-82.1002
+emery,utah,0.7091,Trump,39.4033,-110.81
+emmet,michigan,0.2917,Trump,45.7424,-84.7735
+emmons,north dakota,0.7438,Trump,46.5736,-99.9705
+emporia (city),virginia,0.3122,Clinton,36.6857,-77.563
+erath,texas,0.6551,Trump,32.3882,-98.1673
+erie,pennsylvania,0.0243,Clinton,42.2008,-79.8332
+escambia,florida,0.2992,Trump,30.9687,-87.3216
+essex,virginia,0.2141,Clinton,38.0789,-77.0485
+estill,kentucky,0.5641,Trump,37.6867,-83.9387
+etowah,alabama,0.501,Trump,34.071,-86.2096
+evans,georgia,0.3537,Trump,32.165,-81.908
+fairfax,virginia,0.3622,Clinton,39.0039,-77.3083
+fairfax (city),virginia,0.3094,Clinton,38.8604,-77.2649
+fairfield,south carolina,0.0045,Clinton,34.4967,-81.3459
+fall river,south dakota,0.4743,Trump,43.4223,-103.4766
+falls,texas,0.3356,Trump,31.3601,-97.0108
+falls church (city),virginia,0.5852,Clinton,38.8856,-77.1802
+fannin,texas,0.6406,Trump,33.7979,-96.0449
+faribault,minnesota,0.3407,Trump,43.8295,-93.8282
+faulkner,arkansas,0.3103,Trump,35.3673,-92.4096
+fauquier,virginia,0.2465,Trump,39.0048,-77.9546
+fayette,west virginia,0.3059,Clinton,38.1943,-81.2959
+fentress,tennessee,0.6746,Trump,36.5781,-85.0384
+fergus,montana,0.5243,Trump,47.6408,-109.2364
+ferry,washington,0.3096,Trump,48.9753,-118.2208
+fillmore,nebraska,0.3766,Trump,40.6404,-97.5873
+finney,kansas,0.3236,Trump,37.9931,-100.9893
+flagler,florida,0.2059,Trump,29.585,-81.2078
+flathead,montana,0.3643,Trump,48.8206,-114.3836
+fleming,kentucky,0.5393,Trump,38.428,-83.708
+florence,wisconsin,0.2546,Trump,45.9138,-88.6235
+floyd,virginia,0.3544,Trump,37.0556,-80.1525
+fluvanna,virginia,0.0939,Trump,37.9636,-78.2535
+fond du lac,wisconsin,0.2672,Trump,43.8753,-88.2871
+ford,kansas,0.4377,Trump,37.8235,-99.737
+forest,wisconsin,0.3494,Trump,45.7118,-88.8104
+forrest,mississippi,0.1421,Trump,31.3566,-89.3824
+forsyth,north carolina,0.1812,Clinton,36.2404,-80.2934
+fort bend,texas,0.0663,Clinton,29.7217,-95.8977
+fountain,indiana,0.5599,Trump,40.2811,-87.2241
+franklin,washington,0.1909,Clinton,46.6779,-118.5337
+franklin (city),virginia,0.2711,Clinton,36.6786,-76.9391
+frederick,virginia,0.1982,Trump,39.3744,-78.3081
+fredericksburg (city),virginia,0.2657,Clinton,38.3032,-77.4605
+freeborn,minnesota,0.1738,Trump,43.8235,-93.2671
+freestone,texas,0.596,Trump,31.8885,-96.2988
+fremont,wyoming,0.4462,Trump,43.5451,-109.6492
+fresno,california,0.0204,Clinton,37.3266,-119.0176
+frio,texas,0.063,Clinton,29.0595,-99.0204
+fulton,pennsylvania,0.1495,Clinton,40.1276,-78.0628
+furnas,nebraska,0.6959,Trump,40.3027,-99.8997
+gadsden,florida,0.3747,Clinton,30.6834,-84.828
+gage,nebraska,0.3454,Trump,40.4976,-96.7166
+gaines,texas,0.7182,Trump,32.9317,-102.5781
+galax (city),virginia,0.3906,Trump,36.6565,-80.9117
+gallatin,montana,0.2758,Clinton,45.8811,-111.5436
+gallia,ohio,0.5563,Trump,38.9783,-82.357
+galveston,texas,0.2263,Trump,29.5472,-94.4267
+garfield,washington,0.3119,Trump,46.4698,-117.5993
+garland,arkansas,0.3381,Trump,34.7094,-93.0382
+garrard,kentucky,0.5842,Trump,37.7145,-84.6491
+garrett,maryland,0.615,Trump,39.6665,-79.4219
+garvin,oklahoma,0.6068,Trump,34.8285,-97.2608
+gasconade,missouri,0.5576,Trump,38.6703,-91.5592
+gaston,north carolina,0.3213,Trump,35.4993,-80.8486
+gates,north carolina,0.0901,Trump,36.5179,-76.5979
+geary,kansas,0.217,Trump,39.1692,-96.91
+geauga,ohio,0.2547,Trump,41.6762,-81.0573
+gem,idaho,0.5974,Trump,44.2418,-116.2732
+genesee,new york,0.1297,Clinton,43.0897,-78.1704
+geneva,alabama,0.7244,Trump,31.1767,-85.8135
+gentry,missouri,0.5601,Trump,40.3411,-94.4142
+george,mississippi,0.7771,Trump,30.8668,-88.649
+georgetown,south carolina,0.1301,Trump,33.5507,-79.0528
+gibson,tennessee,0.4464,Trump,36.1906,-89.0229
+gila,arizona,0.3236,Trump,34.3435,-111.5353
+gilchrist,florida,0.6276,Trump,29.7837,-82.8711
+giles,virginia,0.4614,Trump,37.385,-80.8227
+gillespie,texas,0.6217,Trump,30.4613,-99.1707
+gilmer,west virginia,0.6108,Trump,39.0839,-80.7549
+gilpin,colorado,0.0196,Clinton,39.9172,-105.5011
+glacier,montana,0.2961,Clinton,48.8788,-113.3681
+glades,florida,0.3961,Trump,26.9464,-81.3091
+gladwin,michigan,0.3472,Trump,44.0296,-84.4968
+glenn,california,0.3013,Trump,39.7386,-122.0085
+gloucester,virginia,0.1908,Trump,37.5001,-76.454
+glynn,georgia,0.2863,Trump,31.2804,-81.5305
+gogebic,michigan,0.1496,Trump,46.4802,-90.0515
+goliad,texas,0.443,Trump,28.8358,-97.4442
+gonzales,texas,0.4779,Trump,29.6868,-97.2958
+goochland,virginia,0.2505,Trump,37.8252,-77.9899
+goodhue,minnesota,0.1799,Trump,44.603,-92.7263
+gooding,idaho,0.5419,Trump,42.9449,-114.9104
+gordon,georgia,0.6363,Trump,34.5833,-84.9068
+goshen,wyoming,0.6121,Trump,42.4987,-104.5134
+grady,oklahoma,0.4499,Trump,35.3067,-97.9664
+grafton,new hampshire,0.1895,Clinton,44.3112,-71.7768
+graham,north carolina,0.5198,Trump,35.4231,-83.7795
+grainger,tennessee,0.6843,Trump,36.3917,-83.366
+grand,utah,0.091,Trump,38.9999,-109.615
+grand forks,north dakota,0.1851,Trump,48.1514,-97.6443
+grand isle,vermont,0.1607,Clinton,44.9685,-73.281
+grand traverse,michigan,0.1253,Trump,44.9559,-85.49
+grant,wisconsin,0.3875,Clinton,43.2366,-90.5873
+granville,north carolina,0.025,Trump,36.5076,-78.5646
+gratiot,michigan,0.2563,Trump,43.4278,-84.5952
+graves,kentucky,0.5643,Trump,36.93,-88.6223
+gray,texas,0.7547,Trump,35.538,-100.9579
+grays harbor,washington,0.0683,Trump,47.4859,-123.9206
+grayson,virginia,0.5591,Trump,36.7306,-81.1915
+green,wisconsin,0.3344,Clinton,42.8423,-89.3818
+green lake,wisconsin,0.3768,Trump,43.9769,-88.949
+greenbrier,west virginia,0.4116,Trump,38.0576,-80.7068
+greene,virginia,0.0147,Clinton,38.3301,-78.475
+greenlee,arizona,0.2467,Trump,33.6512,-109.0685
+greensville,virginia,0.1882,Clinton,36.8143,-77.4683
+greenup,kentucky,0.4547,Trump,38.7148,-82.9366
+greenville,south carolina,0.247,Trump,35.0654,-82.6093
+greenwood,south carolina,0.3916,Trump,34.4025,-82.2678
+greer,oklahoma,0.6112,Trump,35.0702,-99.5421
+gregg,texas,0.4127,Trump,32.5826,-94.7535
+gregory,south dakota,0.5782,Trump,43.2351,-99.514
+grenada,mississippi,0.1489,Trump,33.7872,-89.8219
+grimes,texas,0.5112,Trump,30.7326,-96.0911
+grundy,tennessee,0.4341,Trump,35.4652,-85.6942
+guadalupe,texas,0.3178,Trump,29.7706,-97.8186
+guernsey,ohio,0.4257,Trump,40.1589,-81.549
+guilford,north carolina,0.2003,Clinton,36.2552,-79.9705
+gulf,florida,0.4953,Trump,30.0933,-85.2048
+gunnison,colorado,0.1955,Clinton,38.9468,-107.3781
+guthrie,iowa,0.333,Trump,41.8519,-94.5583
+gwinnett,georgia,0.0575,Clinton,34.1124,-83.9965
+habersham,georgia,0.6635,Trump,34.6766,-83.4358
+hale,texas,0.1253,Clinton,34.2789,-101.8941
+halifax,virginia,0.0564,Clinton,36.9356,-78.972
+hall,texas,0.449,Trump,34.7122,-100.5347
+hamblen,tennessee,0.5717,Trump,36.2621,-83.1458
+hamilton,texas,0.3213,Clinton,31.9597,-98.0249
+hamlin,south dakota,0.5417,Trump,44.7572,-97.3083
+hampden,massachusetts,0.1603,Clinton,42.2794,-72.9888
+hampshire,west virginia,0.1138,Clinton,39.5029,-78.6272
+hampton,south carolina,0.191,Clinton,32.9479,-81.0318
+hampton (city),virginia,0.3778,Clinton,37.0831,-76.36
+hancock,west virginia,0.0719,Clinton,40.614,-80.6011
+hanover,virginia,0.3247,Trump,37.9038,-77.6308
+hansford,texas,0.8007,Trump,36.2868,-101.4089
+hanson,south dakota,0.5349,Trump,43.7588,-97.8712
+haralson,georgia,0.7162,Trump,33.8823,-85.2349
+hardee,florida,0.4079,Trump,27.6019,-81.8507
+hardeman,texas,0.0799,Trump,34.2955,-99.7494
+hardin,texas,0.5316,Trump,30.5185,-94.4458
+hardy,west virginia,0.5472,Trump,39.1502,-78.9509
+harford,maryland,0.2452,Trump,39.7077,-76.316
+harlan,nebraska,0.7212,Trump,40.3103,-99.2898
+harnett,north carolina,0.2408,Trump,35.4897,-78.7249
+harney,oregon,0.5772,Trump,43.8643,-118.4707
+harper,oklahoma,0.6216,Trump,36.8789,-99.9003
+harris,texas,0.1857,Clinton,30.2106,-95.5257
+harrison,west virginia,0.4722,Trump,39.4351,-80.3534
+hart,kentucky,0.4762,Trump,37.3741,-85.896
+hartford,connecticut,0.2151,Clinton,42.0219,-72.8409
+hartley,texas,0.7995,Trump,35.8856,-102.3969
+harvey,kansas,0.2405,Trump,38.136,-97.4495
+haskell,texas,0.5946,Trump,33.3749,-99.8473
+hawaii,hawaii,0.3663,Clinton,20.238,-155.838
+hawkins,tennessee,0.6335,Trump,36.5629,-82.6532
+hays,texas,0.0086,Trump,30.2268,-98.1029
+haywood,tennessee,0.0821,Clinton,35.61,-89.2624
+heard,georgia,0.6245,Trump,33.278,-85.134
+hempstead,arkansas,0.2873,Trump,33.923,-93.6266
+henderson,texas,0.452,Trump,32.3257,-95.7737
+hendricks,indiana,0.3419,Trump,39.8843,-86.5429
+hendry,florida,0.1424,Trump,26.7633,-81.4388
+hennepin,minnesota,0.3531,Clinton,45.1982,-93.4668
+henrico,virginia,0.2096,Clinton,37.6628,-77.534
+henry,virginia,0.2269,Clinton,36.7534,-80.0055
+herkimer,new york,0.3452,Trump,43.8167,-74.8862
+hernando,florida,0.2899,Trump,28.6622,-82.5236
+hertford,north carolina,0.3768,Clinton,36.5015,-77.0094
+hickman,tennessee,0.5333,Trump,35.9471,-87.2996
+hickory,missouri,0.5349,Trump,38.0239,-93.1978
+hidalgo,texas,0.2001,Clinton,26.6279,-98.2498
+highland,virginia,0.5613,Trump,38.5152,-79.5613
+highlands,florida,0.3204,Trump,27.6001,-81.5015
+hill,texas,0.4116,Trump,32.1636,-97.146
+hillsborough,new hampshire,0.0403,Clinton,43.1207,-71.9028
+hillsdale,michigan,0.4676,Trump,42.0603,-84.6594
+hinds,mississippi,0.4371,Clinton,32.3953,-90.1544
+hocking,ohio,0.3652,Trump,39.5509,-82.5626
+hockley,texas,0.6229,Trump,33.8104,-102.5656
+hoke,north carolina,0.1083,Clinton,34.989,-79.2228
+holmes,ohio,0.0528,Clinton,40.652,-82.1455
+holt,nebraska,0.7112,Trump,42.5713,-99.1396
+honolulu,hawaii,0.2987,Clinton,21.675,-157.9725
+hood,texas,0.6648,Trump,32.5343,-97.6158
+hood river,oregon,0.302,Clinton,45.6711,-121.5391
+hopewell (city),virginia,0.0933,Clinton,37.2876,-77.295
+hopkins,texas,0.5824,Trump,33.3334,-95.374
+horry,south carolina,0.3782,Trump,34.2426,-79.1625
+hot spring,arkansas,0.4212,Trump,34.604,-92.6259
+hot springs,wyoming,0.6071,Trump,43.8042,-108.1805
+houghton,michigan,0.1573,Trump,47.2842,-88.3875
+houston,texas,0.3532,Trump,31.4972,-95.4447
+howard,texas,0.1313,Clinton,32.4125,-101.6517
+howell,missouri,0.6321,Trump,36.9958,-91.9405
+hubbard,minnesota,0.3359,Trump,47.2368,-94.7772
+hudson,new jersey,0.5181,Clinton,40.7939,-74.0258
+huerfano,colorado,0.0647,Trump,37.7878,-105.1849
+hughes,south dakota,0.4489,Trump,44.5215,-99.7382
+humboldt,nevada,0.1255,Clinton,41.9899,-118.6343
+humphreys,tennessee,0.0466,Clinton,36.1185,-87.6422
+hunt,texas,0.5632,Trump,33.3605,-96.0691
+hunterdon,new jersey,0.1384,Trump,40.7162,-74.8152
+huntingdon,pennsylvania,0.5069,Trump,40.7414,-78.0775
+huntington,indiana,0.5097,Trump,40.96,-85.3526
+huron,ohio,0.3797,Trump,41.2684,-82.8577
+hutchinson,texas,0.6606,Trump,35.8377,-101.45
+hyde,south dakota,0.1403,Trump,44.5326,-99.4543
+ida,iowa,0.519,Trump,42.5105,-95.4298
+idaho,idaho,0.6379,Trump,46.1349,-116.3982
+imperial,california,0.4183,Clinton,34.0922,-117.4612
+independence,arkansas,0.5183,Trump,35.8729,-91.754
+indian river,florida,0.2449,Trump,27.8359,-80.4931
+indiana,pennsylvania,0.3565,Trump,40.9037,-79.1257
+ingham,michigan,0.2765,Clinton,42.7635,-84.558
+inyo,california,0.1367,Trump,37.5014,-118.4048
+ionia,michigan,0.3098,Trump,43.1136,-85.0077
+iosco,michigan,0.2997,Trump,44.4465,-83.3619
+iowa,wisconsin,0.0408,Clinton,43.1571,-90.2889
+iredell,north carolina,0.3682,Trump,36.0369,-80.8967
+iron,wisconsin,0.3787,Trump,46.4959,-90.4383
+iroquois,illinois,0.5597,Trump,41.0254,-87.8959
+irwin,georgia,0.4977,Trump,31.7063,-83.4086
+isabella,michigan,0.0368,Trump,43.6843,-84.7833
+isanti,minnesota,0.3823,Trump,45.7175,-93.2037
+island,washington,0.0619,Clinton,48.3402,-122.6695
+isle of wight,virginia,0.2099,Trump,36.9969,-76.5645
+itasca,minnesota,0.1651,Trump,47.8472,-93.5799
+itawamba,mississippi,0.7562,Trump,34.4812,-88.1842
+izard,arkansas,0.5383,Trump,36.2345,-91.8154
+jack,texas,0.7964,Trump,33.2636,-98.3931
+jackson,wisconsin,0.3321,Clinton,44.4452,-90.9356
+james city,virginia,0.0513,Trump,37.3901,-76.8253
+jasper,texas,0.2444,Clinton,30.8673,-93.9977
+jay,indiana,0.4782,Trump,40.5446,-84.9117
+jeff davis,texas,0.6291,Trump,30.62,-104.4811
+jefferson,wisconsin,0.0523,Clinton,43.193,-88.7185
+jefferson davis,mississippi,0.201,Clinton,31.6057,-89.8735
+jefferson parish,louisiana,0.1475,Trump,30.0252,-90.2522
+jenkins,georgia,0.2584,Trump,32.9129,-81.8538
+jennings,indiana,0.527,Trump,39.0665,-85.7129
+jerome,idaho,0.4903,Trump,42.7178,-114.5012
+jersey,illinois,0.4642,Trump,39.1986,-90.1542
+jessamine,kentucky,0.4003,Trump,37.9434,-84.6419
+jim hogg,texas,0.5687,Clinton,27.2997,-98.6829
+jim wells,texas,0.1034,Clinton,28.025,-97.8705
+jo daviess,illinois,0.1486,Trump,42.489,-89.986
+johnson,wyoming,0.18,Clinton,44.4976,-106.871
+johnston,oklahoma,0.4371,Trump,34.4233,-96.4867
+jones,texas,0.4067,Trump,32.9453,-99.7859
+josephine,oregon,0.3135,Trump,42.6522,-123.425
+juab,utah,0.5699,Trump,39.9541,-112.1174
+juneau,wisconsin,0.2631,Trump,44.1427,-90.3087
+juniata,pennsylvania,0.6176,Trump,40.6884,-77.1223
+kalamazoo,michigan,0.1279,Clinton,42.3757,-85.4447
+kalkaska,michigan,0.441,Trump,44.8449,-85.2943
+kanabec,minnesota,0.3573,Trump,45.8958,-93.2942
+kanawha,west virginia,0.2064,Trump,38.5428,-81.6334
+kandiyohi,minnesota,0.255,Trump,45.3583,-95.2049
+kane,utah,0.132,Clinton,37.5169,-112.6636
+kankakee,illinois,0.1326,Trump,41.2514,-87.8468
+karnes,texas,0.4336,Trump,29.0514,-97.8343
+kauai,hawaii,0.3373,Clinton,22.2192,-159.4866
+kaufman,texas,0.4703,Trump,32.7515,-96.2831
+kay,oklahoma,0.5022,Trump,36.9331,-97.3082
+kearney,nebraska,0.6074,Trump,40.5716,-98.7851
+keith,nebraska,0.6699,Trump,41.3236,-101.7673
+kemper,mississippi,0.2261,Clinton,32.8826,-88.8289
+kendall,texas,0.3254,Trump,29.9677,-98.905
+kennebec,maine,0.0372,Trump,44.644,-69.5284
+kenosha,wisconsin,0.0034,Trump,42.6423,-87.9032
+kent,texas,0.0308,Trump,33.3632,-100.6937
+kenton,kentucky,0.2606,Trump,39.0873,-84.549
+keokuk,iowa,0.4364,Trump,41.4868,-92.3867
+kern,california,0.1783,Trump,35.7715,-119.2459
+kerr,texas,0.5627,Trump,30.1725,-99.485
+kershaw,south carolina,0.2483,Trump,34.457,-80.7892
+kewaunee,wisconsin,0.2786,Trump,44.6101,-87.4578
+kimble,texas,0.7666,Trump,30.6768,-99.5765
+king,washington,0.5052,Clinton,47.7684,-122.1271
+king george,virginia,0.2788,Trump,38.3375,-77.0429
+king william,virginia,0.3533,Trump,37.8221,-77.1885
+king and queen,virginia,0.1682,Trump,37.9226,-77.1449
+kingfisher,oklahoma,0.7134,Trump,36.0868,-97.8926
+kingman,kansas,0.5831,Trump,37.6309,-98.3564
+kings,new york,0.2374,Clinton,40.7272,-73.9498
+kingsbury,south dakota,0.383,Trump,44.4918,-97.2184
+kiowa,oklahoma,0.5237,Trump,35.0759,-98.876
+kit carson,colorado,0.6554,Trump,39.3448,-102.4281
+kitsap,washington,0.1249,Clinton,47.9061,-122.5655
+kittitas,washington,0.151,Trump,47.2503,-121.0456
+kittson,minnesota,0.2226,Trump,48.9975,-97.2045
+klamath,oregon,0.4477,Trump,43.4442,-121.7109
+kleberg,texas,0.0368,Clinton,27.5159,-97.8561
+klickitat,washington,0.1525,Trump,46.0071,-121.2885
+knott,kentucky,0.54,Trump,37.4331,-82.9018
+knox,texas,0.2825,Clinton,33.584,-99.7923
+koochiching,minnesota,0.2,Trump,48.6247,-94.1677
+kootenai,idaho,0.4252,Trump,47.9822,-116.5494
+kosciusko,indiana,0.5515,Trump,41.4065,-85.7184
+kossuth,iowa,0.3654,Trump,43.4346,-94.1503
+la crosse,wisconsin,0.0959,Clinton,44.0287,-91.0642
+la paz,arizona,0.4184,Trump,34.15,-114.2891
+la plata,colorado,0.0921,Clinton,37.2874,-107.8617
+la salle,texas,0.1244,Clinton,28.4887,-98.8518
+lagrange,indiana,0.5176,Trump,41.7286,-85.4727
+lamoure,north dakota,0.461,Trump,46.5514,-98.369
+laporte,indiana,0.0641,Trump,41.7229,-86.5841
+labette,kansas,0.3786,Trump,37.3389,-95.2693
+lac qui parle,minnesota,0.259,Trump,45.1556,-96.3224
+lackawanna,pennsylvania,0.034,Clinton,41.5981,-75.7146
+laclede,missouri,0.6449,Trump,37.8346,-92.7382
+lafayette,wisconsin,0.3956,Trump,42.8062,-89.8555
+lake,tennessee,0.203,Clinton,36.3846,-89.4649
+lake of the woods,minnesota,0.4426,Trump,49.3453,-95.0627
+lamar,texas,0.5403,Trump,33.869,-95.5711
+lamb,texas,0.5813,Trump,34.2415,-102.4213
+lamoille,vermont,0.3153,Clinton,44.7343,-72.5863
+lampasas,texas,0.6003,Trump,31.2167,-98.4006
+lancaster,virginia,0.1432,Clinton,37.7935,-76.5508
+lander,nevada,0.5906,Trump,40.622,-116.9554
+lane,oregon,0.1893,Clinton,44.2064,-122.8246
+langlade,wisconsin,0.3147,Trump,45.4409,-89.1516
+lanier,georgia,0.4121,Trump,31.0381,-83.0889
+lapeer,michigan,0.3834,Trump,43.3141,-83.272
+laramie,wyoming,0.3323,Trump,41.5424,-104.2866
+larimer,colorado,0.0493,Clinton,40.8701,-105.3766
+larue,kentucky,0.553,Trump,37.5746,-85.7232
+las animas,colorado,0.1556,Trump,37.5192,-104.223
+lassen,california,0.4959,Trump,41.1315,-121.1286
+latah,idaho,0.0462,Clinton,46.9448,-116.9141
+latimer,oklahoma,0.5672,Trump,34.9422,-95.0904
+lauderdale,tennessee,0.2933,Trump,35.8862,-89.4147
+laurel,kentucky,0.6909,Trump,37.2488,-84.138
+laurens,south carolina,0.2912,Trump,34.5953,-82.1147
+lavaca,texas,0.7146,Trump,29.57,-97.1031
+lawrence,tennessee,0.4525,Trump,35.4307,-87.3198
+le flore,oklahoma,0.5873,Trump,35.3434,-94.4403
+le sueur,minnesota,0.3066,Trump,44.5402,-93.5805
+lea,new mexico,0.4831,Trump,33.5272,-103.3564
+leake,mississippi,0.1417,Trump,32.864,-89.6695
+leavenworth,kansas,0.2468,Trump,39.3485,-94.9265
+lebanon,pennsylvania,0.3555,Trump,40.4524,-76.4267
+lee,virginia,0.169,Clinton,36.8315,-83.0518
+leelanau,michigan,0.0315,Trump,45.1157,-85.6173
+leflore,mississippi,0.4098,Clinton,33.7515,-90.3133
+lehigh,pennsylvania,0.0444,Clinton,40.7455,-75.6592
+lemhi,idaho,0.56,Trump,45.5704,-113.9913
+lenawee,michigan,0.2108,Trump,42.0639,-83.9442
+lenoir,north carolina,0.0628,Trump,35.3191,-77.595
+leon,texas,0.2577,Clinton,31.5849,-95.8491
+leslie,kentucky,0.8048,Trump,37.2187,-83.4974
+letcher,kentucky,0.6296,Trump,37.2409,-82.7696
+levy,florida,0.4475,Trump,29.4832,-82.8809
+lewis,west virginia,0.5259,Trump,39.11,-80.4311
+lewis and clark,montana,0.069,Trump,47.4537,-112.3883
+lexington,south carolina,0.3671,Trump,34.1312,-81.3318
+lexington (city),virginia,0.3056,Clinton,37.7885,-79.4581
+liberty,texas,0.1879,Clinton,30.4596,-94.7436
+licking,ohio,0.2895,Trump,40.2528,-82.5177
+limestone,texas,0.5143,Trump,31.7504,-96.5416
+lincoln,wyoming,0.2954,Clinton,43.1635,-111.018
+linn,oregon,0.2792,Clinton,44.7516,-122.4768
+litchfield,connecticut,0.1389,Trump,42.032,-73.4038
+little river,arkansas,0.4183,Trump,33.8583,-94.3952
+live oak,texas,0.6353,Trump,28.6373,-98.2565
+livingston,new york,0.4348,Trump,42.9567,-77.8493
+llano,texas,0.6223,Trump,30.866,-98.8357
+logan,west virginia,0.529,Trump,38.0043,-82.0401
+long,georgia,0.3084,Trump,31.7705,-81.7453
+lonoke,arkansas,0.5281,Trump,34.9921,-91.9798
+lorain,ohio,0.0029,Trump,41.5019,-82.0111
+los alamos,new mexico,0.1972,Clinton,35.8663,-106.2676
+los angeles,california,0.4805,Clinton,34.7471,-118.3687
+loudon,tennessee,0.5437,Trump,35.8104,-84.2665
+loudoun,virginia,0.1679,Clinton,39.2204,-77.6596
+louisa,virginia,0.2645,Trump,38.0515,-78.0728
+love,oklahoma,0.577,Trump,34.0539,-97.1324
+lowndes,mississippi,0.1525,Clinton,33.5671,-88.3278
+lubbock,texas,0.3835,Trump,33.7296,-101.8355
+lucas,ohio,0.1085,Clinton,41.7207,-83.5694
+luce,michigan,0.4173,Trump,46.3438,-85.515
+lumpkin,georgia,0.6002,Trump,34.5299,-83.9798
+luna,new mexico,0.0388,Trump,32.2398,-107.7404
+lunenburg,virginia,0.1758,Trump,36.9835,-78.2372
+luzerne,pennsylvania,0.1962,Trump,41.3665,-75.8362
+lycoming,pennsylvania,0.4484,Trump,41.5299,-77.4917
+lynchburg (city),virginia,0.0903,Trump,37.4376,-79.205
+lynn,texas,0.5724,Trump,33.3451,-101.9203
+lyon,nevada,0.4394,Trump,39.6019,-119.235
+mackinac,michigan,0.2718,Trump,46.2048,-85.7865
+macomb,michigan,0.1155,Trump,42.8409,-82.8899
+macon,tennessee,0.0085,Clinton,36.539,-86.0242
+macoupin,illinois,0.3502,Trump,39.5064,-89.7783
+madera,california,0.1733,Trump,37.4076,-119.7233
+madison,virginia,0.3672,Trump,38.5095,-78.2638
+magoffin,kentucky,0.5184,Trump,37.7843,-83.0109
+mahaska,iowa,0.4572,Trump,41.4883,-92.4703
+mahnomen,minnesota,0.0294,Trump,47.4491,-95.9454
+mahoning,ohio,0.03,Clinton,41.1257,-80.6277
+major,oklahoma,0.7738,Trump,36.409,-98.4423
+malheur,oregon,0.4953,Trump,44.3009,-117.9444
+manassas (city),virginia,0.1618,Clinton,38.793,-77.5266
+manassas park (city),virginia,0.285,Clinton,38.7709,-77.4494
+manatee,florida,0.1715,Trump,27.5722,-82.5832
+manistee,michigan,0.1537,Trump,44.5232,-86.2061
+manitowoc,wisconsin,0.2168,Trump,44.3272,-87.6237
+marathon,wisconsin,0.182,Trump,45.0273,-89.6541
+marengo,alabama,0.0349,Clinton,32.4908,-87.8397
+maricopa,arizona,0.0345,Trump,33.9686,-112.7296
+maries,missouri,0.6147,Trump,38.2711,-91.7303
+marin,california,0.6276,Clinton,38.2508,-122.9653
+marinette,wisconsin,0.3379,Trump,45.7653,-88.0309
+marion,west virginia,0.2737,Clinton,39.6103,-80.2529
+mariposa,california,0.2381,Trump,37.7314,-119.6489
+marlboro,south carolina,0.1614,Clinton,34.7307,-79.8011
+marquette,wisconsin,0.1155,Clinton,43.8989,-89.2336
+marshall,west virginia,0.2951,Clinton,40.0181,-80.7342
+martin,texas,0.3956,Trump,32.3575,-101.9607
+martinsville (city),virginia,0.2353,Clinton,36.6871,-79.8691
+mason,west virginia,0.379,Trump,39.0064,-82.0282
+massac,illinois,0.4959,Trump,37.2092,-88.8442
+matagorda,texas,0.4067,Trump,29.1825,-95.9086
+mathews,virginia,0.3688,Trump,37.5043,-76.2886
+maui,hawaii,0.3857,Clinton,21.1929,-156.9835
+maury,tennessee,0.3922,Trump,35.7588,-87.1515
+maverick,texas,0.558,Clinton,28.9256,-100.5912
+mayes,oklahoma,0.5172,Trump,36.5245,-95.0239
+mcclain,oklahoma,0.6092,Trump,35.2453,-97.6216
+mccook,south dakota,0.4527,Trump,43.7557,-97.5936
+mccormick,south carolina,0.0329,Trump,34.0065,-82.5324
+mccracken,kentucky,0.3719,Trump,37.0922,-88.7611
+mccreary,kentucky,0.7527,Trump,36.8347,-84.4436
+mcculloch,texas,0.6695,Trump,31.3957,-99.599
+mccurtain,oklahoma,0.639,Trump,34.4954,-94.6981
+mcdonald,missouri,0.6401,Trump,36.7323,-94.3986
+mcdonough,illinois,0.1171,Trump,40.618,-90.4727
+mcdowell,west virginia,0.5092,Trump,37.5301,-81.8882
+mcduffie,georgia,0.187,Trump,33.528,-82.5104
+mchenry,north dakota,0.3141,Trump,48.5816,-100.7323
+mcintosh,oklahoma,0.3013,Trump,35.5297,-95.7596
+mckean,pennsylvania,0.4724,Trump,41.9726,-78.5626
+mckenzie,north dakota,0.6454,Trump,47.9405,-102.8906
+mckinley,new mexico,0.3945,Clinton,36.0021,-108.6229
+mclean,north dakota,0.2858,Trump,47.8156,-101.2932
+mclennan,texas,0.2709,Trump,31.7754,-97.1258
+mcleod,minnesota,0.3842,Trump,44.9585,-94.0552
+mcminn,tennessee,0.5973,Trump,35.5819,-84.5721
+mcnairy,tennessee,0.5971,Trump,35.3729,-88.3675
+mcpherson,south dakota,0.4198,Trump,45.8823,-99.1698
+meade,south dakota,0.479,Trump,45.031,-102.8031
+mecklenburg,virginia,0.087,Clinton,36.8053,-78.4553
+mecosta,michigan,0.2611,Trump,43.7677,-85.5213
+medina,texas,0.3479,Trump,29.5441,-98.9231
+meeker,minnesota,0.4026,Trump,45.3087,-94.4297
+meigs,tennessee,0.5449,Trump,35.6862,-84.6548
+menard,texas,0.3771,Trump,30.9119,-99.7847
+mendocino,california,0.2915,Clinton,39.9465,-123.7552
+menifee,kentucky,0.4712,Trump,37.9807,-83.7447
+menominee,wisconsin,0.294,Trump,44.9808,-88.8309
+merced,california,0.0793,Clinton,37.5354,-120.378
+mercer,west virginia,0.1509,Clinton,37.55,-81.128
+meriwether,georgia,0.1542,Trump,33.2101,-84.7444
+merrick,nebraska,0.624,Trump,41.319,-97.6671
+merrimack,new hampshire,0.0296,Clinton,43.5274,-71.7292
+mesa,colorado,0.3629,Trump,39.3118,-108.2304
+metcalfe,kentucky,0.5445,Trump,37.1177,-85.7038
+miami,ohio,0.4738,Trump,40.1486,-84.2531
+miami-dade,florida,0.2957,Clinton,25.9597,-80.1403
+middlesex,virginia,0.0513,Clinton,37.73,-76.689
+midland,texas,0.3874,Trump,32.0295,-102.0915
+mifflin,pennsylvania,0.5749,Trump,40.7203,-77.5567
+milam,texas,0.4994,Trump,30.9736,-96.9642
+millard,utah,0.6556,Trump,39.5302,-112.2952
+mille lacs,minnesota,0.3576,Trump,46.1696,-93.4741
+miller,missouri,0.5479,Trump,38.4109,-92.5294
+mills,texas,0.5975,Trump,31.641,-98.5276
+milwaukee,wisconsin,0.3745,Clinton,43.1624,-87.9898
+mineral,west virginia,0.466,Trump,39.6133,-78.775
+mingo,west virginia,0.6876,Trump,37.9198,-82.2547
+minidoka,idaho,0.5415,Trump,42.773,-113.5098
+minnehaha,south dakota,0.1461,Trump,43.8228,-96.7223
+missaukee,michigan,0.5233,Trump,44.3767,-85.0946
+mississippi,missouri,0.2671,Trump,36.9213,-89.3342
+missoula,montana,0.1574,Clinton,47.5097,-113.7075
+mitchell,texas,0.3684,Trump,32.4112,-100.7123
+mobile,alabama,0.1387,Trump,31.3247,-86.5067
+modoc,california,0.4808,Trump,41.8644,-120.162
+moffat,colorado,0.6788,Trump,40.9979,-107.3388
+mohave,arizona,0.5145,Trump,36.9903,-112.9758
+moniteau,missouri,0.6033,Trump,38.7793,-92.4807
+monmouth,new jersey,0.0946,Trump,40.4414,-74.1306
+mono,california,0.1137,Clinton,38.6415,-119.5122
+monona,iowa,0.4135,Trump,42.198,-95.9769
+monongalia,west virginia,0.1038,Trump,39.7142,-80.2265
+monroe,wisconsin,0.2639,Clinton,44.157,-90.4967
+montague,texas,0.7718,Trump,33.8164,-97.944
+montcalm,michigan,0.3402,Trump,43.4337,-85.1416
+monterey,california,0.3924,Clinton,36.8769,-121.6324
+montezuma,colorado,0.3031,Trump,37.5888,-108.8095
+montgomery,virginia,0.0016,Clinton,37.271,-79.9414
+montmorency,michigan,0.4417,Trump,45.0691,-83.9468
+montour,pennsylvania,0.2839,Trump,41.0518,-76.6747
+montrose,colorado,0.4207,Trump,38.5976,-107.9921
+moody,south dakota,0.2345,Trump,44.0658,-96.6222
+moore,texas,0.4564,Trump,36.0412,-102.0007
+mora,new mexico,0.3578,Clinton,36.1388,-105.3854
+morgan,west virginia,0.4934,Trump,39.5836,-78.3331
+morrill,nebraska,0.6953,Trump,41.8934,-103.085
+morris,texas,0.2371,Trump,33.1912,-94.6891
+morrison,minnesota,0.5297,Trump,46.2881,-94.5638
+morrow,oregon,0.4725,Trump,45.8877,-119.507
+morton,north dakota,0.5302,Trump,46.8936,-102.0367
+moultrie,illinois,0.4795,Trump,39.7192,-88.6417
+mountrail,north dakota,0.3342,Trump,48.3458,-102.4185
+mower,minnesota,0.0785,Trump,43.809,-92.7595
+muhlenberg,kentucky,0.4688,Trump,37.343,-87.233
+multnomah,oregon,0.5834,Clinton,45.6401,-122.838
+murray,oklahoma,0.5534,Trump,34.5116,-96.9797
+muscatine,iowa,0.0663,Trump,41.5914,-90.8588
+muscogee,georgia,0.186,Clinton,32.6288,-85.0017
+muskegon,michigan,0.0088,Clinton,43.4415,-86.1509
+muskingum,ohio,0.3496,Trump,40.1412,-82.0099
+muskogee,oklahoma,0.2918,Trump,35.8108,-95.684
+musselshell,montana,0.6766,Trump,46.5986,-107.8692
+nacogdoches,texas,0.3535,Trump,31.8254,-94.9189
+nantucket,massachusetts,0.3517,Clinton,41.2778,-70.046
+napa,california,0.3526,Clinton,38.6493,-122.4453
+nash,north carolina,0.0025,Trump,36.0901,-78.0705
+nassau,new york,0.2229,Clinton,40.9074,-73.5601
+natrona,wyoming,0.5216,Trump,43.4114,-106.28
+navajo,arizona,0.0792,Trump,36.6883,-110.2652
+navarro,texas,0.4875,Trump,32.2954,-96.3887
+nelson,virginia,0.2006,Trump,37.9626,-78.841
+nemaha,nebraska,0.5571,Trump,40.5199,-95.8674
+neosho,kansas,0.4676,Trump,37.6811,-95.1388
+neshoba,mississippi,0.4738,Trump,32.7572,-89.1154
+nevada,california,0.1299,Clinton,39.3928,-120.0212
+new castle,delaware,0.296,Clinton,39.8188,-75.5064
+new hanover,north carolina,0.0409,Trump,34.3405,-77.9014
+new haven,connecticut,0.1203,Clinton,41.597,-72.9828
+new kent,virginia,0.3759,Trump,37.553,-77.0742
+new london,connecticut,0.0672,Clinton,41.6445,-72.0677
+new madrid,missouri,0.4539,Trump,36.8504,-89.6847
+new york,new york,0.772,Clinton,40.8662,-73.9221
+newaygo,michigan,0.3965,Trump,43.7321,-85.8778
+newberry,south carolina,0.2262,Trump,34.4955,-81.606
+newport,rhode island,0.1936,Clinton,41.6338,-71.1808
+newport news (city),virginia,0.2535,Clinton,37.1989,-76.5821
+newton,texas,0.2741,Clinton,31.0414,-93.8039
+nez perce,idaho,0.3414,Trump,46.4807,-116.4114
+niagara,new york,0.19,Trump,43.3368,-78.542
+nicholas,west virginia,0.4868,Trump,38.4914,-80.7459
+nicollet,minnesota,0.0307,Trump,44.4073,-94.4365
+noble,oklahoma,0.5301,Trump,36.5609,-97.1512
+nobles,minnesota,0.2986,Trump,43.8404,-96.0128
+nodaway,missouri,0.4079,Trump,40.5483,-94.8189
+nolan,texas,0.5316,Trump,32.4726,-100.3979
+norfolk,massachusetts,0.2794,Clinton,42.3431,-71.123
+norfolk (city),virginia,0.4198,Clinton,36.9442,-76.252
+norman,minnesota,0.1346,Trump,47.4554,-96.7838
+northampton,virginia,0.1263,Clinton,37.5349,-75.8769
+northumberland,virginia,0.3521,Trump,37.9792,-76.5018
+norton,kansas,0.6991,Trump,39.8891,-99.7042
+nottoway,virginia,0.1314,Trump,37.1952,-78.1961
+nowata,oklahoma,0.6087,Trump,36.9837,-95.6065
+noxubee,mississippi,0.5686,Clinton,33.2346,-88.5823
+nuckolls,nebraska,0.6322,Trump,40.2767,-98.2402
+nueces,texas,0.0154,Trump,27.8458,-97.596
+nye,nevada,0.4198,Trump,38.8688,-117.9221
+o'brien,iowa,0.6017,Trump,43.189,-95.6622
+oakland,michigan,0.0812,Clinton,42.8437,-83.1406
+obion,tennessee,0.5809,Trump,36.4814,-88.8808
+ocean,new jersey,0.34,Trump,40.121,-74.3017
+oceana,michigan,0.2734,Trump,43.8237,-86.3868
+ochiltree,texas,0.7897,Trump,36.3748,-100.8156
+oconee,south carolina,0.4426,Trump,34.897,-83.0375
+oconto,wisconsin,0.3699,Trump,45.3163,-88.5032
+ogemaw,michigan,0.3656,Trump,44.5014,-83.8686
+ogle,illinois,0.2655,Trump,42.1905,-89.5939
+oglethorpe,georgia,0.42,Trump,33.9076,-83.1646
+ohio,west virginia,0.4578,Trump,40.1698,-80.5958
+okaloosa,florida,0.4776,Trump,30.9524,-86.4003
+okanogan,washington,0.2008,Trump,48.9397,-119.4032
+okeechobee,florida,0.3953,Trump,27.4203,-80.9454
+okfuskee,oklahoma,0.4698,Trump,35.5182,-96.5719
+oklahoma,oklahoma,0.1051,Trump,35.722,-97.5133
+okmulgee,oklahoma,0.3266,Trump,35.7896,-96.0264
+oktibbeha,mississippi,0.0111,Clinton,33.4599,-88.8322
+oldham,texas,0.3105,Trump,35.5314,-102.2541
+olmsted,minnesota,0.0076,Clinton,44.1489,-92.485
+oneida,wisconsin,0.3514,Trump,45.9186,-89.6954
+onondaga,new york,0.1283,Clinton,43.2252,-76.1351
+onslow,north carolina,0.3465,Trump,34.8624,-77.5863
+ontario,new york,0.0862,Trump,43.0345,-77.1575
+ontonagon,michigan,0.2614,Trump,46.8275,-89.3485
+orange,virginia,0.0589,Clinton,38.3446,-77.8719
+orangeburg,south carolina,0.3696,Clinton,33.6211,-81.0601
+oregon,missouri,0.6009,Trump,36.6929,-91.3971
+orleans,vermont,0.2211,Clinton,45.0058,-72.1383
+osage,oklahoma,0.5305,Trump,36.7819,-96.6607
+osceola,michigan,0.1814,Clinton,44.1072,-85.4901
+oscoda,michigan,0.4429,Trump,44.8264,-84.0261
+oswego,new york,0.2324,Trump,43.6517,-76.1264
+otero,new mexico,0.2528,Trump,33.2164,-105.7743
+otoe,nebraska,0.3869,Trump,40.7355,-96.1329
+otsego,new york,0.2564,Trump,42.8402,-74.9716
+ottawa,oklahoma,0.4147,Trump,36.98,-94.8173
+otter tail,minnesota,0.3593,Trump,46.6706,-95.7948
+ouachita,arkansas,0.1034,Trump,33.7298,-92.618
+ouachita parish,louisiana,0.2543,Trump,32.7119,-92.0981
+ouray,colorado,0.1073,Clinton,38.1381,-107.7533
+outagamie,wisconsin,0.1415,Trump,44.5668,-88.4582
+overton,tennessee,0.5018,Trump,36.497,-85.3197
+owen,kentucky,0.5207,Trump,38.6277,-84.8756
+owyhee,idaho,0.6278,Trump,43.6138,-116.9472
+oxford,maine,0.13,Trump,44.6895,-71.0112
+ozark,missouri,0.6476,Trump,36.7895,-92.4091
+ozaukee,wisconsin,0.1928,Trump,43.4995,-87.8509
+pacific,washington,0.0613,Trump,46.7065,-123.9818
+page,virginia,0.4753,Trump,38.7564,-78.3873
+palm beach,florida,0.1531,Clinton,26.9831,-80.108
+palo alto,iowa,0.3603,Trump,43.2277,-94.7334
+palo pinto,texas,0.641,Trump,32.9242,-98.337
+pamlico,north carolina,0.2655,Trump,35.306,-76.5777
+panola,texas,0.3195,Trump,32.3579,-94.0913
+park,wyoming,0.372,Trump,44.9718,-108.6221
+parke,indiana,0.5204,Trump,39.9062,-87.178
+parker,texas,0.6755,Trump,32.968,-97.8472
+parmer,texas,0.3772,Trump,34.6417,-102.7241
+pasco,florida,0.2157,Trump,28.4658,-82.172
+pasquotank,north carolina,0.022,Clinton,36.2951,-76.2445
+passaic,new jersey,0.2175,Clinton,41.1709,-74.3686
+patrick,virginia,0.552,Trump,36.7921,-80.2774
+paulding,ohio,0.4405,Trump,41.2174,-84.6296
+pawnee,oklahoma,0.5252,Trump,36.4992,-96.7755
+payette,idaho,0.5986,Trump,44.0782,-116.9203
+payne,oklahoma,0.2832,Trump,36.2158,-96.9138
+peach,georgia,0.0301,Trump,32.6181,-83.789
+pearl river,mississippi,0.6675,Trump,30.8524,-89.5648
+pecos,texas,0.2189,Trump,31.2729,-102.6926
+pembina,north dakota,0.4924,Trump,48.9796,-97.5427
+pemiscot,missouri,0.3349,Trump,36.3478,-89.8181
+pend oreille,washington,0.359,Trump,48.8597,-117.3633
+pender,north carolina,0.3041,Trump,34.6845,-78.0234
+pendleton,west virginia,0.5404,Trump,38.8296,-79.3866
+pennington,south dakota,0.3026,Trump,44.225,-102.4311
+penobscot,maine,0.1093,Trump,46.0132,-68.4647
+peoria,illinois,0.0276,Clinton,40.9454,-89.5858
+pepin,wisconsin,0.2358,Trump,44.63,-91.9295
+perquimans,north carolina,0.2808,Trump,36.3096,-76.5436
+perry,tennessee,0.0635,Clinton,35.7467,-87.8251
+pershing,nevada,0.4909,Trump,40.5484,-118.0344
+person,north carolina,0.1733,Trump,36.5114,-79.0942
+petersburg (city),virginia,0.7696,Clinton,37.2123,-77.4814
+pettis,missouri,0.4694,Trump,38.9106,-93.3325
+phelps,nebraska,0.574,Trump,40.5608,-99.5759
+philadelphia,pennsylvania,0.6691,Clinton,40.1166,-75.0198
+phillips,montana,0.2234,Clinton,48.7983,-107.8686
+piatt,illinois,0.336,Trump,40.2147,-88.5179
+pickaway,ohio,0.4265,Trump,39.8142,-82.9764
+pickens,south carolina,0.4149,Trump,34.9706,-82.8076
+pickett,tennessee,0.5685,Trump,36.5709,-85.1456
+pierce,wisconsin,0.3646,Clinton,44.855,-92.6313
+pike,pennsylvania,0.3499,Trump,41.482,-74.986
+pima,arizona,0.1348,Clinton,32.5056,-110.9211
+pinal,arizona,0.1931,Trump,33.4001,-111.5028
+pine,minnesota,0.263,Trump,46.3837,-92.8182
+pinellas,florida,0.011,Trump,28.1458,-82.6825
+pipestone,minnesota,0.4627,Trump,44.1682,-96.0871
+piscataquis,maine,0.2521,Trump,45.4796,-69.6939
+pitkin,colorado,0.4541,Clinton,39.3199,-106.6596
+pitt,north carolina,0.0738,Clinton,35.7909,-77.3748
+pittsburg,oklahoma,0.5239,Trump,35.1571,-95.6215
+pittsylvania,virginia,0.3959,Trump,37.0798,-79.3
+placer,california,0.1074,Trump,39.2968,-120.6727
+plaquemines parish,louisiana,0.3361,Trump,29.8549,-89.9906
+platte,wyoming,0.3679,Trump,42.5004,-105
+pleasants,west virginia,0.5501,Trump,39.386,-81.1725
+plumas,california,0.2101,Trump,40.2975,-121.2273
+plymouth,massachusetts,0.2332,Clinton,42.2853,-70.8754
+pocahontas,west virginia,0.4474,Trump,38.5513,-79.7952
+poinsett,arkansas,0.2384,Trump,35.674,-90.3401
+polk,wisconsin,0.2802,Clinton,45.6729,-92.3545
+pondera,montana,0.3882,Trump,48.2795,-112.3033
+pontotoc,oklahoma,0.5542,Trump,34.8737,-96.5956
+pope,minnesota,0.4525,Trump,45.7244,-95.6656
+poquoson (city),virginia,0.4906,Trump,37.1313,-76.3807
+portage,wisconsin,0.0411,Clinton,44.6622,-89.3356
+porter,indiana,0.0678,Trump,41.6925,-86.9775
+portsmouth (city),virginia,0.3649,Clinton,36.8695,-76.3869
+posey,indiana,0.3918,Trump,38.2069,-87.9166
+pottawatomie,oklahoma,0.483,Trump,35.4262,-97.079
+pottawattamie,iowa,0.2155,Trump,41.5339,-95.4469
+potter,texas,0.5343,Trump,35.4015,-101.8951
+powell,montana,0.4695,Trump,47.0067,-113.0905
+power,idaho,0.3507,Trump,42.6352,-112.9458
+poweshiek,iowa,0.0685,Trump,41.808,-92.3538
+powhatan,virginia,0.4655,Trump,37.5421,-77.9189
+prairie,montana,0.4916,Trump,46.829,-105.3706
+pratt,kansas,0.54,Trump,37.7847,-98.9017
+preble,ohio,0.5399,Trump,39.9029,-84.4887
+prentiss,mississippi,0.5653,Trump,34.6694,-88.5443
+presidio,texas,0.3658,Clinton,30.293,-104.0848
+presque isle,michigan,0.2892,Trump,45.4309,-84.0854
+preston,west virginia,0.5582,Trump,39.6454,-79.6159
+price,wisconsin,0.2501,Trump,45.9363,-90.4246
+prince edward,virginia,0.0539,Clinton,37.3058,-78.5462
+prince george,virginia,0.1696,Trump,37.2447,-77.3341
+prince george's,maryland,0.8099,Clinton,39.1077,-76.872
+prince william,virginia,0.2004,Clinton,38.8674,-77.6445
+providence,rhode island,0.2117,Clinton,42.0002,-71.5631
+prowers,colorado,0.4691,Trump,38.159,-102.7147
+pueblo,colorado,0.0033,Clinton,38.387,-104.7792
+pulaski,virginia,0.2565,Clinton,37.2048,-80.6205
+pushmataha,oklahoma,0.6319,Trump,34.6622,-95.2362
+putnam,west virginia,0.4336,Trump,38.62,-81.7678
+quay,new mexico,0.3342,Trump,35.618,-103.1317
+queen anne's,maryland,0.3611,Trump,39.233,-75.9195
+queens,new york,0.534,Clinton,40.7928,-73.7767
+quitman,mississippi,0.3892,Clinton,34.3932,-90.2565
+rabun,georgia,0.6094,Trump,34.9777,-83.3199
+racine,wisconsin,0.044,Trump,42.8295,-87.9228
+radford (city),virginia,0.0474,Clinton,37.1387,-80.548
+rains,texas,0.7127,Trump,32.9007,-95.8903
+raleigh,west virginia,0.5278,Trump,37.9622,-81.4968
+ralls,missouri,0.5376,Trump,39.65,-91.2705
+ramsey,north dakota,0.041,Clinton,48.5229,-98.6543
+randall,texas,0.6511,Trump,35.1697,-101.9266
+randolph,west virginia,0.2211,Clinton,39.0964,-79.7896
+rankin,mississippi,0.5285,Trump,32.4983,-89.8686
+ransom,north dakota,0.161,Trump,46.6079,-97.6106
+rappahannock,virginia,0.178,Trump,38.8537,-78.1412
+ravalli,montana,0.3846,Trump,46.631,-114.0945
+ray,missouri,0.3706,Trump,39.4401,-94.1966
+red lake,minnesota,0.3212,Trump,47.9113,-95.9646
+red river,texas,0.5394,Trump,33.8361,-95.1487
+red willow,nebraska,0.7061,Trump,40.2581,-100.2908
+redwood,minnesota,0.4296,Trump,44.6055,-95.3178
+reeves,texas,0.076,Clinton,31.864,-103.9297
+refugio,texas,0.2703,Trump,28.4587,-96.8928
+reno,kansas,0.3595,Trump,38.1412,-98.0674
+rensselaer,new york,0.0287,Trump,42.9601,-73.4497
+renville,north dakota,0.3667,Trump,48.9576,-101.697
+republic,kansas,0.6533,Trump,39.9582,-97.4243
+reynolds,missouri,0.6141,Trump,37.5473,-90.9917
+rhea,tennessee,0.6128,Trump,35.7608,-84.8615
+rice,minnesota,0.2954,Trump,44.5003,-93.3826
+richardson,nebraska,0.5144,Trump,40.2325,-95.6895
+richland,wisconsin,0.1665,Clinton,43.4987,-90.2796
+richmond,virginia,0.0437,Clinton,37.9695,-76.7665
+riley,kansas,0.0452,Trump,39.4879,-96.7828
+ringgold,iowa,0.3975,Trump,40.8516,-94.1908
+rio arriba,new mexico,0.4022,Clinton,36.8962,-106.5829
+rio blanco,colorado,0.6837,Trump,40.0828,-108.7991
+rio grande,colorado,0.1959,Trump,37.6725,-106.6125
+ripley,missouri,0.6259,Trump,36.6704,-90.6335
+ritchie,west virginia,0.7143,Trump,39.2969,-81.0621
+riverside,california,0.0255,Clinton,34.0033,-117.445
+roane,west virginia,0.502,Trump,38.8889,-81.4399
+roanoke,virginia,0.2806,Trump,37.3696,-80.1284
+roanoke (city),virginia,0.1763,Clinton,37.3029,-79.9322
+roberts,texas,0.1552,Trump,35.7193,-100.7027
+robertson,texas,0.4028,Trump,31.156,-96.6697
+robeson,north carolina,0.0486,Trump,35.216,-80.8358
+rock,wisconsin,0.1188,Clinton,42.8386,-89.0642
+rock island,illinois,0.084,Clinton,41.6928,-90.3071
+rockbridge,virginia,0.2962,Trump,37.9878,-79.4773
+rockcastle,kentucky,0.7019,Trump,37.4234,-84.3022
+rockdale,georgia,0.2592,Clinton,33.7192,-84.0021
+rockingham,virginia,0.2446,Trump,38.7925,-78.9668
+rockland,new york,0.0509,Clinton,41.2598,-73.9892
+rockwall,texas,0.4747,Trump,32.9628,-96.3648
+rogers,oklahoma,0.5633,Trump,36.5429,-95.7142
+rolette,north dakota,0.2422,Clinton,48.9366,-99.7648
+rooks,kansas,0.7258,Trump,39.4431,-99.1037
+roosevelt,new mexico,0.2243,Trump,34.252,-103.5827
+roscommon,michigan,0.2956,Trump,44.4839,-84.6601
+roseau,minnesota,0.4628,Trump,48.9111,-95.3538
+rosebud,montana,0.3683,Trump,46.73,-106.2011
+ross,ohio,0.2738,Trump,39.4904,-83.1563
+routt,colorado,0.1697,Clinton,40.7268,-106.9215
+rowan,north carolina,0.2993,Trump,35.7901,-80.6051
+runnels,texas,0.7407,Trump,32.0318,-100.1183
+rush,kansas,0.5222,Trump,38.6557,-99.3203
+rusk,wisconsin,0.4637,Trump,45.5241,-90.7114
+russell,virginia,0.3391,Clinton,37.0738,-81.9084
+rutherford,tennessee,0.385,Trump,36.0127,-86.56
+rutland,vermont,0.0418,Clinton,43.8278,-73.0537
+sabine,texas,0.7277,Trump,31.5033,-93.8778
+sac,iowa,0.4698,Trump,42.518,-95.0939
+sacramento,california,0.2233,Clinton,38.7233,-121.4497
+sagadahoc,maine,0.0637,Clinton,44.1042,-69.8211
+saginaw,michigan,0.0114,Trump,43.5161,-84.1822
+saguache,colorado,0.0872,Clinton,38.4033,-106.4161
+salem,new jersey,0.1536,Trump,39.7435,-75.412
+salem (city),virginia,0.2484,Trump,37.2884,-80.0671
+saline,nebraska,0.3943,Trump,40.6499,-97.1056
+salt lake,utah,0.1251,Clinton,40.7869,-111.9008
+saluda,south carolina,0.3173,Trump,34.0175,-81.7754
+sampson,north carolina,0.1667,Trump,35.2301,-78.3594
+san augustine,texas,0.4807,Trump,31.5152,-94.1326
+san benito,california,0.2036,Clinton,36.8586,-121.3982
+san bernardino,california,0.0877,Clinton,35.7627,-117.3728
+san diego,california,0.1703,Clinton,33.3777,-117.0717
+san jacinto,texas,0.5838,Trump,30.7593,-95.2295
+san joaquin,california,0.1131,Clinton,38.2261,-121.4236
+san juan,washington,0.0631,Clinton,48.6968,-122.9055
+san luis obispo,california,0.0842,Clinton,35.9004,-120.5929
+san mateo,california,0.5721,Clinton,37.7058,-122.4619
+san miguel,new mexico,0.4477,Clinton,35.8226,-105.3147
+san patricio,texas,0.2408,Trump,28.0802,-97.8097
+san saba,texas,0.7357,Trump,31.3003,-98.9128
+sanders,montana,0.5196,Trump,48.0768,-115.8582
+sandoval,new mexico,0.0271,Clinton,36.2092,-107.4578
+sandusky,ohio,0.2296,Trump,41.4512,-83.3646
+sangamon,illinois,0.0943,Trump,39.9542,-89.5487
+sanilac,michigan,0.4455,Trump,43.6814,-82.7299
+sanpete,utah,0.5533,Trump,39.63,-111.6352
+santa barbara,california,0.2825,Clinton,34.9967,-119.8238
+santa clara,california,0.5238,Clinton,37.4443,-122.1497
+santa cruz,california,0.5095,Clinton,37.1547,-122.1365
+santa fe,new mexico,0.5081,Clinton,35.986,-106.0318
+santa rosa,florida,0.5345,Trump,30.8985,-87.1332
+sarasota,florida,0.1157,Trump,27.3688,-82.5268
+saratoga,new york,0.0436,Trump,43.3173,-73.8482
+sargent,north dakota,0.1997,Trump,46.2519,-97.8326
+sarpy,nebraska,0.2178,Trump,41.1814,-96.0658
+sauk,wisconsin,0.0053,Clinton,43.5939,-89.7912
+saunders,nebraska,0.4697,Trump,41.4178,-96.7862
+sawyer,wisconsin,0.2291,Trump,45.9552,-91.2783
+schenectady,new york,0.0584,Clinton,42.88,-73.9913
+schley,georgia,0.561,Trump,32.239,-84.3039
+schoharie,new york,0.3469,Trump,42.7648,-74.4569
+schoolcraft,michigan,0.286,Trump,46.388,-85.9708
+schuyler,new york,0.4508,Trump,42.4966,-76.8786
+schuylkill,pennsylvania,0.4337,Trump,40.9395,-76.1716
+scioto,ohio,0.3681,Trump,38.9577,-83.2365
+scotland,north carolina,0.2452,Clinton,34.9044,-79.3959
+scott,virginia,0.3737,Clinton,36.8242,-82.496
+scotts bluff,nebraska,0.4894,Trump,41.9681,-103.9182
+screven,georgia,0.1763,Trump,32.7439,-81.6287
+scurry,texas,0.6976,Trump,32.853,-101.103
+searcy,arkansas,0.6315,Trump,36.0675,-92.8864
+sebastian,arkansas,0.3759,Trump,35.4051,-94.3872
+sedgwick,kansas,0.1914,Trump,37.8866,-97.5166
+seminole,oklahoma,0.228,Trump,35.3405,-96.4546
+seneca,ohio,0.2134,Trump,41.2512,-83.306
+sequatchie,tennessee,0.5969,Trump,35.3842,-85.3925
+sequoyah,oklahoma,0.5422,Trump,35.5972,-94.8094
+sevier,utah,0.5556,Trump,39.0061,-111.8619
+seward,nebraska,0.3886,Trump,41.0007,-97.0745
+shannon,south dakota,0.5609,Trump,43.425,-102.1765
+sharkey,mississippi,0.3484,Clinton,33.0662,-90.8684
+sharp,arkansas,0.5428,Trump,36.3227,-91.411
+shasta,california,0.3734,Trump,41.1103,-122.3161
+shawano,wisconsin,0.3394,Trump,45.0062,-89.0474
+shawnee,kansas,0.0283,Trump,39.1451,-95.9553
+sheboygan,wisconsin,0.167,Trump,43.8436,-87.9767
+shelby,texas,0.1678,Clinton,31.944,-94.0608
+shenandoah,virginia,0.4332,Trump,39.0808,-78.3913
+sherburne,minnesota,0.3703,Trump,45.5402,-93.8154
+sheridan,wyoming,0.5941,Trump,44.965,-107.3254
+sherman,texas,0.6713,Trump,36.5055,-101.7829
+shiawassee,michigan,0.1963,Trump,43.1388,-83.9851
+shoshone,idaho,0.3736,Trump,47.6271,-115.8585
+sibley,minnesota,0.4192,Trump,44.6791,-94.0083
+sierra,new mexico,0.2715,Trump,33.397,-107.4509
+silver bow,montana,0.1414,Clinton,46.0058,-112.6861
+simpson,mississippi,0.3352,Trump,32.0016,-89.9672
+sioux,north dakota,0.6934,Trump,46.3874,-100.5975
+siskiyou,california,0.2145,Trump,41.9316,-121.4347
+skagit,washington,0.0662,Clinton,48.562,-122.4134
+skamania,washington,0.1301,Trump,45.7493,-121.8351
+smith,texas,0.5457,Trump,32.5062,-95.4006
+smyth,virginia,0.5525,Trump,36.9546,-81.673
+snohomish,washington,0.1669,Clinton,48.2395,-121.5892
+snyder,pennsylvania,0.4726,Trump,40.8598,-77.0553
+socorro,new mexico,0.1006,Clinton,34.485,-106.7591
+solano,california,0.2958,Clinton,38.4403,-121.8088
+somerset,pennsylvania,0.2219,Clinton,40.268,-78.9156
+somervell,texas,0.6878,Trump,32.2812,-97.7065
+sonoma,california,0.4791,Clinton,38.7931,-123.0074
+southampton,virginia,0.1623,Trump,36.9071,-76.8861
+spalding,georgia,0.2425,Trump,33.3453,-84.2898
+spartanburg,south carolina,0.2998,Trump,35.1565,-82.2115
+spencer,kentucky,0.4691,Trump,38.0471,-85.3829
+spink,south dakota,0.3169,Trump,45.243,-98.5629
+spokane,washington,0.083,Trump,48.0205,-117.2963
+spotsylvania,virginia,0.1677,Trump,38.271,-77.6447
+stafford,virginia,0.3616,Trump,38.5086,-77.543
+stanislaus,california,0.0127,Trump,37.7741,-120.8377
+stanly,north carolina,0.5018,Trump,35.4849,-80.2884
+stanton,nebraska,0.6391,Trump,41.9761,-97.0779
+stark,ohio,0.4124,Trump,40.9836,-81.1497
+starke,indiana,0.4203,Trump,41.3931,-86.5948
+starr,texas,0.6012,Clinton,26.7167,-98.4539
+staunton (city),virginia,0.018,Clinton,38.1593,-79.0629
+ste. genevieve,missouri,0.3493,Trump,38.0451,-90.2805
+stearns,minnesota,0.2791,Trump,45.7281,-94.9682
+steele,north dakota,0.2604,Trump,47.6062,-97.9051
+stephens,texas,0.6904,Trump,32.7532,-98.9099
+stephenson,illinois,0.1697,Trump,42.4838,-89.806
+steuben,new york,0.4047,Trump,42.5596,-77.4669
+stevens,washington,0.4485,Trump,48.9247,-117.7931
+stewart,tennessee,0.1371,Clinton,36.6226,-87.8614
+stillwater,montana,0.5647,Trump,45.9795,-109.2761
+stoddard,missouri,0.6931,Trump,37.0922,-89.9106
+stokes,north carolina,0.5559,Trump,36.5132,-80.2103
+stone,missouri,0.5753,Trump,36.9305,-93.4965
+storey,nevada,0.3377,Trump,39.2965,-119.6587
+story,iowa,0.1222,Clinton,42.1835,-93.5988
+strafford,new hampshire,0.0857,Clinton,43.5025,-70.9697
+stutsman,north dakota,0.4249,Trump,47.2726,-98.7206
+sublette,wyoming,0.6434,Trump,43.2238,-110.3353
+suffolk,new york,0.2699,Clinton,41.2639,-72.0178
+sullivan,tennessee,0.3,Trump,36.5951,-82.1887
+summers,west virginia,0.4658,Trump,37.8101,-80.9231
+summit,utah,0.1534,Clinton,41.0186,-111.5011
+sumner,tennessee,0.4655,Trump,36.632,-86.539
+sumter,south carolina,0.0537,Clinton,34.1085,-80.4945
+sunflower,mississippi,0.4031,Clinton,33.9632,-90.4784
+surry,virginia,0.2216,Clinton,37.2279,-76.9641
+susquehanna,pennsylvania,0.4286,Trump,41.9766,-76.1185
+sussex,virginia,0.0587,Clinton,37.0508,-77.2124
+sutter,california,0.1706,Trump,39.2601,-121.6923
+suwannee,florida,0.5529,Trump,30.2956,-82.9844
+swain,north carolina,0.2292,Trump,35.5094,-83.3144
+sweet grass,montana,0.5683,Trump,46.104,-109.7808
+sweetwater,wyoming,0.5354,Trump,42.2327,-107.5633
+swift,minnesota,0.2582,Trump,45.3763,-95.6787
+swisher,texas,0.552,Trump,34.7219,-101.8256
+switzerland,indiana,0.4473,Trump,38.876,-85.0719
+talbot,maryland,0.0779,Clinton,38.9281,-76.0814
+talladega,alabama,0.2555,Trump,33.6059,-86.1112
+tallahatchie,mississippi,0.1491,Clinton,34.1263,-90.0044
+tallapoosa,alabama,0.4159,Trump,33.0335,-85.7538
+tama,iowa,0.2055,Trump,42.2643,-92.693
+taney,missouri,0.5929,Trump,36.7704,-93.2148
+taos,new mexico,0.5193,Clinton,36.942,-105.4545
+tarrant,texas,0.087,Trump,32.9557,-97.3372
+tate,mississippi,0.3144,Trump,34.6959,-89.8288
+tattnall,georgia,0.4963,Trump,32.2642,-82.1333
+taylor,wisconsin,0.3654,Trump,45.353,-90.8012
+tazewell,virginia,0.495,Trump,37.3054,-81.3425
+tehama,california,0.3609,Trump,40.4331,-121.8365
+telfair,georgia,0.2994,Trump,32.0781,-82.9178
+teller,colorado,0.4248,Trump,38.9969,-105.0623
+terrell,texas,0.0945,Clinton,30.1221,-102.3974
+teton,wyoming,0.0815,Clinton,43.9509,-110.5532
+texas,oklahoma,0.6536,Trump,36.9558,-101.0594
+thayer,nebraska,0.5752,Trump,40.3302,-97.5573
+thomas,nebraska,0.432,Trump,41.9901,-100.8073
+thurston,washington,0.0325,Clinton,47.1126,-122.7794
+tift,georgia,0.3741,Trump,31.5439,-83.5509
+tillamook,oregon,0.0592,Trump,45.7216,-123.9049
+tillman,oklahoma,0.4756,Trump,34.5098,-99.1315
+tioga,pennsylvania,0.4125,Trump,41.9882,-77.3134
+tippah,mississippi,0.5878,Trump,34.9527,-88.9053
+tippecanoe,indiana,0.0566,Trump,40.5248,-86.8238
+tipton,tennessee,0.4969,Trump,35.5598,-89.6501
+tishomingo,mississippi,0.7373,Trump,34.8579,-88.307
+titus,texas,0.4214,Trump,33.2432,-94.8747
+todd,south dakota,0.0484,Clinton,43.3633,-100.3809
+tolland,connecticut,0.0579,Clinton,41.9978,-72.4583
+tom green,texas,0.4792,Trump,31.6453,-100.716
+tompkins,new york,0.4214,Clinton,42.5855,-76.3633
+tooele,utah,0.3003,Trump,40.7329,-113.9918
+toole,montana,0.5415,Trump,48.9961,-111.9606
+toombs,georgia,0.4693,Trump,32.1934,-82.4067
+torrance,new mexico,0.3062,Trump,35.0095,-105.6692
+towns,georgia,0.6201,Trump,34.9588,-83.8688
+traill,north dakota,0.265,Trump,47.638,-97.4325
+transylvania,north carolina,0.2248,Trump,35.2599,-82.6695
+travis,texas,0.3886,Clinton,30.449,-97.9669
+trempealeau,wisconsin,0.127,Trump,44.5985,-91.4804
+treutlen,georgia,0.3511,Trump,32.3869,-82.5871
+trigg,kentucky,0.4953,Trump,36.9496,-87.6648
+trimble,kentucky,0.4995,Trump,38.6925,-85.3659
+trinity,texas,0.3941,Trump,31.258,-95.0399
+tripp,south dakota,0.611,Trump,43.6439,-99.6918
+troup,georgia,0.2344,Trump,33.1644,-84.9309
+trousdale,tennessee,0.3679,Trump,36.3947,-86.1704
+trumbull,ohio,0.0641,Trump,41.4584,-80.9551
+tucker,west virginia,0.5217,Trump,39.1505,-79.503
+tulare,california,0.1623,Trump,36.8432,-119.6518
+tulsa,oklahoma,0.2285,Trump,36.3701,-95.8469
+tunica,mississippi,0.5016,Clinton,34.8093,-90.3052
+tuolumne,california,0.1893,Trump,38.2042,-120.0101
+turner,south dakota,0.341,Trump,43.5207,-97.212
+tuscaloosa,alabama,0.1953,Trump,33.3992,-87.5599
+tuscarawas,ohio,0.3545,Trump,40.6442,-81.3653
+tuscola,michigan,0.3795,Trump,43.6543,-83.2628
+twiggs,georgia,0.0158,Trump,32.7411,-83.3859
+twin falls,idaho,0.4458,Trump,42.6008,-114.7825
+tyler,west virginia,0.6723,Trump,39.5584,-80.9818
+uinta,wyoming,0.6149,Trump,41.3291,-110.2926
+uintah,utah,0.6888,Trump,40.468,-109.9307
+ulster,new york,0.0914,Clinton,42.1443,-74.4899
+umatilla,oregon,0.3564,Trump,45.9486,-118.3912
+unicoi,tennessee,0.6149,Trump,36.2066,-82.322
+union,tennessee,0.1553,Clinton,36.3685,-83.8127
+upshur,west virginia,0.6371,Trump,39.0109,-80.3023
+upson,georgia,0.3495,Trump,32.9717,-84.2424
+utah,utah,0.3758,Trump,40.4616,-111.7689
+uvalde,texas,0.108,Trump,29.5972,-99.5585
+val verde,texas,0.0789,Clinton,29.8085,-101.5587
+valencia,new mexico,0.0859,Trump,34.8964,-107.5817
+valley,nebraska,0.4573,Trump,41.6808,-99.0062
+van buren,tennessee,0.3571,Trump,35.7279,-85.4287
+van wert,ohio,0.564,Trump,40.9892,-84.5845
+van zandt,texas,0.7213,Trump,32.7283,-96.0079
+vance,north carolina,0.2461,Clinton,36.4946,-78.4236
+vanderburgh,indiana,0.1686,Trump,38.1081,-87.5589
+venango,pennsylvania,0.4239,Trump,41.5867,-79.5685
+ventura,california,0.1609,Clinton,34.448,-119.2429
+vermilion,louisiana,0.2922,Trump,30.0722,-92.107
+vermillion,indiana,0.3515,Trump,40.0737,-87.4648
+vernon,wisconsin,0.3135,Trump,43.7218,-91.0143
+victoria,texas,0.3999,Trump,28.9543,-97.0906
+vigo,indiana,0.1517,Trump,39.6006,-87.4196
+vilas,wisconsin,0.2527,Trump,46.2,-89.7387
+vinton,ohio,0.4574,Trump,39.3884,-82.3892
+virginia beach (city),virginia,0.0445,Trump,36.9216,-76.0171
+volusia,florida,0.1305,Trump,29.3222,-81.0584
+wabash,indiana,0.5227,Trump,41.0356,-85.7358
+wabasha,minnesota,0.2655,Trump,44.4305,-92.2838
+wabaunsee,kansas,0.4746,Trump,39.0803,-96.1818
+wadena,minnesota,0.4573,Trump,46.7572,-95.0714
+wagoner,oklahoma,0.5202,Trump,36.2806,-95.6039
+wahkiakum,washington,0.216,Trump,46.3535,-123.5888
+wake,north carolina,0.205,Clinton,35.9815,-78.5392
+wakulla,florida,0.4014,Trump,30.334,-84.287
+waldo,maine,0.0028,Clinton,44.6848,-69.38
+walker,texas,0.5186,Trump,30.8476,-95.3904
+walla walla,washington,0.1617,Trump,46.3539,-118.4097
+waller,texas,0.2861,Trump,30.092,-96.0716
+wallowa,oregon,0.4137,Trump,45.5717,-117.5357
+walsh,north dakota,0.4017,Trump,48.5198,-97.6183
+walthall,mississippi,0.1521,Trump,31.1466,-90.1169
+walton,georgia,0.5644,Trump,33.8386,-83.7104
+walworth,wisconsin,0.3955,Trump,42.8272,-88.7429
+wapello,iowa,0.208,Trump,41.1533,-92.6221
+ward,texas,0.516,Trump,31.5813,-102.9003
+ware,georgia,0.4174,Trump,31.2506,-82.6441
+warren,virginia,0.0803,Clinton,39.0048,-78.2478
+warrick,indiana,0.3393,Trump,38.2053,-87.4179
+wasatch,utah,0.2536,Trump,40.5093,-111.4776
+wasco,oregon,0.0966,Trump,45.6508,-121.379
+waseca,minnesota,0.3266,Trump,44.1168,-93.7095
+washakie,wyoming,0.6404,Trump,44.0138,-107.9563
+washburn,wisconsin,0.2341,Trump,46.1044,-91.8506
+washington,wisconsin,0.1676,Clinton,43.5214,-88.1925
+washita,oklahoma,0.705,Trump,35.4545,-99.1698
+washoe,nevada,0.0119,Clinton,40.6525,-119.3565
+washtenaw,michigan,0.415,Clinton,42.4289,-83.7828
+watauga,north carolina,0.015,Clinton,36.3194,-81.7476
+watonwan,minnesota,0.1919,Trump,44.0727,-94.5795
+waukesha,wisconsin,0.2807,Trump,43.1789,-88.1173
+waupaca,wisconsin,0.3025,Trump,44.6794,-88.8767
+waushara,wisconsin,0.3233,Trump,44.2091,-89.4559
+wayne,west virginia,0.1937,Clinton,38.4192,-82.4452
+waynesboro (city),virginia,0.1136,Trump,38.0774,-78.9035
+weakley,tennessee,0.5138,Trump,36.4796,-88.6926
+webb,texas,0.5161,Clinton,27.6357,-99.5923
+weber,utah,0.1996,Trump,41.3303,-111.8558
+webster,west virginia,0.421,Trump,38.6526,-80.3837
+weld,colorado,0.2244,Trump,40.9751,-104.3053
+wells,north dakota,0.5653,Trump,47.7035,-99.7478
+westchester,new york,0.3277,Clinton,41.3477,-73.661
+westmoreland,virginia,0.1916,Trump,38.1792,-76.9959
+weston,wyoming,0.781,Trump,44.0893,-104.6352
+wetzel,west virginia,0.5029,Trump,39.6917,-80.4746
+wexford,michigan,0.3642,Trump,44.5199,-85.6935
+wharton,texas,0.4019,Trump,29.5353,-96.2303
+whatcom,washington,0.1747,Clinton,48.9937,-122.7471
+wheeler,texas,0.5977,Trump,35.6059,-100.1007
+white,tennessee,0.5696,Trump,35.9439,-85.4392
+white pine,nevada,0.5343,Trump,39.4034,-114.7791
+whiteside,illinois,0.0632,Trump,41.8522,-90.1507
+whitfield,georgia,0.4476,Trump,34.9326,-84.9458
+whitley,kentucky,0.6041,Trump,36.9374,-84.1031
+whitman,washington,0.0206,Clinton,47.2288,-117.4727
+wichita,texas,0.4974,Trump,34.086,-98.5708
+wicomico,maryland,0.1164,Trump,38.5389,-75.7192
+wilbarger,texas,0.5752,Trump,34.3452,-99.4196
+wilcox,georgia,0.0053,Clinton,32.0907,-83.5158
+wilkes,north carolina,0.3531,Trump,36.3562,-80.9317
+wilkin,minnesota,0.377,Trump,46.555,-96.6149
+wilkinson,mississippi,0.1316,Clinton,31.1459,-91.3076
+will,illinois,0.0567,Clinton,41.7199,-88.2548
+willacy,texas,0.369,Clinton,26.5548,-97.425
+williams,ohio,0.5477,Trump,41.6656,-84.5363
+williamsburg,south carolina,0.338,Clinton,33.7886,-79.848
+williamsburg (city),virginia,0.4351,Clinton,37.3105,-76.7468
+williamson,texas,0.2641,Trump,30.8119,-97.5942
+wilson,texas,0.2695,Clinton,29.3509,-98.113
+winchester (city),virginia,0.0355,Clinton,39.1858,-78.1827
+windham,vermont,0.1704,Clinton,43.2281,-72.788
+windsor,vermont,0.3213,Clinton,43.8804,-72.8159
+winkler,texas,0.5249,Trump,31.855,-103.0913
+winnebago,wisconsin,0.1359,Trump,44.2112,-88.4175
+winneshiek,iowa,0.0083,Trump,43.4638,-91.6899
+winona,minnesota,0.0292,Trump,44.1361,-91.9745
+winston,mississippi,0.4689,Trump,33.1058,-89.0287
+wirt,west virginia,0.6307,Trump,39.0566,-81.3989
+wise,virginia,0.6584,Trump,37.0927,-82.6016
+wolfe,kentucky,0.3988,Trump,37.7981,-83.421
+wood,wisconsin,0.4165,Trump,44.6689,-90.1718
+woodbury,iowa,0.1986,Trump,42.5469,-96.3617
+woodford,kentucky,0.3142,Trump,38.1487,-84.6928
+woodruff,arkansas,0.0885,Trump,35.2788,-91.3527
+woods,oklahoma,0.6613,Trump,36.809,-99.1319
+woodward,oklahoma,0.7207,Trump,36.5722,-99.5738
+worcester,massachusetts,0.1048,Clinton,42.6789,-72.0475
+worth,missouri,0.3821,Trump,40.4928,-94.5701
+wright,missouri,0.5113,Trump,37.4947,-92.6001
+wyandot,ohio,0.4677,Trump,40.9752,-83.2637
+wyandotte,kansas,0.2912,Clinton,39.1434,-94.7856
+wyoming,west virginia,0.5481,Trump,37.744,-81.575
+wythe,virginia,0.5493,Trump,36.9407,-81.0941
+yadkin,north carolina,0.6153,Trump,36.234,-80.6357
+yakima,washington,0.1829,Trump,46.8058,-120.9921
+yalobusha,mississippi,0.1307,Trump,34.1525,-89.638
+yamhill,oregon,0.0877,Trump,45.335,-123.2036
+yancey,north carolina,0.3249,Trump,35.9956,-82.2879
+yankton,south dakota,0.2447,Trump,43.0394,-97.5956
+yates,new york,0.2185,Trump,42.7597,-77.2395
+yavapai,arizona,0.3142,Trump,35.3212,-112.9548
+yazoo,mississippi,0.066,Clinton,32.8594,-90.4031
+yell,arkansas,0.487,Trump,35.1955,-93.1873
+yellow medicine,minnesota,0.3537,Trump,44.8087,-95.5516
+yellowstone,montana,0.2705,Trump,46.1302,-107.5958
+yoakum,texas,0.5963,Trump,33.1894,-102.8294
+yolo,california,0.4204,Clinton,38.8953,-122.3079
+york,virginia,0.2591,Clinton,37.3407,-76.7544
+young,texas,0.7461,Trump,33.3601,-98.7427
+yuba,california,0.2515,Trump,39.687,-121.045
+yuma,colorado,0.3552,Trump,40.1301,-102.7072
+zapata,texas,0.328,Clinton,27.1583,-99.3202
+zavala,texas,0.5726,Clinton,28.9488,-99.8507

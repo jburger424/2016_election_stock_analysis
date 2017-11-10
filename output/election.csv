@@ -1,0 +1,1722 @@
+county,st,trump_pct,clinton_pct,pct_lead,winner
+District of Columbia,DC,0.0412,0.9285,0.8873,Clinton
+Prince George's,MD,0.0834,0.8933,0.8099,Clinton
+Bronx,NY,0.0959,0.8873,0.7914,Clinton
+New York,NY,0.0997,0.8717,0.772,Clinton
+Petersburg (city),VA,0.1056,0.8752,0.7696,Clinton
+San Francisco,CA,0.0987,0.853,0.7543,Clinton
+Baltimore (city),MD,0.1087,0.8544,0.7457,Clinton
+Charlottesville (city),VA,0.1329,0.8043,0.6714,Clinton
+Philadelphia,PA,0.155,0.8241,0.6691,Clinton
+Orleans Parish,LA,0.1465,0.8081,0.6616,Clinton
+Alameda,CA,0.1508,0.7951,0.6443,Clinton
+Richmond city,VA,0.1505,0.788,0.6375,Clinton
+St. Louis (city),MO,0.1592,0.7966,0.6374,Clinton
+Marin,CA,0.1613,0.7889,0.6276,Clinton
+Durham,NC,0.1852,0.789,0.6038,Clinton
+Starr,TX,0.1897,0.7909,0.6012,Clinton
+Arlington,VA,0.1689,0.7699,0.601,Clinton
+Alexandria city,VA,0.178,0.7683,0.5903,Clinton
+Falls Church (city),VA,0.1726,0.7578,0.5852,Clinton
+Multnomah,OR,0.1762,0.7596,0.5834,Clinton
+Zavala,TX,0.2041,0.7767,0.5726,Clinton
+San Mateo,CA,0.191,0.7631,0.5721,Clinton
+Jim Hogg,TX,0.2029,0.7716,0.5687,Clinton
+Noxubee,MS,0.2133,0.7819,0.5686,Clinton
+Denver,CO,0.1879,0.7517,0.5638,Clinton
+Maverick,TX,0.2072,0.7652,0.558,Clinton
+Allendale,SC,0.2202,0.7608,0.5406,Clinton
+Queens,NY,0.221,0.755,0.534,Clinton
+Santa Clara,CA,0.21,0.7338,0.5238,Clinton
+Taos,NM,0.1792,0.6985,0.5193,Clinton
+Hudson,NJ,0.2265,0.7446,0.5181,Clinton
+Webb,TX,0.2277,0.7438,0.5161,Clinton
+Dukes,MA,0.2164,0.7292,0.5128,Clinton
+Santa Cruz,CA,0.2445,0.754,0.5095,Clinton
+Bullock,AL,0.2423,0.7509,0.5086,Clinton
+Santa Fe,NM,0.2017,0.7098,0.5081,Clinton
+King,WA,0.2172,0.7224,0.5052,Clinton
+Tunica,MS,0.2426,0.7442,0.5016,Clinton
+Boulder,CO,0.2193,0.7057,0.4864,Clinton
+Los Angeles,CA,0.2345,0.715,0.4805,Clinton
+Dane,WI,0.2339,0.7138,0.4799,Clinton
+Sonoma,CA,0.2281,0.7072,0.4791,Clinton
+Chittenden,VT,0.2368,0.7049,0.4681,Clinton
+Pitkin,CO,0.2428,0.6969,0.4541,Clinton
+San Miguel,CO,0.2389,0.6866,0.4477,Clinton
+Coahoma,MS,0.2722,0.7157,0.4435,Clinton
+Hinds,MS,0.2722,0.7093,0.4371,Clinton
+Williamsburg (city),VA,0.255,0.6901,0.4351,Clinton
+Contra Costa,CA,0.2586,0.6877,0.4291,Clinton
+Tompkins,NY,0.2556,0.677,0.4214,Clinton
+Yolo,CA,0.2603,0.6807,0.4204,Clinton
+Norfolk (city),VA,0.2644,0.6842,0.4198,Clinton
+Imperial,CA,0.2688,0.6871,0.4183,Clinton
+Washtenaw,MI,0.2689,0.6839,0.415,Clinton
+Berkshire,MA,0.2604,0.675,0.4146,Clinton
+Leflore,MS,0.2882,0.698,0.4098,Clinton
+Sunflower,MS,0.2943,0.6974,0.4031,Clinton
+Rio Arriba,NM,0.2422,0.6444,0.4022,Clinton
+McKinley,NM,0.2335,0.628,0.3945,Clinton
+Monterey,CA,0.2763,0.6687,0.3924,Clinton
+Quitman,MS,0.2976,0.6868,0.3892,Clinton
+Travis,TX,0.274,0.6626,0.3886,Clinton
+Grant,NM,0.8772,0.4897,0.3875,Clinton
+Maui,HI,0.2588,0.6445,0.3857,Clinton
+Dougherty,GA,0.3015,0.6846,0.3831,Clinton
+Clinton,NY,0.8544,0.4738,0.3806,Clinton
+Hampton (city),VA,0.2895,0.6673,0.3778,Clinton
+Hertford,NC,0.305,0.6818,0.3768,Clinton
+Gadsden,FL,0.3044,0.6791,0.3747,Clinton
+Milwaukee,WI,0.2899,0.6644,0.3745,Clinton
+Scott,IA,0.8485,0.4748,0.3737,Clinton
+Dimmit,TX,0.302,0.6738,0.3718,Clinton
+Orangeburg,SC,0.3067,0.6763,0.3696,Clinton
+Willacy,TX,0.3032,0.6722,0.369,Clinton
+Apache,AZ,0.2848,0.6536,0.3688,Clinton
+Hawaii,HI,0.2698,0.6361,0.3663,Clinton
+Presidio,TX,0.296,0.6618,0.3658,Clinton
+Portsmouth (city),VA,0.297,0.6619,0.3649,Clinton
+Pierce,WA,0.8635,0.4989,0.3646,Clinton
+Fairfax,VA,0.2908,0.653,0.3622,Clinton
+Mora,NM,0.272,0.6298,0.3578,Clinton
+Hennepin,MN,0.2851,0.6382,0.3531,Clinton
+Napa,CA,0.296,0.6486,0.3526,Clinton
+Nantucket,MA,0.2954,0.6471,0.3517,Clinton
+Broward,FL,0.3142,0.6647,0.3505,Clinton
+Cuyahoga,OH,0.3084,0.6584,0.35,Clinton
+Sharkey,MS,0.3214,0.6698,0.3484,Clinton
+Russell,AL,0.8396,0.5005,0.3391,Clinton
+Williamsburg,SC,0.3231,0.6611,0.338,Clinton
+Kauai,HI,0.2876,0.6249,0.3373,Clinton
+Addison,VT,0.3011,0.6376,0.3365,Clinton
+Green,WI,0.8198,0.4854,0.3344,Clinton
+Jackson,MO,0.8889,0.5568,0.3321,Clinton
+Zapata,TX,0.328,0.656,0.328,Clinton
+Westchester,NY,0.3214,0.6491,0.3277,Clinton
+St. Clair,IL,0.8324,0.5049,0.3275,Clinton
+Bolivar,MS,0.3313,0.6554,0.3241,Clinton
+Edgecombe,NC,0.3334,0.6552,0.3218,Clinton
+Hamilton,OH,0.8468,0.5255,0.3213,Clinton
+Windsor,VT,0.3091,0.6304,0.3213,Clinton
+Lamoille,VT,0.3067,0.622,0.3153,Clinton
+Emporia (city),VA,0.3346,0.6468,0.3122,Clinton
+Fairfax (city),VA,0.3117,0.6211,0.3094,Clinton
+Boone,MO,0.8019,0.493,0.3089,Clinton
+Big Horn,MT,0.8007,0.4945,0.3062,Clinton
+Fayette,KY,0.8181,0.5122,0.3059,Clinton
+Lexington (city),VA,0.3129,0.6185,0.3056,Clinton
+Charles,MD,0.3334,0.6355,0.3021,Clinton
+Hood River,OR,0.3104,0.6124,0.302,Clinton
+Clay,MS,0.8733,0.5718,0.3015,Clinton
+Honolulu,HI,0.3161,0.6148,0.2987,Clinton
+Glacier,MT,0.3202,0.6163,0.2961,Clinton
+New Castle,DE,0.327,0.623,0.296,Clinton
+Solano,CA,0.3232,0.619,0.2958,Clinton
+Miami-Dade,FL,0.3409,0.6366,0.2957,Clinton
+Lincoln,OR,0.8072,0.5118,0.2954,Clinton
+Marshall,MS,0.8356,0.5405,0.2951,Clinton
+Mendocino,CA,0.3123,0.6038,0.2915,Clinton
+Wyandotte,KS,0.327,0.6182,0.2912,Clinton
+Costilla,CO,0.3192,0.6093,0.2901,Clinton
+Crittenden,AR,0.815,0.5265,0.2885,Clinton
+Manassas Park (city),VA,0.3322,0.6172,0.285,Clinton
+Knox,ME,0.8229,0.5404,0.2825,Clinton
+Santa Barbara,CA,0.3285,0.611,0.2825,Clinton
+Polk,IA,0.8041,0.5239,0.2802,Clinton
+Norfolk,MA,0.3331,0.6125,0.2794,Clinton
+Linn,IA,0.7892,0.51,0.2792,Clinton
+Baldwin,GA,0.7735,0.4955,0.278,Clinton
+Ingham,MI,0.3323,0.6088,0.2765,Clinton
+Gallatin,MT,0.7321,0.4563,0.2758,Clinton
+Newton,GA,0.7751,0.501,0.2741,Clinton
+Marion,SC,0.8731,0.5994,0.2737,Clinton
+Bamberg,SC,0.3546,0.6273,0.2727,Clinton
+Franklin (city),VA,0.3517,0.6228,0.2711,Clinton
+Suffolk,MA,0.5248,0.7947,0.2699,Clinton
+Wilson,NC,0.7889,0.5194,0.2695,Clinton
+Clayton,GA,0.5835,0.8506,0.2671,Clinton
+Fredericksburg (city),VA,0.3351,0.6008,0.2657,Clinton
+East Carroll Parish,LA,0.3603,0.6254,0.2651,Clinton
+Monroe,IN,0.8571,0.5932,0.2639,Clinton
+Chester,PA,0.7891,0.5258,0.2633,Clinton
+Rockdale,GA,0.3582,0.6174,0.2592,Clinton
+York,ME,0.749,0.4899,0.2591,Clinton
+Leon,FL,0.8628,0.6051,0.2577,Clinton
+Pulaski,AR,0.8169,0.5604,0.2565,Clinton
+Newport News (city),VA,0.3456,0.5991,0.2535,Clinton
+Bertie,NC,0.3706,0.6223,0.2517,Clinton
+Albemarle,VA,0.3426,0.5932,0.2506,Clinton
+Vance,NC,0.3696,0.6157,0.2461,Clinton
+St. John the Baptist Parish,LA,0.3649,0.6103,0.2454,Clinton
+Scotland,NC,0.7749,0.5297,0.2452,Clinton
+Jasper,SC,0.7923,0.5479,0.2444,Clinton
+Rolette,ND,0.3304,0.5726,0.2422,Clinton
+Kings,NY,0.56,0.7974,0.2374,Clinton
+Martinsville (city),VA,0.3659,0.6012,0.2353,Clinton
+Plymouth,MA,0.7398,0.5066,0.2332,Clinton
+Charles City,VA,0.3688,0.5992,0.2304,Clinton
+Columbia,NY,0.7095,0.4815,0.228,Clinton
+NA,DC,0.7005,0.9285,0.228,Clinton
+Henry,GA,0.7359,0.509,0.2269,Clinton
+Kemper,MS,0.3833,0.6094,0.2261,Clinton
+Alachua,FL,0.3644,0.5896,0.2252,Clinton
+Phillips,AR,0.8426,0.6192,0.2234,Clinton
+Sacramento,CA,0.3584,0.5817,0.2233,Clinton
+Nassau,NY,0.7354,0.5125,0.2229,Clinton
+Somerset,NJ,0.7654,0.5435,0.2219,Clinton
+Surry,VA,0.742,0.5204,0.2216,Clinton
+Bennington,VT,0.3625,0.5836,0.2211,Clinton
+Orleans,VT,0.6926,0.4715,0.2211,Clinton
+Randolph,GA,0.7727,0.5516,0.2211,Clinton
+Harrisonburg city,VA,0.3522,0.5708,0.2186,Clinton
+Passaic,NJ,0.378,0.5955,0.2175,Clinton
+Clark,NV,0.7413,0.524,0.2173,Clinton
+Hartford,CT,0.3705,0.5856,0.2151,Clinton
+Cumberland,ME,0.816,0.6011,0.2149,Clinton
+Essex,NJ,0.5565,0.7706,0.2141,Clinton
+Providence,RI,0.373,0.5847,0.2117,Clinton
+Henrico,VA,0.3684,0.578,0.2096,Clinton
+Wake,NC,0.3789,0.5839,0.205,Clinton
+San Benito,CA,0.3706,0.5742,0.2036,Clinton
+Lake,IN,0.7868,0.5838,0.203,Clinton
+Jefferson Davis,MS,0.3954,0.5964,0.201,Clinton
+Prince William,VA,0.3732,0.5736,0.2004,Clinton
+Guilford,NC,0.3866,0.5869,0.2003,Clinton
+Hidalgo,TX,0.4863,0.6864,0.2001,Clinton
+Douglas,KS,0.8232,0.6239,0.1993,Clinton
+Eagle,CO,0.3606,0.5596,0.199,Clinton
+Danville (city),VA,0.3873,0.5859,0.1986,Clinton
+Los Alamos,NM,0.3107,0.5079,0.1972,Clinton
+Adams,MS,0.7634,0.5666,0.1968,Clinton
+Gunnison,CO,0.3495,0.545,0.1955,Clinton
+Calhoun,GA,0.7769,0.5823,0.1946,Clinton
+Coconino,AZ,0.3689,0.5633,0.1944,Clinton
+Wayne,MI,0.8617,0.668,0.1937,Clinton
+Newport,RI,0.3761,0.5697,0.1936,Clinton
+Ashland,WI,0.7132,0.5218,0.1914,Clinton
+Hampton,SC,0.3961,0.5871,0.191,Clinton
+Franklin,MA,0.8324,0.6415,0.1909,Clinton
+Grafton,NH,0.3794,0.5689,0.1895,Clinton
+Lane,OR,0.3657,0.555,0.1893,Clinton
+Greensville,VA,0.3981,0.5863,0.1882,Clinton
+Liberty,GA,0.7806,0.5927,0.1879,Clinton
+Muscogee,GA,0.3937,0.5797,0.186,Clinton
+Harris,TX,0.7279,0.5422,0.1857,Clinton
+Osceola,FL,0.7907,0.6093,0.1814,Clinton
+Forsyth,NC,0.7173,0.5361,0.1812,Clinton
+Bibb,GA,0.7697,0.5895,0.1802,Clinton
+Johnson,IA,0.8403,0.6603,0.18,Clinton
+Duval,TX,0.49,0.6692,0.1792,Clinton
+Dona Ana,NM,0.3591,0.5373,0.1782,Clinton
+Burke,GA,0.6839,0.5059,0.178,Clinton
+Bernalillo,NM,0.3451,0.5219,0.1768,Clinton
+Roanoke (city),VA,0.3845,0.5608,0.1763,Clinton
+Whatcom,WA,0.374,0.5487,0.1747,Clinton
+Baltimore,MD,0.3911,0.5655,0.1744,Clinton
+Madison Parish,LA,0.4072,0.5799,0.1727,Clinton
+Windham,VT,0.5076,0.678,0.1704,Clinton
+San Diego,CA,0.3885,0.5588,0.1703,Clinton
+Routt,CO,0.3739,0.5436,0.1697,Clinton
+Athens,OH,0.3871,0.5566,0.1695,Clinton
+Lee,SC,0.8065,0.6375,0.169,Clinton
+Loudoun,VA,0.3863,0.5542,0.1679,Clinton
+Shelby,TN,0.7905,0.6227,0.1678,Clinton
+Washington,MS,0.8434,0.6758,0.1676,Clinton
+Snohomish,WA,0.376,0.5429,0.1669,Clinton
+Richland,SC,0.8064,0.6399,0.1665,Clinton
+Allegheny,PA,0.4003,0.5644,0.1641,Clinton
+Blaine,ID,0.7603,0.5983,0.162,Clinton
+Bristol,RI,0.4258,0.5877,0.1619,Clinton
+Manassas (city),VA,0.3901,0.5519,0.1618,Clinton
+Marlboro,SC,0.4112,0.5726,0.1614,Clinton
+Ventura,CA,0.3907,0.5516,0.1609,Clinton
+Grand Isle,VT,0.3936,0.5543,0.1607,Clinton
+Hampden,MA,0.3907,0.551,0.1603,Clinton
+Brooks,TX,0.5869,0.7461,0.1592,Clinton
+Delaware,PA,0.7523,0.5939,0.1584,Clinton
+Missoula,MT,0.3778,0.5352,0.1574,Clinton
+St. Louis,MO,0.4011,0.5578,0.1567,Clinton
+Union,NJ,0.8181,0.6628,0.1553,Clinton
+Summit,CO,0.4382,0.5916,0.1534,Clinton
+Palm Beach,FL,0.412,0.5651,0.1531,Clinton
+Lowndes,AL,0.5788,0.7313,0.1525,Clinton
+Chicot,AR,0.4109,0.5627,0.1518,Clinton
+Mercer,NJ,0.814,0.6631,0.1509,Clinton
+Fulton,GA,0.8418,0.6923,0.1495,Clinton
+Tallahatchie,MS,0.4194,0.5685,0.1491,Clinton
+St. Joseph,IN,0.6264,0.4774,0.149,Clinton
+Burlington,NJ,0.4079,0.5557,0.1478,Clinton
+Buncombe,NC,0.4114,0.5571,0.1457,Clinton
+St. Helena Parish,LA,0.4187,0.5622,0.1435,Clinton
+Lancaster,NE,0.6095,0.4663,0.1432,Clinton
+Champaign,IL,0.6998,0.5571,0.1427,Clinton
+Silver Bow,MT,0.3856,0.527,0.1414,Clinton
+Broomfield,CO,0.3822,0.523,0.1408,Clinton
+DuPage,IL,0.398,0.5388,0.1408,Clinton
+Suffolk city,VA,0.4104,0.5488,0.1384,Clinton
+Arapahoe,CO,0.3893,0.5268,0.1375,Clinton
+Stewart,GA,0.7314,0.5943,0.1371,Clinton
+Bexar,TX,0.4098,0.5447,0.1349,Clinton
+Pima,AZ,0.4075,0.5423,0.1348,Clinton
+Barnstable,MA,0.4058,0.5399,0.1341,Clinton
+Albany,NY,0.4629,0.5951,0.1322,Clinton
+Kane,IL,0.6456,0.5136,0.132,Clinton
+Wilkinson,MS,0.5454,0.677,0.1316,Clinton
+Howard,MD,0.7721,0.6408,0.1313,Clinton
+Davidson,TN,0.7342,0.6031,0.1311,Clinton
+Nevada,CA,0.617,0.4871,0.1299,Clinton
+Genesee,MI,0.6535,0.5238,0.1297,Clinton
+Benton,OR,0.7525,0.6238,0.1287,Clinton
+Onondaga,NY,0.4078,0.5361,0.1283,Clinton
+El Paso,TX,0.5634,0.6914,0.128,Clinton
+Kalamazoo,MI,0.4051,0.533,0.1279,Clinton
+Northampton,NC,0.5,0.6263,0.1263,Clinton
+Cheshire,NH,0.4104,0.5366,0.1262,Clinton
+Anson,NC,0.431,0.5566,0.1256,Clinton
+Humboldt,CA,0.7081,0.5826,0.1255,Clinton
+Hale,AL,0.7211,0.5958,0.1253,Clinton
+Salt Lake,UT,0.3235,0.4486,0.1251,Clinton
+Kitsap,WA,0.3918,0.5167,0.1249,Clinton
+La Salle,TX,0.4246,0.549,0.1244,Clinton
+Story,IA,0.3907,0.5129,0.1222,Clinton
+Chatham,GA,0.4353,0.5565,0.1212,Clinton
+New Haven,CT,0.4213,0.5416,0.1203,Clinton
+Bergen,NJ,0.4251,0.545,0.1199,Clinton
+Rock,WI,0.643,0.5242,0.1188,Clinton
+Marquette,MI,0.6031,0.4876,0.1155,Clinton
+Hampshire,MA,0.7767,0.6629,0.1138,Clinton
+Mono,CA,0.4021,0.5158,0.1137,Clinton
+San Joaquin,CA,0.4191,0.5322,0.1131,Clinton
+St. Francis,AR,0.43,0.5425,0.1125,Clinton
+Lucas,OH,0.6686,0.5601,0.1085,Clinton
+Hoke,NC,0.4301,0.5384,0.1083,Clinton
+Camden,NJ,0.7538,0.6459,0.1079,Clinton
+Dallas,AL,0.7923,0.6848,0.1075,Clinton
+Ouray,CO,0.4068,0.5141,0.1073,Clinton
+Worcester,MA,0.6222,0.5174,0.1048,Clinton
+Jim Wells,TX,0.4383,0.5417,0.1034,Clinton
+Socorro,NM,0.3816,0.4822,0.1006,Clinton
+La Crosse,WI,0.4202,0.5161,0.0959,Clinton
+Terrell,GA,0.448,0.5425,0.0945,Clinton
+Hopewell (city),VA,0.4332,0.5265,0.0933,Clinton
+Cameron,TX,0.7386,0.6461,0.0925,Clinton
+East Baton Rouge Parish,LA,0.431,0.5231,0.0921,Clinton
+La Plata,CO,0.4059,0.498,0.0921,Clinton
+Ulster,NY,0.4273,0.5187,0.0914,Clinton
+San Bernardino,CA,0.4305,0.5182,0.0877,Clinton
+Bayfield,WI,0.4346,0.5219,0.0873,Clinton
+Saguache,CO,0.4097,0.4969,0.0872,Clinton
+Mecklenburg,NC,0.5458,0.6328,0.087,Clinton
+Strafford,NH,0.4276,0.5133,0.0857,Clinton
+San Luis Obispo,CA,0.4243,0.5085,0.0842,Clinton
+Rock Island,IL,0.4283,0.5123,0.084,Clinton
+Haywood,TN,0.6249,0.5428,0.0821,Clinton
+Teton,WY,0.6821,0.6006,0.0815,Clinton
+Oakland,MI,0.4359,0.5171,0.0812,Clinton
+Warren,NC,0.739,0.6587,0.0803,Clinton
+St. James Parish,LA,0.4515,0.5311,0.0796,Clinton
+Merced,CA,0.4347,0.514,0.0793,Clinton
+Val Verde,TX,0.4346,0.5135,0.0789,Clinton
+Charleston,SC,0.4278,0.5064,0.0786,Clinton
+Talbot,GA,0.5391,0.617,0.0779,Clinton
+Reeves,TX,0.445,0.521,0.076,Clinton
+Pitt,NC,0.4496,0.5234,0.0738,Clinton
+Desha,AR,0.4504,0.5238,0.0734,Clinton
+Eau Claire,WI,0.4309,0.5043,0.0734,Clinton
+Black Hawk,IA,0.4331,0.5063,0.0732,Clinton
+Dakota,MN,0.5549,0.4822,0.0727,Clinton
+Hancock,GA,0.8264,0.7545,0.0719,Clinton
+Caledonia,VT,0.4267,0.4971,0.0704,Clinton
+Deer Lodge,MT,0.4212,0.4896,0.0684,Clinton
+Cibola,NM,0.3965,0.4641,0.0676,Clinton
+New London,CT,0.4383,0.5055,0.0672,Clinton
+Fort Bend,TX,0.4502,0.5165,0.0663,Clinton
+Skagit,WA,0.435,0.5012,0.0662,Clinton
+Yazoo,MS,0.4618,0.5278,0.066,Clinton
+Sagadahoc,ME,0.4308,0.4945,0.0637,Clinton
+Perry,AL,0.791,0.7275,0.0635,Clinton
+San Juan,WA,0.6064,0.6695,0.0631,Clinton
+Frio,TX,0.4592,0.5222,0.063,Clinton
+Iberville Parish,LA,0.4563,0.5189,0.0626,Clinton
+Atlantic,NJ,0.4528,0.5152,0.0624,Clinton
+Island,WA,0.43,0.4919,0.0619,Clinton
+Clackamas,OR,0.4341,0.4952,0.0611,Clinton
+Clatsop,OR,0.4292,0.4901,0.0609,Clinton
+Orange,NC,0.7993,0.7404,0.0589,Clinton
+Sussex,VA,0.6294,0.5707,0.0587,Clinton
+Tensas Parish,LA,0.464,0.5226,0.0586,Clinton
+Schenectady,NY,0.4425,0.5009,0.0584,Clinton
+Tolland,CT,0.441,0.4989,0.0579,Clinton
+Gwinnett,GA,0.4521,0.5096,0.0575,Clinton
+Will,IL,0.4458,0.5025,0.0567,Clinton
+Halifax,NC,0.5723,0.6287,0.0564,Clinton
+Prince Edward,VA,0.4498,0.5037,0.0539,Clinton
+Sumter,AL,0.6878,0.7415,0.0537,Clinton
+Holmes,MS,0.8789,0.8261,0.0528,Clinton
+Copiah,MS,0.4683,0.521,0.0527,Clinton
+Cook,IL,0.6915,0.7438,0.0523,Clinton
+Jefferson,MS,0.8124,0.8647,0.0523,Clinton
+Claiborne,MS,0.8023,0.8541,0.0518,Clinton
+Middlesex,MA,0.6119,0.6632,0.0513,Clinton
+Rockland,NY,0.4611,0.512,0.0509,Clinton
+Larimer,CO,0.4261,0.4754,0.0493,Clinton
+Todd,SD,0.7566,0.7082,0.0484,Clinton
+Radford (city),VA,0.4372,0.4846,0.0474,Clinton
+Humphreys,MS,0.6903,0.7369,0.0466,Clinton
+Latah,ID,0.3998,0.446,0.0462,Clinton
+Brunswick,VA,0.631,0.5851,0.0459,Clinton
+Lehigh,PA,0.4593,0.5037,0.0444,Clinton
+Richmond,GA,0.6061,0.6498,0.0437,Clinton
+Caddo Parish,LA,0.4632,0.5055,0.0423,Clinton
+Rutland,VT,0.4509,0.4927,0.0418,Clinton
+Portage,WI,0.527,0.4859,0.0411,Clinton
+Ramsey,MN,0.6163,0.6573,0.041,Clinton
+Iowa,WI,0.5909,0.5501,0.0408,Clinton
+Hillsborough,FL,0.4746,0.5149,0.0403,Clinton
+Kleberg,TX,0.4602,0.497,0.0368,Clinton
+Winchester (city),VA,0.4526,0.4881,0.0355,Clinton
+Marengo,AL,0.4772,0.5121,0.0349,Clinton
+Lackawanna,PA,0.4682,0.5022,0.034,Clinton
+Thurston,WA,0.4993,0.5318,0.0325,Clinton
+Mahoning,OH,0.468,0.498,0.03,Clinton
+Merrimack,NH,0.4605,0.4901,0.0296,Clinton
+Clear Creek,CO,0.4385,0.4673,0.0288,Clinton
+Dauphin,PA,0.4657,0.4939,0.0282,Clinton
+Peoria,IL,0.4557,0.4833,0.0276,Clinton
+Sandoval,NM,0.4211,0.4482,0.0271,Clinton
+DeKalb,GA,0.8349,0.8082,0.0267,Clinton
+Clarendon,SC,0.4781,0.5038,0.0257,Clinton
+Riverside,CA,0.4641,0.4896,0.0255,Clinton
+Erie,NY,0.5255,0.5012,0.0243,Clinton
+Pasquotank,NC,0.4764,0.4984,0.022,Clinton
+Cobb,GA,0.4675,0.4884,0.0209,Clinton
+Whitman,WA,0.4496,0.4702,0.0206,Clinton
+Fresno,CA,0.466,0.4864,0.0204,Clinton
+Alamosa,CO,0.4395,0.4593,0.0198,Clinton
+Gilpin,CO,0.4376,0.4572,0.0196,Clinton
+Centre,PA,0.4655,0.4849,0.0194,Clinton
+Staunton (city),VA,0.4602,0.4782,0.018,Clinton
+Carlton,MN,0.4519,0.4685,0.0166,Clinton
+Dillon,SC,0.482,0.4986,0.0166,Clinton
+Watauga,NC,0.47,0.485,0.015,Clinton
+Greene,AL,0.8092,0.8239,0.0147,Clinton
+Washoe,NV,0.4517,0.4636,0.0119,Clinton
+Oktibbeha,MS,0.475,0.4861,0.0111,Clinton
+Muskegon,MI,0.4663,0.4751,0.0088,Clinton
+Macon,AL,0.8358,0.8273,0.0085,Clinton
+Clarke,GA,0.6597,0.6674,0.0077,Clinton
+Olmsted,MN,0.4499,0.4575,0.0076,Clinton
+Anne Arundel,MD,0.4713,0.4778,0.0065,Clinton
+Bucks,PA,0.4784,0.4842,0.0058,Clinton
+Sauk,WI,0.4689,0.4742,0.0053,Clinton
+Wilcox,AL,0.705,0.7103,0.0053,Clinton
+Fairfield,SC,0.6119,0.6164,0.0045,Clinton
+Pueblo,CO,0.4616,0.4649,0.0033,Clinton
+Waldo,ME,0.4586,0.4614,0.0028,Clinton
+Montgomery,MD,0.7603,0.7587,0.0016,Clinton
+Leslie,KY,0.8938,0.089,0.8048,Trump
+Carson,TX,0.8886,0.0846,0.804,Trump
+Hansford,TX,0.8885,0.0878,0.8007,Trump
+Hartley,TX,0.8879,0.0884,0.7995,Trump
+Jack,TX,0.8904,0.094,0.7964,Trump
+La Salle Parish,LA,0.8884,0.0921,0.7963,Trump
+Cameron Parish,LA,0.8819,0.0875,0.7944,Trump
+Archer,TX,0.8866,0.0923,0.7943,Trump
+Ochiltree,TX,0.8816,0.0919,0.7897,Trump
+Brantley,GA,0.8848,0.0985,0.7863,Trump
+Banks,GA,0.8825,0.0985,0.784,Trump
+Chase,NE,0.8757,0.0924,0.7833,Trump
+Weston,WY,0.8692,0.0882,0.781,Trump
+Cullman,AL,0.8781,0.1001,0.778,Trump
+George,MS,0.8801,0.103,0.7771,Trump
+Dewey,OK,0.8744,0.0988,0.7756,Trump
+Major,OK,0.865,0.0912,0.7738,Trump
+Callahan,TX,0.8744,0.1022,0.7722,Trump
+Montague,TX,0.8747,0.1029,0.7718,Trump
+Coleman,TX,0.874,0.1065,0.7675,Trump
+Kimble,TX,0.8725,0.1059,0.7666,Trump
+Alfalfa,OK,0.8559,0.0957,0.7602,Trump
+Itawamba,MS,0.8704,0.1142,0.7562,Trump
+Gray,KS,0.8825,0.1278,0.7547,Trump
+Eastland,TX,0.8663,0.1119,0.7544,Trump
+McCreary,KY,0.8677,0.115,0.7527,Trump
+Cherry,NE,0.8511,0.1029,0.7482,Trump
+Young,TX,0.8601,0.114,0.7461,Trump
+Emmons,ND,0.8535,0.1097,0.7438,Trump
+Childress,TX,0.8647,0.1214,0.7433,Trump
+Runnels,TX,0.8608,0.1201,0.7407,Trump
+Converse,WY,0.8425,0.102,0.7405,Trump
+Tishomingo,MS,0.8564,0.1191,0.7373,Trump
+San Saba,TX,0.8602,0.1245,0.7357,Trump
+Casey,KY,0.8514,0.1191,0.7323,Trump
+Sabine,TX,0.86,0.1323,0.7277,Trump
+Bollinger,MO,0.8515,0.1244,0.7271,Trump
+Rooks,KS,0.8406,0.1148,0.7258,Trump
+Antelope,NE,0.8438,0.1183,0.7255,Trump
+Livingston Parish,LA,0.8457,0.1205,0.7252,Trump
+Geneva,AL,0.8549,0.1305,0.7244,Trump
+Duchesne,UT,0.7941,0.0721,0.722,Trump
+Van Zandt,TX,0.85,0.1287,0.7213,Trump
+Harlan,KY,0.8487,0.1275,0.7212,Trump
+Woodward,OK,0.8357,0.115,0.7207,Trump
+Gaines,TX,0.8477,0.1295,0.7182,Trump
+Haralson,GA,0.8464,0.1302,0.7162,Trump
+Lavaca,TX,0.8501,0.1355,0.7146,Trump
+Ritchie,WV,0.8356,0.1213,0.7143,Trump
+Kingfisher,OK,0.8413,0.1279,0.7134,Trump
+Rains,TX,0.8464,0.1337,0.7127,Trump
+Holt,MO,0.8586,0.1474,0.7112,Trump
+Emery,UT,0.798,0.0889,0.7091,Trump
+Edwards,IL,0.8385,0.1304,0.7081,Trump
+Beckham,OK,0.835,0.1272,0.7078,Trump
+Red Willow,NE,0.8322,0.1261,0.7061,Trump
+Grant Parish,LA,0.8398,0.1339,0.7059,Trump
+Washita,OK,0.8321,0.1271,0.705,Trump
+Cleburne,AR,0.8784,0.1739,0.7045,Trump
+Doddridge,WV,0.8305,0.1274,0.7031,Trump
+Rockcastle,KY,0.8387,0.1368,0.7019,Trump
+Norton,KS,0.8256,0.1265,0.6991,Trump
+Barber,KS,0.8248,0.1272,0.6976,Trump
+Scurry,TX,0.8369,0.1393,0.6976,Trump
+Furnas,NE,0.8272,0.1313,0.6959,Trump
+Morrill,NE,0.8255,0.1302,0.6953,Trump
+Sioux,IA,0.8206,0.1272,0.6934,Trump
+Stoddard,MO,0.8342,0.1411,0.6931,Trump
+Laurel,KY,0.8295,0.1386,0.6909,Trump
+Stephens,GA,0.8784,0.188,0.6904,Trump
+Uintah,UT,0.7665,0.0777,0.6888,Trump
+Somervell,TX,0.8271,0.1393,0.6878,Trump
+Mingo,WV,0.8318,0.1442,0.6876,Trump
+Bacon,GA,0.8369,0.1514,0.6855,Trump
+Grainger,TN,0.8288,0.1445,0.6843,Trump
+West Carroll Parish,LA,0.8342,0.1502,0.684,Trump
+Rio Blanco,CO,0.8097,0.126,0.6837,Trump
+Baca,CO,0.8144,0.1319,0.6825,Trump
+Dent,MO,0.8261,0.1443,0.6818,Trump
+Cooke,TX,0.8289,0.1475,0.6814,Trump
+Moffat,CO,0.8131,0.1343,0.6788,Trump
+Bland,VA,0.8233,0.145,0.6783,Trump
+Musselshell,MT,0.814,0.1374,0.6766,Trump
+Parker,TX,0.8231,0.1476,0.6755,Trump
+Fentress,TN,0.8251,0.1505,0.6746,Trump
+Tyler,TX,0.8283,0.156,0.6723,Trump
+Sherman,KS,0.8053,0.134,0.6713,Trump
+Keith,NE,0.8119,0.142,0.6699,Trump
+McCulloch,TX,0.825,0.1555,0.6695,Trump
+Pearl River,MS,0.822,0.1545,0.6675,Trump
+Chilton,AL,0.8254,0.1594,0.666,Trump
+Blount,TN,0.8985,0.2331,0.6654,Trump
+Bear Lake,ID,0.7524,0.0871,0.6653,Trump
+Crook,OR,0.8876,0.2226,0.665,Trump
+Hood,TX,0.818,0.1532,0.6648,Trump
+Habersham,GA,0.8175,0.154,0.6635,Trump
+Woods,OK,0.8035,0.1422,0.6613,Trump
+Hutchinson,SD,0.8662,0.2056,0.6606,Trump
+Caribou,ID,0.7496,0.0893,0.6603,Trump
+Wise,VA,0.8376,0.1792,0.6584,Trump
+Millard,UT,0.7379,0.0823,0.6556,Trump
+Kit Carson,CO,0.801,0.1456,0.6554,Trump
+Barton,KS,0.8358,0.1807,0.6551,Trump
+Erath,TX,0.8114,0.1563,0.6551,Trump
+Atoka,OK,0.8133,0.1589,0.6544,Trump
+Texas,MO,0.8116,0.158,0.6536,Trump
+Republic,KS,0.8023,0.149,0.6533,Trump
+Beauregard Parish,LA,0.8116,0.1587,0.6529,Trump
+Randall,TX,0.8061,0.155,0.6511,Trump
+Vernon Parish,LA,0.8099,0.1602,0.6497,Trump
+Dade,MO,0.8091,0.1612,0.6479,Trump
+Ozark,MO,0.8085,0.1609,0.6476,Trump
+Bosque,TX,0.8112,0.1638,0.6474,Trump
+Caldwell Parish,LA,0.8146,0.1679,0.6467,Trump
+McKenzie,ND,0.7969,0.1515,0.6454,Trump
+Cocke,TN,0.8086,0.1635,0.6451,Trump
+Laclede,MO,0.8042,0.1593,0.6449,Trump
+Sublette,WY,0.7933,0.1499,0.6434,Trump
+Palo Pinto,TX,0.8081,0.1671,0.641,Trump
+Fannin,TX,0.8179,0.1773,0.6406,Trump
+Washakie,WY,0.7836,0.1432,0.6404,Trump
+McDonald,MO,0.8015,0.1614,0.6401,Trump
+Stanton,NE,0.7908,0.1517,0.6391,Trump
+Carlisle,KY,0.8051,0.1661,0.639,Trump
+McCurtain,OK,0.807,0.168,0.639,Trump
+Idaho,ID,0.7833,0.1454,0.6379,Trump
+DeWitt,TX,0.8077,0.1702,0.6375,Trump
+Upshur,WV,0.8291,0.192,0.6371,Trump
+Cheyenne,NE,0.7901,0.1536,0.6365,Trump
+Gordon,GA,0.8048,0.1685,0.6363,Trump
+Live Oak,TX,0.8085,0.1732,0.6353,Trump
+Hawkins,TN,0.8027,0.1692,0.6335,Trump
+Nuckolls,NE,0.7938,0.1616,0.6322,Trump
+Dixie,FL,0.8084,0.1763,0.6321,Trump
+Howell,MO,0.7975,0.1654,0.6321,Trump
+Pushmataha,OK,0.7988,0.1669,0.6319,Trump
+Searcy,AR,0.7927,0.1612,0.6315,Trump
+Sabine Parish,LA,0.805,0.174,0.631,Trump
+Wirt,WV,0.7896,0.1589,0.6307,Trump
+Bandera,TX,0.7989,0.169,0.6299,Trump
+Letcher,KY,0.7984,0.1688,0.6296,Trump
+Jeff Davis,GA,0.8061,0.177,0.6291,Trump
+Owyhee,ID,0.7786,0.1508,0.6278,Trump
+Gilchrist,FL,0.8007,0.1731,0.6276,Trump
+Andrews,TX,0.7968,0.1697,0.6271,Trump
+Cotton,OK,0.7894,0.163,0.6264,Trump
+Ripley,IN,0.8191,0.1932,0.6259,Trump
+Auglaize,OH,0.7931,0.1673,0.6258,Trump
+Ellis,TX,0.8817,0.2568,0.6249,Trump
+Heard,GA,0.8012,0.1767,0.6245,Trump
+Merrick,NE,0.7861,0.1621,0.624,Trump
+Hockley,TX,0.7955,0.1726,0.6229,Trump
+Llano,TX,0.7982,0.1759,0.6223,Trump
+Gillespie,TX,0.7959,0.1742,0.6217,Trump
+Harper,KS,0.776,0.1544,0.6216,Trump
+Towns,GA,0.7994,0.1793,0.6201,Trump
+Coal,OK,0.7906,0.1718,0.6188,Trump
+Alcorn,MS,0.7995,0.1816,0.6179,Trump
+Juniata,PA,0.7916,0.174,0.6176,Trump
+Yadkin,NC,0.7963,0.181,0.6153,Trump
+Garrett,MD,0.7895,0.1745,0.615,Trump
+Uinta,WY,0.7642,0.1493,0.6149,Trump
+Unicoi,TN,0.7907,0.1758,0.6149,Trump
+Maries,MO,0.7912,0.1765,0.6147,Trump
+Reynolds,MO,0.7922,0.1781,0.6141,Trump
+Rhea,TN,0.7902,0.1774,0.6128,Trump
+Darke,OH,0.7879,0.1758,0.6121,Trump
+Goshen,WY,0.774,0.1619,0.6121,Trump
+Greer,OK,0.7816,0.1704,0.6112,Trump
+Tripp,SD,0.7867,0.1757,0.611,Trump
+Gilmer,WV,0.8232,0.2124,0.6108,Trump
+Rabun,GA,0.7909,0.1815,0.6094,Trump
+McClain,OK,0.781,0.1718,0.6092,Trump
+Nowata,OK,0.7838,0.1751,0.6087,Trump
+Kearney,NE,0.777,0.1696,0.6074,Trump
+Hot Springs,WY,0.7649,0.1578,0.6071,Trump
+Catoosa,GA,0.7869,0.1799,0.607,Trump
+Garvin,OK,0.7827,0.1759,0.6068,Trump
+Baker,OR,0.8148,0.21,0.6048,Trump
+Whitley,IN,0.8216,0.2175,0.6041,Trump
+Moniteau,MO,0.785,0.1817,0.6033,Trump
+Edmonson,KY,0.789,0.1868,0.6022,Trump
+O'Brien,IA,0.7805,0.1788,0.6017,Trump
+Oregon,MO,0.7864,0.1855,0.6009,Trump
+Cassia,ID,0.7274,0.1267,0.6007,Trump
+Lampasas,TX,0.7818,0.1815,0.6003,Trump
+Lumpkin,GA,0.78,0.1798,0.6002,Trump
+Doniphan,KS,0.7727,0.1735,0.5992,Trump
+Payette,ID,0.755,0.1564,0.5986,Trump
+Wheeler,GA,0.905,0.3073,0.5977,Trump
+Cuming,NE,0.7761,0.1785,0.5976,Trump
+Mills,IA,0.8709,0.2734,0.5975,Trump
+Gem,ID,0.752,0.1546,0.5974,Trump
+McMinn,TN,0.7849,0.1876,0.5973,Trump
+Austin,TX,0.7864,0.1892,0.5972,Trump
+McNairy,TN,0.7812,0.1841,0.5971,Trump
+Bedford,VA,0.8277,0.2307,0.597,Trump
+Sequatchie,TN,0.7824,0.1855,0.5969,Trump
+Dawson,NE,0.8459,0.2494,0.5965,Trump
+Vermilion Parish,LA,0.7843,0.1879,0.5964,Trump
+Yoakum,TX,0.7816,0.1853,0.5963,Trump
+Freestone,TX,0.788,0.192,0.596,Trump
+Carter,KY,0.8174,0.2215,0.5959,Trump
+Haskell,OK,0.7809,0.1863,0.5946,Trump
+Sheridan,MT,0.8546,0.2605,0.5941,Trump
+Taney,MO,0.7795,0.1866,0.5929,Trump
+Lander,NV,0.7576,0.167,0.5906,Trump
+Tippah,MS,0.7855,0.1977,0.5878,Trump
+Chattooga,GA,0.783,0.1955,0.5875,Trump
+Le Flore,OK,0.776,0.1887,0.5873,Trump
+Bledsoe,TN,0.7787,0.1927,0.586,Trump
+Garrard,KY,0.7749,0.1907,0.5842,Trump
+San Jacinto,TX,0.7812,0.1974,0.5838,Trump
+Kingman,KS,0.7641,0.181,0.5831,Trump
+Hopkins,KY,0.7943,0.2119,0.5824,Trump
+Lamb,TX,0.7785,0.1972,0.5813,Trump
+Custer,CO,0.841,0.2601,0.5809,Trump
+Obion,TN,0.7793,0.1984,0.5809,Trump
+Appling,GA,0.7842,0.2048,0.5794,Trump
+Gregory,SD,0.7652,0.187,0.5782,Trump
+Harney,OR,0.7543,0.1771,0.5772,Trump
+Love,OK,0.7711,0.1941,0.577,Trump
+Stone,MS,0.7951,0.2198,0.5753,Trump
+Thayer,NE,0.7627,0.1875,0.5752,Trump
+Wilbarger,TX,0.772,0.1968,0.5752,Trump
+Mifflin,PA,0.7703,0.1954,0.5749,Trump
+Phelps,MO,0.8314,0.2574,0.574,Trump
+Effingham,GA,0.7811,0.2074,0.5737,Trump
+Coffey,KS,0.7547,0.1815,0.5732,Trump
+Lynn,TX,0.7742,0.2018,0.5724,Trump
+Ballard,KY,0.7708,0.199,0.5718,Trump
+Hamblen,TN,0.7697,0.198,0.5717,Trump
+Juab,UT,0.6769,0.107,0.5699,Trump
+White,IN,0.8284,0.2588,0.5696,Trump
+Bracken,KY,0.7686,0.1999,0.5687,Trump
+Pickett,TN,0.7739,0.2054,0.5685,Trump
+Broadwater,MT,0.7508,0.1825,0.5683,Trump
+Sweet Grass,MT,0.7596,0.1913,0.5683,Trump
+Burnet,TX,0.7663,0.1987,0.5676,Trump
+Latimer,OK,0.764,0.1968,0.5672,Trump
+Acadia Parish,LA,0.7726,0.2059,0.5667,Trump
+Avery,NC,0.7725,0.2072,0.5653,Trump
+Prentiss,MS,0.7747,0.2094,0.5653,Trump
+Wells,IN,0.7623,0.197,0.5653,Trump
+Lafourche Parish,LA,0.7674,0.2023,0.5651,Trump
+Stillwater,MT,0.752,0.1873,0.5647,Trump
+Walton,GA,0.7692,0.2048,0.5644,Trump
+Graves,KY,0.7637,0.1994,0.5643,Trump
+Estill,KY,0.7639,0.1998,0.5641,Trump
+Van Wert,OH,0.7603,0.1963,0.564,Trump
+Rogers,OK,0.7566,0.1933,0.5633,Trump
+Hunt,TX,0.7653,0.2021,0.5632,Trump
+Kerr,TX,0.7647,0.202,0.5627,Trump
+Dickenson,VA,0.77,0.2084,0.5616,Trump
+Highland,OH,0.7628,0.2015,0.5613,Trump
+Schley,GA,0.7711,0.2101,0.561,Trump
+Shannon,MO,0.7597,0.1988,0.5609,Trump
+Gentry,MO,0.7596,0.1995,0.5601,Trump
+Lemhi,ID,0.7402,0.1802,0.56,Trump
+Fountain,IN,0.7574,0.1975,0.5599,Trump
+Iroquois,IL,0.7528,0.1931,0.5597,Trump
+Grayson,TX,0.7774,0.2183,0.5591,Trump
+Preston,WV,0.7534,0.1952,0.5582,Trump
+Gasconade,MO,0.7617,0.2041,0.5576,Trump
+Nemaha,NE,0.8092,0.2521,0.5571,Trump
+Gallia,OH,0.76,0.2037,0.5563,Trump
+Stokes,NC,0.7653,0.2094,0.5559,Trump
+Sevier,AR,0.7908,0.2352,0.5556,Trump
+Boundary,ID,0.7357,0.1812,0.5545,Trump
+Pontotoc,OK,0.7994,0.2452,0.5542,Trump
+Dyer,TN,0.7656,0.2118,0.5538,Trump
+Benewah,ID,0.7397,0.1861,0.5536,Trump
+Murray,MN,0.8324,0.279,0.5534,Trump
+Sanpete,UT,0.6582,0.1049,0.5533,Trump
+Dearborn,IN,0.7574,0.2042,0.5532,Trump
+Larue,KY,0.7537,0.2007,0.553,Trump
+Suwannee,FL,0.7647,0.2118,0.5529,Trump
+Smyth,VA,0.76,0.2075,0.5525,Trump
+Bartow,GA,0.761,0.2089,0.5521,Trump
+Craig,OK,0.7683,0.2162,0.5521,Trump
+Patrick,VA,0.7603,0.2083,0.552,Trump
+Swisher,TX,0.763,0.211,0.552,Trump
+Kosciusko,IN,0.7493,0.1978,0.5515,Trump
+Cloud,KS,0.7455,0.1942,0.5513,Trump
+Burleson,TX,0.7654,0.2147,0.5507,Trump
+Pleasants,WV,0.7482,0.1981,0.5501,Trump
+Wythe,VA,0.758,0.2087,0.5493,Trump
+Edmunds,SD,0.7471,0.1981,0.549,Trump
+Wyoming,PA,0.8358,0.2877,0.5481,Trump
+Miller,AR,0.8135,0.2656,0.5479,Trump
+Williams,OH,0.8008,0.2531,0.5477,Trump
+Hardy,WV,0.7546,0.2074,0.5472,Trump
+Elko,NV,0.7302,0.1833,0.5469,Trump
+Bates,MO,0.748,0.2016,0.5464,Trump
+Smith,TX,0.8118,0.2661,0.5457,Trump
+Creek,OK,0.7482,0.2027,0.5455,Trump
+Box Butte,NE,0.7456,0.2002,0.5454,Trump
+Meigs,OH,0.7741,0.2292,0.5449,Trump
+Metcalfe,KY,0.7558,0.2113,0.5445,Trump
+Loudon,TN,0.7547,0.211,0.5437,Trump
+Cannon,TN,0.756,0.2125,0.5435,Trump
+Sharp,AR,0.7459,0.2031,0.5428,Trump
+Sequoyah,OK,0.7542,0.212,0.5422,Trump
+Gooding,ID,0.7211,0.1792,0.5419,Trump
+Hamlin,SD,0.7426,0.2009,0.5417,Trump
+Minidoka,ID,0.7114,0.1699,0.5415,Trump
+Toole,MT,0.7386,0.1971,0.5415,Trump
+Dixon,NE,0.7438,0.2026,0.5412,Trump
+Pendleton,WV,0.7664,0.226,0.5404,Trump
+Lamar,GA,0.8396,0.2993,0.5403,Trump
+Ellsworth,KS,0.7361,0.1961,0.54,Trump
+Knott,KY,0.756,0.216,0.54,Trump
+Pratt,KS,0.742,0.202,0.54,Trump
+Preble,OH,0.751,0.2111,0.5399,Trump
+Red River,TX,0.7624,0.223,0.5394,Trump
+Fleming,KY,0.7547,0.2154,0.5393,Trump
+Jefferson Davis Parish,LA,0.7547,0.2157,0.539,Trump
+Izard,AR,0.7423,0.204,0.5383,Trump
+Ralls,MO,0.7537,0.2161,0.5376,Trump
+Dunklin,MO,0.759,0.2232,0.5358,Trump
+Sweetwater,WY,0.7294,0.194,0.5354,Trump
+Hanson,SD,0.7463,0.2114,0.5349,Trump
+Hickory,MO,0.7503,0.2154,0.5349,Trump
+Campbell,KY,0.8797,0.345,0.5347,Trump
+Santa Rosa,FL,0.7449,0.2104,0.5345,Trump
+Potter,TX,0.8033,0.269,0.5343,Trump
+White Pine,NV,0.7217,0.1874,0.5343,Trump
+Hickman,TN,0.7682,0.2349,0.5333,Trump
+Baxter,AR,0.7428,0.211,0.5318,Trump
+Bleckley,GA,0.7533,0.2217,0.5316,Trump
+Hardin,IA,0.8609,0.3293,0.5316,Trump
+Nolan,TX,0.7485,0.2169,0.5316,Trump
+Osage,OK,0.8258,0.2953,0.5305,Trump
+Morton,ND,0.7281,0.1979,0.5302,Trump
+Noble,IN,0.7612,0.2311,0.5301,Trump
+Morrison,MN,0.7371,0.2074,0.5297,Trump
+Logan,IL,0.8011,0.2721,0.529,Trump
+Rankin,MS,0.7525,0.224,0.5285,Trump
+Lonoke,AR,0.7369,0.2088,0.5281,Trump
+Raleigh,WV,0.7449,0.2171,0.5278,Trump
+Jennings,IN,0.7397,0.2127,0.527,Trump
+Lewis,WA,0.8235,0.2976,0.5259,Trump
+Pawnee,KS,0.7431,0.2179,0.5252,Trump
+Winkler,TX,0.7491,0.2242,0.5249,Trump
+Fergus,MT,0.7306,0.2063,0.5243,Trump
+Pittsburg,OK,0.7386,0.2147,0.5239,Trump
+Kiowa,OK,0.7432,0.2195,0.5237,Trump
+Blanco,TX,0.743,0.2194,0.5236,Trump
+Missaukee,MI,0.7377,0.2144,0.5233,Trump
+Wabash,IN,0.7477,0.225,0.5227,Trump
+Rush,IN,0.7336,0.2114,0.5222,Trump
+Tucker,WV,0.7382,0.2165,0.5217,Trump
+Natrona,WY,0.7239,0.2023,0.5216,Trump
+Owen,IN,0.7491,0.2284,0.5207,Trump
+Parke,IN,0.7395,0.2191,0.5204,Trump
+Wagoner,OK,0.735,0.2148,0.5202,Trump
+Chariton,MO,0.7441,0.2241,0.52,Trump
+Armstrong,PA,0.7448,0.225,0.5198,Trump
+Elmore,AL,0.7484,0.2286,0.5198,Trump
+Graham,AZ,0.7963,0.2765,0.5198,Trump
+Sanders,MT,0.7254,0.2058,0.5196,Trump
+Ida,IA,0.7396,0.2206,0.519,Trump
+Walker,TX,0.8278,0.3092,0.5186,Trump
+Magoffin,KY,0.7475,0.2291,0.5184,Trump
+Independence,AR,0.7299,0.2116,0.5183,Trump
+LaGrange,IN,0.7354,0.2178,0.5176,Trump
+Mayes,OK,0.7351,0.2179,0.5172,Trump
+Ward,TX,0.7445,0.2285,0.516,Trump
+Breckinridge,KY,0.7393,0.2235,0.5158,Trump
+Allen Parish,LA,0.7428,0.2278,0.515,Trump
+Mohave,AZ,0.7367,0.2222,0.5145,Trump
+Richardson,NE,0.7321,0.2177,0.5144,Trump
+Box Elder,UT,0.6239,0.1096,0.5143,Trump
+Limestone,AL,0.7514,0.2371,0.5143,Trump
+Weakley,TN,0.7422,0.2284,0.5138,Trump
+Churchill,NV,0.7158,0.2021,0.5137,Trump
+Colorado,TX,0.7456,0.2331,0.5125,Trump
+Canadian,OK,0.7234,0.2111,0.5123,Trump
+Wright,IA,0.829,0.3177,0.5113,Trump
+Grimes,TX,0.7415,0.2303,0.5112,Trump
+Huntington,IN,0.7292,0.2195,0.5097,Trump
+McDowell,NC,0.7467,0.2375,0.5092,Trump
+Bottineau,ND,0.7221,0.2136,0.5085,Trump
+St. Tammany Parish,LA,0.7309,0.2228,0.5081,Trump
+Cherokee,OK,0.8387,0.3309,0.5078,Trump
+Huntingdon,PA,0.737,0.2301,0.5069,Trump
+Beaver,PA,0.8882,0.3824,0.5058,Trump
+Andrew,MO,0.7292,0.2237,0.5055,Trump
+Catron,NM,0.714,0.2093,0.5047,Trump
+Dale,AL,0.7412,0.2368,0.5044,Trump
+Barrow,GA,0.7321,0.2283,0.5038,Trump
+Aransas,TX,0.7385,0.2348,0.5037,Trump
+Wetzel,WV,0.7206,0.2177,0.5029,Trump
+Kay,OK,0.7245,0.2223,0.5022,Trump
+Roane,WV,0.7351,0.2331,0.502,Trump
+Overton,TN,0.7389,0.2371,0.5018,Trump
+Stanly,NC,0.7398,0.238,0.5018,Trump
+Etowah,AL,0.7391,0.2381,0.501,Trump
+Cape Girardeau,MO,0.7305,0.2296,0.5009,Trump
+Comal,TX,0.7308,0.2301,0.5007,Trump
+Trimble,KY,0.7315,0.232,0.4995,Trump
+Milam,TX,0.7366,0.2372,0.4994,Trump
+Currituck,NC,0.7301,0.2317,0.4984,Trump
+Barren,KY,0.7295,0.2313,0.4982,Trump
+Bullitt,KY,0.727,0.229,0.498,Trump
+Irwin,GA,0.7409,0.2432,0.4977,Trump
+Boise,ID,0.7012,0.2038,0.4974,Trump
+Wichita,TX,0.7282,0.2308,0.4974,Trump
+Tipton,TN,0.7442,0.2473,0.4969,Trump
+Crockett,TN,0.7384,0.2417,0.4967,Trump
+Tattnall,GA,0.7402,0.2439,0.4963,Trump
+Lassen,CA,0.7188,0.2229,0.4959,Trump
+Massac,IL,0.7303,0.2344,0.4959,Trump
+Clearfield,PA,0.7313,0.2355,0.4958,Trump
+Dawes,NE,0.7152,0.2194,0.4958,Trump
+Edgar,IL,0.7239,0.2284,0.4955,Trump
+Gulf,FL,0.7309,0.2356,0.4953,Trump
+Malheur,OR,0.7177,0.2224,0.4953,Trump
+Trigg,KY,0.7306,0.2353,0.4953,Trump
+Tazewell,IL,0.8197,0.3247,0.495,Trump
+Autauga,AL,0.7344,0.2396,0.4948,Trump
+Morgan,IL,0.8147,0.3213,0.4934,Trump
+Pembina,ND,0.7126,0.2202,0.4924,Trump
+Bryan,GA,0.7585,0.2662,0.4923,Trump
+Augusta,VA,0.7133,0.2212,0.4921,Trump
+Prairie,AR,0.7276,0.236,0.4916,Trump
+Chautauqua,NY,0.8412,0.35,0.4912,Trump
+Pershing,NV,0.7079,0.217,0.4909,Trump
+Poquoson (city),VA,0.7154,0.2248,0.4906,Trump
+Jerome,ID,0.6888,0.1985,0.4903,Trump
+Bradford,PA,0.7367,0.2466,0.4901,Trump
+Clearwater,MN,0.7503,0.2604,0.4899,Trump
+Scotts Bluff,NE,0.7162,0.2268,0.4894,Trump
+Navarro,TX,0.7315,0.244,0.4875,Trump
+Yell,AR,0.7162,0.2292,0.487,Trump
+Nicholas,KY,0.7639,0.2771,0.4868,Trump
+Daviess,KY,0.7959,0.3094,0.4865,Trump
+Charlton,GA,0.736,0.2505,0.4855,Trump
+Union Parish,LA,0.7318,0.247,0.4848,Trump
+Terrebonne Parish,LA,0.7268,0.243,0.4838,Trump
+Lea,NM,0.7053,0.2222,0.4831,Trump
+Pottawatomie,OK,0.7193,0.2363,0.483,Trump
+Barry,MI,0.7825,0.301,0.4815,Trump
+Davie,NC,0.7261,0.2449,0.4812,Trump
+Modoc,CA,0.7184,0.2376,0.4808,Trump
+San Augustine,TX,0.7353,0.2546,0.4807,Trump
+Bingham,ID,0.6561,0.1759,0.4802,Trump
+Moultrie,IL,0.7172,0.2377,0.4795,Trump
+Tom Green,TX,0.7185,0.2393,0.4792,Trump
+Meade,KY,0.7264,0.2474,0.479,Trump
+Jay,IN,0.7155,0.2373,0.4782,Trump
+Gonzales,TX,0.7265,0.2486,0.4779,Trump
+Okaloosa,FL,0.7132,0.2356,0.4776,Trump
+Coffee,GA,0.7715,0.2943,0.4772,Trump
+Anderson,TN,0.7796,0.3031,0.4765,Trump
+Botetourt,VA,0.7172,0.241,0.4762,Trump
+Hart,GA,0.7325,0.2563,0.4762,Trump
+Tillman,OK,0.7184,0.2428,0.4756,Trump
+Page,IA,0.7338,0.2585,0.4753,Trump
+Rockwall,TX,0.7184,0.2437,0.4747,Trump
+Wabaunsee,KS,0.706,0.2314,0.4746,Trump
+Fall River,SD,0.7047,0.2304,0.4743,Trump
+Clarion,PA,0.7176,0.2435,0.4741,Trump
+Comanche,OK,0.8257,0.3519,0.4738,Trump
+Miami,KS,0.7422,0.2684,0.4738,Trump
+Neshoba,MS,0.7294,0.2556,0.4738,Trump
+Colquitt,GA,0.7278,0.2546,0.4732,Trump
+Angelina,TX,0.7253,0.2524,0.4729,Trump
+Snyder,PA,0.717,0.2444,0.4726,Trump
+Morrow,OR,0.7242,0.2517,0.4725,Trump
+McKean,PA,0.7166,0.2442,0.4724,Trump
+Harrison,MS,0.8053,0.3331,0.4722,Trump
+Menifee,KY,0.723,0.2518,0.4712,Trump
+Bon Homme,SD,0.7078,0.2367,0.4711,Trump
+Kaufman,TX,0.7208,0.2505,0.4703,Trump
+Okfuskee,OK,0.7096,0.2398,0.4698,Trump
+Sac,IA,0.7158,0.246,0.4698,Trump
+Saunders,NE,0.7064,0.2367,0.4697,Trump
+Powell,KY,0.7261,0.2566,0.4695,Trump
+Pettis,MO,0.7089,0.2395,0.4694,Trump
+Toombs,GA,0.726,0.2567,0.4693,Trump
+Prowers,CO,0.7047,0.2356,0.4691,Trump
+Spencer,IN,0.7564,0.2873,0.4691,Trump
+Winston,MS,0.8996,0.4307,0.4689,Trump
+Cheatham,TN,0.7138,0.245,0.4688,Trump
+Muhlenberg,KY,0.7195,0.2507,0.4688,Trump
+Wyandot,OH,0.7066,0.2389,0.4677,Trump
+Hillsdale,MI,0.709,0.2414,0.4676,Trump
+Neosho,KS,0.7056,0.238,0.4676,Trump
+Bowie,TX,0.7227,0.2562,0.4665,Trump
+Mineral,NV,0.785,0.319,0.466,Trump
+Dickey,ND,0.6981,0.2323,0.4658,Trump
+Summers,WV,0.7105,0.2447,0.4658,Trump
+Powhatan,VA,0.7071,0.2416,0.4655,Trump
+Sumner,TN,0.7209,0.2554,0.4655,Trump
+Winn Parish,LA,0.7231,0.258,0.4651,Trump
+Covington,MS,0.8359,0.3717,0.4642,Trump
+Jersey,IL,0.7092,0.245,0.4642,Trump
+Appomattox,VA,0.7184,0.2543,0.4641,Trump
+Blair,PA,0.7154,0.2516,0.4638,Trump
+Rusk,WI,0.7726,0.3089,0.4637,Trump
+Cooper,MO,0.705,0.2422,0.4628,Trump
+Roseau,MN,0.7018,0.239,0.4628,Trump
+Pipestone,MN,0.6985,0.2358,0.4627,Trump
+Adair,MO,0.8063,0.3448,0.4615,Trump
+Burleigh,ND,0.6933,0.2318,0.4615,Trump
+Giles,TN,0.7235,0.2621,0.4614,Trump
+LaMoure,ND,0.6974,0.2364,0.461,Trump
+Allegany,NY,0.7202,0.2614,0.4588,Trump
+Bossier Parish,LA,0.7116,0.2537,0.4579,Trump
+Ohio,WV,0.7638,0.306,0.4578,Trump
+Delta,MI,0.8056,0.3482,0.4574,Trump
+Vinton,OH,0.7044,0.247,0.4574,Trump
+Valley,ID,0.8149,0.3576,0.4573,Trump
+Wadena,MN,0.7016,0.2443,0.4573,Trump
+Mahaska,IA,0.7055,0.2483,0.4572,Trump
+Moore,NC,0.7946,0.3382,0.4564,Trump
+Dickson,TN,0.7097,0.2534,0.4563,Trump
+Crenshaw,AL,0.7215,0.266,0.4555,Trump
+Greenup,KY,0.7095,0.2548,0.4547,Trump
+New Madrid,MO,0.7168,0.2629,0.4539,Trump
+St. Francois,MO,0.7068,0.2529,0.4539,Trump
+Beaverhead,MT,0.6909,0.2375,0.4534,Trump
+McCook,SD,0.6935,0.2408,0.4527,Trump
+Lawrence,MS,0.7971,0.3446,0.4525,Trump
+Pope,MN,0.7871,0.3346,0.4525,Trump
+Davis,IA,0.7053,0.253,0.4523,Trump
+Atkinson,GA,0.7193,0.2673,0.452,Trump
+Henderson,NC,0.7981,0.3461,0.452,Trump
+Atchison,KS,0.7562,0.3044,0.4518,Trump
+Schuyler,NY,0.7786,0.3278,0.4508,Trump
+Grady,GA,0.777,0.3271,0.4499,Trump
+Hall,NE,0.7369,0.2879,0.449,Trump
+Hughes,SD,0.7485,0.2996,0.4489,Trump
+Stevens,MN,0.844,0.3955,0.4485,Trump
+Lycoming,PA,0.7054,0.257,0.4484,Trump
+Klamath,OR,0.6898,0.2421,0.4477,Trump
+Whitfield,GA,0.7086,0.261,0.4476,Trump
+Levy,FL,0.7104,0.2629,0.4475,Trump
+Pocahontas,WV,0.7027,0.2553,0.4474,Trump
+Switzerland,IN,0.7029,0.2556,0.4473,Trump
+Cavalier,ND,0.6887,0.2417,0.447,Trump
+Ashe,NC,0.7107,0.2641,0.4466,Trump
+Gibson,TN,0.7161,0.2697,0.4464,Trump
+Fremont,IA,0.716,0.2698,0.4462,Trump
+Twin Falls,ID,0.6604,0.2146,0.4458,Trump
+Sanilac,MI,0.6987,0.2532,0.4455,Trump
+Carteret,NC,0.7104,0.2656,0.4448,Trump
+Castro,TX,0.7079,0.2635,0.4444,Trump
+Catahoula Parish,LA,0.7164,0.2722,0.4442,Trump
+Goliad,TX,0.7051,0.2621,0.443,Trump
+Oscoda,MI,0.6999,0.257,0.4429,Trump
+Lake of the Woods,MN,0.6906,0.248,0.4426,Trump
+Oconee,GA,0.7186,0.276,0.4426,Trump
+Brown,WI,0.861,0.4185,0.4425,Trump
+Montmorency,MI,0.6985,0.2568,0.4417,Trump
+Elliott,KY,0.7005,0.2592,0.4413,Trump
+Kalkaska,MI,0.6965,0.2555,0.441,Trump
+Paulding,GA,0.7192,0.2787,0.4405,Trump
+Audrain,MO,0.6951,0.2556,0.4395,Trump
+Lyon,KS,0.8188,0.3794,0.4394,Trump
+Dickinson,MI,0.7374,0.2986,0.4388,Trump
+Bristol (city),VA,0.7011,0.263,0.4381,Trump
+Butts,GA,0.7088,0.2708,0.438,Trump
+Elk,PA,0.7004,0.2625,0.4379,Trump
+Ford,KS,0.7114,0.2737,0.4377,Trump
+Franklin Parish,LA,0.711,0.2735,0.4375,Trump
+Johnston,NC,0.7701,0.333,0.4371,Trump
+Blackford,IN,0.6945,0.2578,0.4367,Trump
+Keokuk,IA,0.6968,0.2604,0.4364,Trump
+Candler,GA,0.7083,0.2723,0.436,Trump
+Livingston,NY,0.7689,0.3341,0.4348,Trump
+Braxton,WV,0.6944,0.2597,0.4347,Trump
+Brule,SD,0.684,0.2496,0.4344,Trump
+Caddo,OK,0.6933,0.259,0.4343,Trump
+Grundy,IL,0.7845,0.3504,0.4341,Trump
+Schuylkill,PA,0.7002,0.2665,0.4337,Trump
+Karnes,TX,0.707,0.2734,0.4336,Trump
+Putnam,NY,0.8266,0.393,0.4336,Trump
+Shenandoah,VA,0.6923,0.2591,0.4332,Trump
+Coshocton,OH,0.6939,0.2612,0.4327,Trump
+Thomas,GA,0.8131,0.3811,0.432,Trump
+Alleghany,VA,0.7267,0.2963,0.4304,Trump
+Redwood,MN,0.679,0.2494,0.4296,Trump
+Cedar,IA,0.8103,0.3812,0.4291,Trump
+Susquehanna,PA,0.6924,0.2638,0.4286,Trump
+Breathitt,KY,0.6959,0.268,0.4279,Trump
+Camp,TX,0.7048,0.2774,0.4274,Trump
+Pickaway,OH,0.6921,0.2656,0.4265,Trump
+Guernsey,OH,0.691,0.2653,0.4257,Trump
+Clinch,GA,0.7057,0.2804,0.4253,Trump
+Kootenai,ID,0.6706,0.2454,0.4252,Trump
+Stutsman,ND,0.6748,0.2499,0.4249,Trump
+Teller,CO,0.6745,0.2497,0.4248,Trump
+Venango,PA,0.6904,0.2665,0.4239,Trump
+De Witt,IL,0.6791,0.2553,0.4238,Trump
+Coweta,GA,0.6934,0.2703,0.4231,Trump
+Christian,KY,0.7475,0.3255,0.422,Trump
+Brooke,WV,0.6891,0.2672,0.4219,Trump
+Callaway,MO,0.6824,0.2608,0.4216,Trump
+Charles Mix,SD,0.6939,0.2724,0.4215,Trump
+Titus,TX,0.698,0.2766,0.4214,Trump
+Hot Spring,AR,0.6846,0.2634,0.4212,Trump
+Webster,IA,0.786,0.365,0.421,Trump
+Montrose,CO,0.6788,0.2581,0.4207,Trump
+Allen,IN,0.7992,0.3788,0.4204,Trump
+Starke,IN,0.6901,0.2698,0.4203,Trump
+Oglethorpe,GA,0.695,0.275,0.42,Trump
+McPherson,KS,0.6756,0.2558,0.4198,Trump
+Nye,NV,0.6799,0.2601,0.4198,Trump
+Sibley,MN,0.6721,0.2529,0.4192,Trump
+Elbert,GA,0.7353,0.3169,0.4184,Trump
+La Paz,AZ,0.6857,0.2673,0.4184,Trump
+Little River,AR,0.683,0.2647,0.4183,Trump
+Canyon,ID,0.6493,0.2317,0.4176,Trump
+Ware,GA,0.7002,0.2828,0.4174,Trump
+Luce,MI,0.6817,0.2644,0.4173,Trump
+Wood,OH,0.841,0.4245,0.4165,Trump
+Tallapoosa,AL,0.7008,0.2849,0.4159,Trump
+Columbiana,OH,0.6868,0.2712,0.4156,Trump
+Pickens,AL,0.8333,0.4184,0.4149,Trump
+Ottawa,OH,0.7889,0.3742,0.4147,Trump
+Bradley,AR,0.7752,0.3606,0.4146,Trump
+Eddy,NM,0.6695,0.2555,0.414,Trump
+Berrien,MI,0.824,0.4103,0.4137,Trump
+Wallowa,OR,0.6763,0.2626,0.4137,Trump
+Monona,IA,0.6884,0.2749,0.4135,Trump
+Evangeline Parish,LA,0.6961,0.2828,0.4133,Trump
+Clermont,OH,0.6838,0.2706,0.4132,Trump
+Gregg,TX,0.6937,0.281,0.4127,Trump
+Tioga,NY,0.7458,0.3333,0.4125,Trump
+Stark,OH,0.8021,0.3897,0.4124,Trump
+Lanier,GA,0.6935,0.2814,0.4121,Trump
+Bourbon,KY,0.729,0.3173,0.4117,Trump
+Greenbrier,WV,0.6793,0.2677,0.4116,Trump
+Hill,MT,0.7806,0.369,0.4116,Trump
+Deaf Smith,TX,0.6929,0.2821,0.4108,Trump
+Hardee,FL,0.6913,0.2834,0.4079,Trump
+Nodaway,MO,0.6758,0.2679,0.4079,Trump
+Jones,NC,0.8117,0.405,0.4067,Trump
+Matagorda,TX,0.6917,0.285,0.4067,Trump
+Burt,NE,0.6699,0.2634,0.4065,Trump
+Jackson Parish,LA,0.6925,0.2866,0.4059,Trump
+Ector,TX,0.6867,0.2811,0.4056,Trump
+Steuben,NY,0.697,0.2923,0.4047,Trump
+Robertson,TX,0.7171,0.3143,0.4028,Trump
+Meeker,MN,0.6643,0.2617,0.4026,Trump
+Bonneville,ID,0.6039,0.202,0.4019,Trump
+Wharton,TX,0.6901,0.2882,0.4019,Trump
+Walsh,ND,0.6584,0.2567,0.4017,Trump
+Wakulla,FL,0.6848,0.2834,0.4014,Trump
+Carbon,PA,0.7111,0.3105,0.4006,Trump
+Dubois,IN,0.671,0.2706,0.4004,Trump
+Jessamine,KY,0.6639,0.2636,0.4003,Trump
+Victoria,TX,0.6849,0.285,0.3999,Trump
+Buchanan,IA,0.7909,0.3912,0.3997,Trump
+Alcona,MI,0.6799,0.2803,0.3996,Trump
+Bell,TX,0.7989,0.4001,0.3988,Trump
+Wolfe,KY,0.6846,0.2858,0.3988,Trump
+Ringgold,IA,0.6781,0.2806,0.3975,Trump
+Citrus,FL,0.6832,0.286,0.3972,Trump
+Newaygo,MI,0.6713,0.2748,0.3965,Trump
+Glades,FL,0.6879,0.2918,0.3961,Trump
+Pittsylvania,VA,0.6861,0.2902,0.3959,Trump
+Lafayette,WI,0.8281,0.4325,0.3956,Trump
+Martin,NC,0.8862,0.4906,0.3956,Trump
+Belmont,OH,0.6788,0.2833,0.3955,Trump
+Walworth,WI,0.7654,0.3699,0.3955,Trump
+Okeechobee,FL,0.6853,0.29,0.3953,Trump
+Coryell,TX,0.6737,0.279,0.3947,Trump
+Saline,NE,0.7342,0.3399,0.3943,Trump
+Trinity,CA,0.7919,0.3978,0.3941,Trump
+Cass,ND,0.7911,0.3971,0.394,Trump
+Codington,SD,0.6654,0.272,0.3934,Trump
+Colonial Heights (city),VA,0.6741,0.2809,0.3932,Trump
+Bath,KY,0.6901,0.297,0.3931,Trump
+Maury,TN,0.6781,0.2859,0.3922,Trump
+Posey,IN,0.6742,0.2824,0.3918,Trump
+Dodge,WI,0.7178,0.3262,0.3916,Trump
+Greenwood,SC,0.7634,0.3718,0.3916,Trump
+Galax (city),VA,0.6784,0.2878,0.3906,Trump
+Seward,KS,0.703,0.3144,0.3886,Trump
+Pondera,MT,0.661,0.2728,0.3882,Trump
+Dunn,WI,0.7972,0.4097,0.3875,Trump
+Midland,MI,0.7568,0.3694,0.3874,Trump
+Otoe,NE,0.664,0.2771,0.3869,Trump
+Rutherford,TN,0.7289,0.3439,0.385,Trump
+Ravalli,MT,0.6633,0.2787,0.3846,Trump
+McLeod,MN,0.6506,0.2664,0.3842,Trump
+Lubbock,TX,0.6686,0.2851,0.3835,Trump
+Lapeer,MI,0.6656,0.2822,0.3834,Trump
+Kingsbury,SD,0.6586,0.2756,0.383,Trump
+Deuel,SD,0.6567,0.274,0.3827,Trump
+Colbert,AL,0.6789,0.2963,0.3826,Trump
+Isanti,MN,0.6532,0.2709,0.3823,Trump
+Worth,IA,0.7433,0.3612,0.3821,Trump
+Decatur,GA,0.7822,0.4009,0.3813,Trump
+Branch,MI,0.6686,0.2874,0.3812,Trump
+Catawba,NC,0.6763,0.2962,0.3801,Trump
+Huron,OH,0.6707,0.291,0.3797,Trump
+Tuscola,MI,0.666,0.2865,0.3795,Trump
+Cleveland,OK,0.7339,0.3548,0.3791,Trump
+Mason,WA,0.8066,0.4276,0.379,Trump
+Chambers,AL,0.797,0.4183,0.3787,Trump
+Iron,WI,0.7448,0.3661,0.3787,Trump
+Labette,KS,0.6607,0.2821,0.3786,Trump
+Horry,SC,0.6732,0.295,0.3782,Trump
+Bond,IL,0.6545,0.2769,0.3776,Trump
+Cambria,PA,0.6733,0.2958,0.3775,Trump
+Parmer,TX,0.6781,0.3009,0.3772,Trump
+Menard,IL,0.6586,0.2815,0.3771,Trump
+Wilkin,MN,0.6493,0.2723,0.377,Trump
+Green Lake,WI,0.6667,0.2899,0.3768,Trump
+Fillmore,MN,0.7294,0.3528,0.3766,Trump
+Cowley,KS,0.6586,0.2823,0.3763,Trump
+Cross,AR,0.6669,0.2907,0.3762,Trump
+New Kent,VA,0.6674,0.2915,0.3759,Trump
+Sebastian,AR,0.6521,0.2762,0.3759,Trump
+Utah,UT,0.515,0.1392,0.3758,Trump
+Beadle,SD,0.6579,0.2823,0.3756,Trump
+Tift,GA,0.6783,0.3042,0.3741,Trump
+Shoshone,ID,0.6439,0.2703,0.3736,Trump
+Shasta,CA,0.6577,0.2843,0.3734,Trump
+Park,MT,0.7595,0.3875,0.372,Trump
+McCracken,KY,0.6638,0.2919,0.3719,Trump
+Ray,MO,0.6556,0.285,0.3706,Trump
+Sherburne,MN,0.6477,0.2774,0.3703,Trump
+Boyd,KY,0.6645,0.2944,0.3701,Trump
+Oconto,WI,0.6653,0.2954,0.3699,Trump
+Avoyelles Parish,LA,0.6732,0.3035,0.3697,Trump
+Emanuel,GA,0.68,0.3104,0.3696,Trump
+Mathews,VA,0.6642,0.2954,0.3688,Trump
+Mitchell,GA,0.8128,0.4444,0.3684,Trump
+Washington Parish,LA,0.674,0.3056,0.3684,Trump
+Rosebud,MT,0.6557,0.2874,0.3683,Trump
+Iredell,NC,0.671,0.3028,0.3682,Trump
+Scioto,OH,0.6666,0.2985,0.3681,Trump
+Platte,MO,0.7734,0.4055,0.3679,Trump
+Trousdale,TN,0.668,0.3001,0.3679,Trump
+Cole,MO,0.6605,0.2927,0.3678,Trump
+Madison,FL,0.7819,0.4147,0.3672,Trump
+Lexington,SC,0.6556,0.2885,0.3671,Trump
+Chouteau,MT,0.6494,0.2824,0.367,Trump
+Renville,MN,0.6466,0.2799,0.3667,Trump
+Butler,AL,0.7941,0.4279,0.3662,Trump
+Ogemaw,MI,0.6573,0.2917,0.3656,Trump
+Kossuth,IA,0.6628,0.2974,0.3654,Trump
+Taylor,GA,0.7461,0.3807,0.3654,Trump
+Hocking,OH,0.6619,0.2967,0.3652,Trump
+Flathead,MT,0.6504,0.2861,0.3643,Trump
+Wexford,MI,0.6545,0.2903,0.3642,Trump
+Appanoose,IA,0.6613,0.2974,0.3639,Trump
+Amelia,VA,0.6687,0.3056,0.3631,Trump
+Mesa,CO,0.6428,0.2799,0.3629,Trump
+Ashley,AR,0.6604,0.2979,0.3625,Trump
+Chaves,NM,0.6352,0.2729,0.3623,Trump
+Stafford,VA,0.7882,0.4266,0.3616,Trump
+Queen Anne's,MD,0.6581,0.297,0.3611,Trump
+Tehama,CA,0.6539,0.293,0.3609,Trump
+Palo Alto,IA,0.6588,0.2985,0.3603,Trump
+Ascension Parish,LA,0.6611,0.3013,0.3598,Trump
+Reno,KS,0.644,0.2845,0.3595,Trump
+Otter Tail,MN,0.6486,0.2893,0.3593,Trump
+Pend Oreille,WA,0.6441,0.2851,0.359,Trump
+Mille Lacs,MN,0.6441,0.2865,0.3576,Trump
+Kanabec,MN,0.6437,0.2864,0.3573,Trump
+Van Buren,MI,0.7563,0.3992,0.3571,Trump
+Indiana,PA,0.6605,0.304,0.3565,Trump
+Umatilla,OR,0.6423,0.2859,0.3564,Trump
+Caldwell,TX,0.7543,0.3982,0.3561,Trump
+Lebanon,PA,0.6587,0.3032,0.3555,Trump
+Yuma,AZ,0.8051,0.4499,0.3552,Trump
+Tuscarawas,OH,0.6512,0.2967,0.3545,Trump
+Floyd,IA,0.7523,0.3979,0.3544,Trump
+Evans,GA,0.6674,0.3137,0.3537,Trump
+Yellow Medicine,MN,0.6438,0.2901,0.3537,Trump
+Nacogdoches,TX,0.6576,0.3041,0.3535,Trump
+King William,VA,0.6561,0.3028,0.3533,Trump
+Houston,MN,0.7474,0.3942,0.3532,Trump
+Wilkes,GA,0.7656,0.4125,0.3531,Trump
+Cecil,MD,0.6518,0.299,0.3528,Trump
+Davison,SD,0.6485,0.2962,0.3523,Trump
+Northumberland,VA,0.6982,0.3461,0.3521,Trump
+Carroll,NH,0.798,0.4465,0.3515,Trump
+Vermillion,IN,0.6525,0.301,0.3515,Trump
+Oneida,WI,0.7403,0.3889,0.3514,Trump
+Cottonwood,MN,0.6458,0.2945,0.3513,Trump
+Treutlen,GA,0.6696,0.3185,0.3511,Trump
+Power,ID,0.6041,0.2534,0.3507,Trump
+Macoupin,IL,0.6487,0.2985,0.3502,Trump
+Calloway,KY,0.6461,0.296,0.3501,Trump
+Pike,MS,0.8384,0.4885,0.3499,Trump
+Muskingum,OH,0.6513,0.3017,0.3496,Trump
+Upson,GA,0.6672,0.3177,0.3495,Trump
+Forest,WI,0.7006,0.3512,0.3494,Trump
+Ste. Genevieve,MO,0.6496,0.3003,0.3493,Trump
+Defiance,OH,0.645,0.2968,0.3482,Trump
+Craighead,AR,0.6439,0.2958,0.3481,Trump
+Medina,OH,0.7013,0.3534,0.3479,Trump
+Choctaw,AL,0.7754,0.4278,0.3476,Trump
+Gladwin,MI,0.6514,0.3042,0.3472,Trump
+Schoharie,NY,0.6449,0.298,0.3469,Trump
+Onslow,NC,0.6564,0.3099,0.3465,Trump
+Gage,NE,0.6427,0.2973,0.3454,Trump
+Herkimer,NY,0.6456,0.3004,0.3452,Trump
+Cattaraugus,NY,0.6446,0.301,0.3436,Trump
+Hendricks,IN,0.6421,0.3002,0.3419,Trump
+Nez Perce,ID,0.6222,0.2808,0.3414,Trump
+Turner,GA,0.7077,0.3667,0.341,Trump
+Faribault,MN,0.6334,0.2927,0.3407,Trump
+Montcalm,MI,0.6367,0.2965,0.3402,Trump
+Ocean,NJ,0.6553,0.3153,0.34,Trump
+Shawano,WI,0.6469,0.3075,0.3394,Trump
+Warrick,IN,0.6462,0.3069,0.3393,Trump
+Buffalo,WI,0.7044,0.3657,0.3387,Trump
+Garland,AR,0.6396,0.3015,0.3381,Trump
+Marinette,WI,0.6504,0.3125,0.3379,Trump
+Storey,NV,0.6317,0.294,0.3377,Trump
+Plaquemines Parish,LA,0.6527,0.3166,0.3361,Trump
+Piatt,IL,0.6319,0.2959,0.336,Trump
+Hubbard,MN,0.6363,0.3004,0.3359,Trump
+Lafayette Parish,LA,0.6458,0.3099,0.3359,Trump
+Falls,TX,0.6571,0.3215,0.3356,Trump
+Simpson,MS,0.6743,0.3391,0.3352,Trump
+Pemiscot,MO,0.6579,0.323,0.3349,Trump
+Butte,CA,0.772,0.4376,0.3344,Trump
+St. Johns,FL,0.6498,0.3155,0.3343,Trump
+Mountrail,ND,0.6363,0.3021,0.3342,Trump
+Quay,NM,0.619,0.2848,0.3342,Trump
+St. Martin Parish,LA,0.6552,0.321,0.3342,Trump
+St. Bernard Parish,LA,0.6473,0.3136,0.3337,Trump
+Bartholomew,IN,0.6372,0.3038,0.3334,Trump
+Guthrie,IA,0.6372,0.3042,0.333,Trump
+Calcasieu Parish,LA,0.6468,0.3139,0.3329,Trump
+Crawford,WI,0.7786,0.4462,0.3324,Trump
+Laramie,WY,0.622,0.2897,0.3323,Trump
+Becker,MN,0.6366,0.3047,0.3319,Trump
+Arenac,MI,0.6308,0.3001,0.3307,Trump
+Okmulgee,OK,0.6411,0.3145,0.3266,Trump
+Waseca,MN,0.6229,0.2963,0.3266,Trump
+Richland Parish,LA,0.6551,0.329,0.3261,Trump
+Tangipahoa Parish,LA,0.6478,0.322,0.3258,Trump
+Kendall,IL,0.7857,0.4603,0.3254,Trump
+Rapides Parish,LA,0.6477,0.3223,0.3254,Trump
+Yancey,NC,0.6492,0.3243,0.3249,Trump
+Hanover,VA,0.6354,0.3107,0.3247,Trump
+Elkhart,IN,0.6414,0.317,0.3244,Trump
+Finney,KS,0.6325,0.3089,0.3236,Trump
+Gila,AZ,0.6389,0.3153,0.3236,Trump
+Waushara,WI,0.6412,0.3179,0.3233,Trump
+Gaston,NC,0.6479,0.3266,0.3213,Trump
+Red Lake,MN,0.6098,0.2886,0.3212,Trump
+Cheboygan,MI,0.636,0.3152,0.3208,Trump
+Highlands,FL,0.6473,0.3269,0.3204,Trump
+Alexander,IL,0.7676,0.4475,0.3201,Trump
+Panola,MS,0.811,0.4915,0.3195,Trump
+Clare,MI,0.6356,0.3175,0.3181,Trump
+Crow Wing,MN,0.6266,0.3088,0.3178,Trump
+Guadalupe,TX,0.6378,0.32,0.3178,Trump
+Saluda,SC,0.6455,0.3282,0.3173,Trump
+Spink,SD,0.6283,0.3114,0.3169,Trump
+Langlade,WI,0.6377,0.323,0.3147,Trump
+Iberia Parish,LA,0.6441,0.3296,0.3145,Trump
+Curry,OR,0.6641,0.3497,0.3144,Trump
+Tate,MS,0.6484,0.334,0.3144,Trump
+Woodford,KY,0.6798,0.3656,0.3142,Trump
+Yavapai,AZ,0.6344,0.3202,0.3142,Trump
+McHenry,IL,0.741,0.4269,0.3141,Trump
+Josephine,OR,0.6238,0.3103,0.3135,Trump
+Vernon,WI,0.761,0.4475,0.3135,Trump
+Audubon,IA,0.6318,0.3193,0.3125,Trump
+Garfield,CO,0.7375,0.4256,0.3119,Trump
+Oldham,KY,0.623,0.3125,0.3105,Trump
+Faulkner,AR,0.6181,0.3078,0.3103,Trump
+Ionia,MI,0.6211,0.3113,0.3098,Trump
+Ferry,WA,0.617,0.3074,0.3096,Trump
+Bent,CO,0.6163,0.3071,0.3092,Trump
+DeSoto,FL,0.6584,0.3495,0.3089,Trump
+Buena Vista (city),VA,0.5979,0.2894,0.3085,Trump
+Long,GA,0.6384,0.33,0.3084,Trump
+St. Charles Parish,LA,0.6346,0.3268,0.3078,Trump
+Amherst,VA,0.6359,0.3288,0.3071,Trump
+Le Sueur,MN,0.6176,0.311,0.3066,Trump
+Torrance,NM,0.5878,0.2816,0.3062,Trump
+Coosa,AL,0.6464,0.3408,0.3056,Trump
+Chisago,MN,0.6145,0.3092,0.3053,Trump
+Pender,NC,0.6397,0.3356,0.3041,Trump
+Arkansas,AR,0.6158,0.3122,0.3036,Trump
+Montezuma,CO,0.6116,0.3085,0.3031,Trump
+Bay,MI,0.7115,0.4088,0.3027,Trump
+Pennington,MN,0.6243,0.3217,0.3026,Trump
+Waupaca,WI,0.6282,0.3257,0.3025,Trump
+Bonner,ID,0.6078,0.3057,0.3021,Trump
+Glenn,CA,0.6259,0.3246,0.3013,Trump
+McIntosh,GA,0.6913,0.39,0.3013,Trump
+Tooele,UT,0.5127,0.2124,0.3003,Trump
+Sullivan,NH,0.7614,0.4614,0.3,Trump
+Spartanburg,SC,0.63,0.3302,0.2998,Trump
+Iosco,MI,0.6251,0.3254,0.2997,Trump
+Telfair,GA,0.6455,0.3461,0.2994,Trump
+Rowan,KY,0.672,0.3727,0.2993,Trump
+Escambia,FL,0.6759,0.3767,0.2992,Trump
+Nobles,MN,0.6167,0.3181,0.2986,Trump
+Barnes,ND,0.6008,0.304,0.2968,Trump
+Antrim,MI,0.624,0.3277,0.2963,Trump
+Rockbridge,VA,0.6243,0.3281,0.2962,Trump
+Roscommon,MI,0.6245,0.3289,0.2956,Trump
+Rice,MN,0.7435,0.4481,0.2954,Trump
+Menominee,MI,0.6228,0.3288,0.294,Trump
+Lauderdale,TN,0.7146,0.4213,0.2933,Trump
+Vermilion,IL,0.6236,0.3314,0.2922,Trump
+Muskogee,OK,0.6212,0.3294,0.2918,Trump
+Emmet,MI,0.6631,0.3714,0.2917,Trump
+Atascosa,TX,0.632,0.3407,0.2913,Trump
+Laurens,GA,0.6376,0.3464,0.2912,Trump
+Webster Parish,LA,0.6361,0.345,0.2911,Trump
+Boyle,KY,0.6214,0.3309,0.2905,Trump
+Hernando,FL,0.6288,0.3389,0.2899,Trump
+Licking,OH,0.6215,0.332,0.2895,Trump
+Presque Isle,MI,0.6218,0.3326,0.2892,Trump
+Allegan,MI,0.6131,0.3251,0.288,Trump
+Baraga,MI,0.619,0.3316,0.2874,Trump
+Hempstead,AR,0.6245,0.3372,0.2873,Trump
+Alpena,MI,0.6189,0.332,0.2869,Trump
+Glynn,GA,0.6311,0.3448,0.2863,Trump
+Waller,TX,0.6297,0.3436,0.2861,Trump
+Schoolcraft,MI,0.6158,0.3298,0.286,Trump
+McLean,IL,0.7405,0.4547,0.2858,Trump
+Colfax,NM,0.6844,0.3995,0.2849,Trump
+Montour,PA,0.6179,0.334,0.2839,Trump
+Payne,OK,0.5998,0.3166,0.2832,Trump
+Abbeville,SC,0.6287,0.3461,0.2826,Trump
+Burnett,WI,0.6207,0.3381,0.2826,Trump
+Barbour,AL,0.7485,0.4666,0.2819,Trump
+Perquimans,NC,0.6282,0.3474,0.2808,Trump
+Waukesha,WI,0.6159,0.3352,0.2807,Trump
+Roanoke,VA,0.6153,0.3347,0.2806,Trump
+Chenango,NY,0.6086,0.3281,0.2805,Trump
+Stearns,MN,0.6029,0.3238,0.2791,Trump
+King George,VA,0.6132,0.3344,0.2788,Trump
+Kewaunee,WI,0.6159,0.3373,0.2786,Trump
+Conway,AR,0.6115,0.3352,0.2763,Trump
+Ben Hill,GA,0.6304,0.3542,0.2762,Trump
+St. Mary Parish,LA,0.6276,0.352,0.2756,Trump
+Aiken,SC,0.6149,0.34,0.2749,Trump
+Ross,OH,0.6159,0.3421,0.2738,Trump
+Oceana,MI,0.6072,0.3338,0.2734,Trump
+Berkeley,SC,0.6596,0.3864,0.2732,Trump
+Mackinac,MI,0.6143,0.3425,0.2718,Trump
+Sierra,NM,0.5822,0.3107,0.2715,Trump
+McLennan,TX,0.6165,0.3456,0.2709,Trump
+Yellowstone,MT,0.5959,0.3254,0.2705,Trump
+Refugio,TX,0.6214,0.3511,0.2703,Trump
+Asotin,WA,0.5898,0.322,0.2678,Trump
+Fond du Lac,WI,0.6076,0.3404,0.2672,Trump
+Mississippi,AR,0.697,0.4299,0.2671,Trump
+Ogle,IL,0.6027,0.3372,0.2655,Trump
+Pamlico,NC,0.6239,0.3584,0.2655,Trump
+Wabasha,MN,0.5941,0.3286,0.2655,Trump
+Traill,ND,0.5857,0.3207,0.265,Trump
+Louisa,VA,0.6191,0.3546,0.2645,Trump
+Coles,IL,0.6017,0.3376,0.2641,Trump
+Williamson,TX,0.6843,0.4202,0.2641,Trump
+St. Charles,MO,0.606,0.342,0.264,Trump
+Amador,CA,0.6039,0.3403,0.2636,Trump
+Juneau,WI,0.6125,0.3494,0.2631,Trump
+Pine,MN,0.5966,0.3336,0.263,Trump
+Cache,UT,0.4675,0.2052,0.2623,Trump
+Ontonagon,MI,0.605,0.3436,0.2614,Trump
+Mecosta,MI,0.6009,0.3398,0.2611,Trump
+Kenton,KY,0.5971,0.3365,0.2606,Trump
+Steele,MN,0.5881,0.3277,0.2604,Trump
+Collier,FL,0.6176,0.3574,0.2602,Trump
+Aitkin,MN,0.6005,0.3412,0.2593,Trump
+Lac qui Parle,MN,0.5982,0.3392,0.259,Trump
+Jenkins,GA,0.6236,0.3652,0.2584,Trump
+Swift,MN,0.5962,0.338,0.2582,Trump
+Otsego,NY,0.6597,0.4033,0.2564,Trump
+Gratiot,MI,0.6008,0.3445,0.2563,Trump
+Talladega,AL,0.62,0.3645,0.2555,Trump
+Assumption Parish,LA,0.6157,0.3605,0.2552,Trump
+Cabell,WV,0.6008,0.3457,0.2551,Trump
+Kandiyohi,MN,0.5906,0.3356,0.255,Trump
+Geauga,OH,0.6069,0.3522,0.2547,Trump
+Florence,SC,0.7156,0.461,0.2546,Trump
+Ouachita Parish,LA,0.6135,0.3592,0.2543,Trump
+Barron,WI,0.6038,0.35,0.2538,Trump
+Wasatch,UT,0.5047,0.2511,0.2536,Trump
+Culpeper,VA,0.604,0.3506,0.2534,Trump
+Charlotte,VA,0.6249,0.3717,0.2532,Trump
+Otero,CO,0.594,0.3412,0.2528,Trump
+Vilas,WI,0.6072,0.3545,0.2527,Trump
+Piscataquis,ME,0.5909,0.3388,0.2521,Trump
+Yuba,CA,0.5941,0.3426,0.2515,Trump
+Big Stone,MN,0.5889,0.3375,0.2514,Trump
+Goochland,VA,0.6011,0.3506,0.2505,Trump
+Price,WI,0.6034,0.3533,0.2501,Trump
+Buena Vista,IA,0.5985,0.3486,0.2499,Trump
+Salem (city),VA,0.5957,0.3473,0.2484,Trump
+Concordia Parish,LA,0.6172,0.3689,0.2483,Trump
+Kershaw,SC,0.6048,0.3565,0.2483,Trump
+Greenville,SC,0.5936,0.3466,0.247,Trump
+Leavenworth,KS,0.5859,0.3391,0.2468,Trump
+Greenlee,AZ,0.5834,0.3367,0.2467,Trump
+Fauquier,VA,0.5956,0.3491,0.2465,Trump
+Brazoria,TX,0.604,0.3581,0.2459,Trump
+St. Mary's,MD,0.5953,0.3495,0.2458,Trump
+Harford,MD,0.5978,0.3526,0.2452,Trump
+Indian River,FL,0.6078,0.3629,0.2449,Trump
+Yankton,SD,0.588,0.3433,0.2447,Trump
+Rockingham,NH,0.6916,0.447,0.2446,Trump
+Allamakee,IA,0.5956,0.3523,0.2433,Trump
+Drew,AR,0.602,0.3587,0.2433,Trump
+Charlevoix,MI,0.5955,0.3526,0.2429,Trump
+Spalding,GA,0.6028,0.3603,0.2425,Trump
+Harnett,NC,0.6068,0.366,0.2408,Trump
+San Patricio,TX,0.6045,0.3637,0.2408,Trump
+Harvey,KS,0.5848,0.3443,0.2405,Trump
+Archuleta,CO,0.5808,0.3414,0.2394,Trump
+Poinsett,AR,0.5906,0.3522,0.2384,Trump
+Mariposa,CA,0.5877,0.3496,0.2381,Trump
+Day,SD,0.5923,0.3546,0.2377,Trump
+Morris,NJ,0.697,0.4599,0.2371,Trump
+Brazos,TX,0.5855,0.3489,0.2366,Trump
+Pepin,WI,0.5948,0.359,0.2358,Trump
+Bulloch,GA,0.5994,0.3649,0.2345,Trump
+Moody,SD,0.5901,0.3556,0.2345,Trump
+Troup,GA,0.6065,0.3721,0.2344,Trump
+Washburn,WI,0.5965,0.3624,0.2341,Trump
+Oswego,NY,0.5863,0.3539,0.2324,Trump
+Chippewa,WI,0.6089,0.3773,0.2316,Trump
+Sandusky,OH,0.5836,0.354,0.2296,Trump
+Swain,NC,0.5946,0.3654,0.2292,Trump
+Sawyer,WI,0.5955,0.3664,0.2291,Trump
+Tulsa,OK,0.584,0.3555,0.2285,Trump
+Seminole,FL,0.6987,0.4707,0.228,Trump
+Calaveras,CA,0.5814,0.3542,0.2272,Trump
+Crisp,GA,0.6052,0.378,0.2272,Trump
+Amite,MS,0.6088,0.3822,0.2266,Trump
+Galveston,TX,0.5933,0.367,0.2263,Trump
+Newberry,SC,0.5961,0.3699,0.2262,Trump
+Cochise,AZ,0.5802,0.3544,0.2258,Trump
+Transylvania,NC,0.5987,0.3739,0.2248,Trump
+Caroline,VA,0.6775,0.4528,0.2247,Trump
+Weld,CO,0.5672,0.3428,0.2244,Trump
+Roosevelt,MT,0.6538,0.4295,0.2243,Trump
+Kittson,MN,0.5709,0.3483,0.2226,Trump
+Dare,NC,0.5936,0.3724,0.2212,Trump
+Columbus,NC,0.604,0.3831,0.2209,Trump
+Pecos,TX,0.5911,0.3722,0.2189,Trump
+Yates,NY,0.5772,0.3587,0.2185,Trump
+Craven,NC,0.5961,0.3781,0.218,Trump
+Sarpy,NE,0.574,0.3562,0.2178,Trump
+Geary,KS,0.5774,0.3604,0.217,Trump
+Manitowoc,WI,0.581,0.3642,0.2168,Trump
+Calumet,WI,0.5806,0.3645,0.2161,Trump
+Wahkiakum,WA,0.5692,0.3532,0.216,Trump
+Pasco,FL,0.5894,0.3737,0.2157,Trump
+Pottawattamie,IA,0.5788,0.3633,0.2155,Trump
+De Soto Parish,LA,0.5977,0.3825,0.2152,Trump
+Cascade,MT,0.5702,0.3553,0.2149,Trump
+Siskiyou,CA,0.5733,0.3588,0.2145,Trump
+Seneca,NY,0.62,0.4066,0.2134,Trump
+Lenawee,MI,0.5758,0.365,0.2108,Trump
+Plumas,CA,0.5752,0.3651,0.2101,Trump
+Isle of Wight,VA,0.5845,0.3746,0.2099,Trump
+Wapello,IA,0.5808,0.3728,0.208,Trump
+Beaufort,SC,0.6135,0.4064,0.2071,Trump
+Kanawha,WV,0.5796,0.3732,0.2064,Trump
+Flagler,FL,0.5888,0.3829,0.2059,Trump
+Tama,IA,0.5753,0.3698,0.2055,Trump
+Bannock,ID,0.5143,0.3096,0.2047,Trump
+Alger,MI,0.5728,0.3685,0.2043,Trump
+Bastrop,TX,0.5775,0.3736,0.2039,Trump
+Edgefield,SC,0.5876,0.3857,0.2019,Trump
+Denton,TX,0.5768,0.3751,0.2017,Trump
+Okanogan,WA,0.5733,0.3725,0.2008,Trump
+Nelson,VA,0.6465,0.4459,0.2006,Trump
+Koochiching,MN,0.5653,0.3653,0.2,Trump
+Cabarrus,NC,0.5849,0.3851,0.1998,Trump
+Chemung,NY,0.5731,0.3734,0.1997,Trump
+Sargent,ND,0.5501,0.3504,0.1997,Trump
+Bureau,IL,0.5682,0.3686,0.1996,Trump
+Weber,UT,0.472,0.2724,0.1996,Trump
+Attala,MS,0.5921,0.3931,0.199,Trump
+Cape May,NJ,0.5837,0.385,0.1987,Trump
+Woodbury,IA,0.5736,0.375,0.1986,Trump
+Frederick,MD,0.6496,0.4514,0.1982,Trump
+Brevard,FL,0.5778,0.3802,0.1976,Trump
+West Feliciana Parish,LA,0.5847,0.3875,0.1972,Trump
+Shiawassee,MI,0.5649,0.3686,0.1963,Trump
+Luzerne,PA,0.5839,0.3877,0.1962,Trump
+Lincoln Parish,LA,0.5766,0.3805,0.1961,Trump
+Rio Grande,CO,0.5576,0.3617,0.1959,Trump
+Tuscaloosa,AL,0.5838,0.3885,0.1953,Trump
+Pinal,AZ,0.5741,0.381,0.1931,Trump
+Ozaukee,WI,0.5707,0.3779,0.1928,Trump
+Duplin,NC,0.5898,0.3978,0.192,Trump
+Watonwan,MN,0.5568,0.3649,0.1919,Trump
+Westmoreland,VA,0.6406,0.449,0.1916,Trump
+Sedgwick,KS,0.5605,0.3691,0.1914,Trump
+Gloucester,NJ,0.6703,0.4795,0.1908,Trump
+Ashtabula,OH,0.5716,0.3816,0.19,Trump
+Niagara,NY,0.5724,0.3824,0.19,Trump
+Tuolumne,CA,0.5678,0.3785,0.1893,Trump
+McDuffie,GA,0.5861,0.3991,0.187,Trump
+Grand Forks,ND,0.5495,0.3644,0.1851,Trump
+Calvert,MD,0.5681,0.3837,0.1844,Trump
+St. Croix,WI,0.558,0.3737,0.1843,Trump
+Covington (city),VA,0.5694,0.3858,0.1836,Trump
+Yakima,WA,0.5664,0.3835,0.1829,Trump
+Marathon,WI,0.5666,0.3846,0.182,Trump
+Goodhue,MN,0.5498,0.3699,0.1799,Trump
+Kern,CA,0.5634,0.3851,0.1783,Trump
+Rappahannock,VA,0.5698,0.3918,0.178,Trump
+Screven,GA,0.5799,0.4036,0.1763,Trump
+Lunenburg,VA,0.5749,0.3991,0.1758,Trump
+Freeborn,MN,0.553,0.3792,0.1738,Trump
+Madera,CA,0.561,0.3877,0.1733,Trump
+Person,NC,0.5759,0.4026,0.1733,Trump
+Aroostook,ME,0.5554,0.3826,0.1728,Trump
+Del Norte,CA,0.5498,0.377,0.1728,Trump
+Pointe Coupee Parish,LA,0.5772,0.4051,0.1721,Trump
+Manatee,FL,0.5696,0.3981,0.1715,Trump
+Sutter,CA,0.558,0.3874,0.1706,Trump
+Collin,TX,0.562,0.3922,0.1698,Trump
+Stephenson,IL,0.5554,0.3857,0.1697,Trump
+Prince George,VA,0.5673,0.3977,0.1696,Trump
+Vanderburgh,IN,0.5618,0.3932,0.1686,Trump
+King and Queen,VA,0.5696,0.4014,0.1682,Trump
+Belknap,NH,0.5599,0.3918,0.1681,Trump
+Spotsylvania,VA,0.5576,0.3899,0.1677,Trump
+Sheboygan,WI,0.5553,0.3883,0.167,Trump
+Sampson,NC,0.5757,0.409,0.1667,Trump
+Itasca,MN,0.5463,0.3812,0.1651,Trump
+Southampton,VA,0.5675,0.4052,0.1623,Trump
+Tulare,CA,0.5579,0.3956,0.1623,Trump
+Walla Walla,WA,0.5499,0.3882,0.1617,Trump
+Ransom,ND,0.5218,0.3608,0.161,Trump
+Dorchester,MD,0.5656,0.4058,0.1598,Trump
+Houghton,MI,0.5425,0.3852,0.1573,Trump
+Coos,NH,0.5864,0.4293,0.1571,Trump
+Las Animas,CO,0.5462,0.3906,0.1556,Trump
+Roberts,SD,0.5512,0.396,0.1552,Trump
+Meriwether,GA,0.5681,0.4139,0.1542,Trump
+Bee,TX,0.5608,0.4071,0.1537,Trump
+Manistee,MI,0.5489,0.3952,0.1537,Trump
+Salem,NJ,0.5563,0.4027,0.1536,Trump
+Klickitat,WA,0.5455,0.393,0.1525,Trump
+Walthall,MS,0.571,0.4189,0.1521,Trump
+Vigo,IN,0.5541,0.4024,0.1517,Trump
+Kittitas,WA,0.547,0.396,0.151,Trump
+Colusa,CA,0.5471,0.3968,0.1503,Trump
+Chelan,WA,0.5493,0.3994,0.1499,Trump
+Gogebic,MI,0.5496,0.4,0.1496,Trump
+Grenada,MS,0.5689,0.42,0.1489,Trump
+Jo Daviess,IL,0.5469,0.3983,0.1486,Trump
+Jefferson Parish,LA,0.5529,0.4054,0.1475,Trump
+Brookings,SD,0.5322,0.3848,0.1474,Trump
+Minnehaha,SD,0.5372,0.3911,0.1461,Trump
+LaSalle,IL,0.5422,0.3979,0.1443,Trump
+Chowan,NC,0.5604,0.4171,0.1433,Trump
+Hendry,FL,0.5575,0.4151,0.1424,Trump
+Forrest,MS,0.5552,0.4131,0.1421,Trump
+Leake,MS,0.566,0.4243,0.1417,Trump
+Outagamie,WI,0.542,0.4005,0.1415,Trump
+Carson City (city),NV,0.5247,0.3842,0.1405,Trump
+Hyde,NC,0.5609,0.4206,0.1403,Trump
+Benzie,MI,0.5419,0.4019,0.14,Trump
+Litchfield,CT,0.5478,0.4089,0.1389,Trump
+Mobile,AL,0.5575,0.4188,0.1387,Trump
+Bremer,IA,0.5393,0.4007,0.1386,Trump
+Hunterdon,NJ,0.5464,0.408,0.1384,Trump
+Carver,MN,0.5273,0.3903,0.137,Trump
+Inyo,CA,0.5319,0.3952,0.1367,Trump
+Winnebago,IL,0.6012,0.4653,0.1359,Trump
+Claiborne Parish,LA,0.5583,0.4231,0.1352,Trump
+Norman,MN,0.5257,0.3911,0.1346,Trump
+East Feliciana Parish,LA,0.5546,0.4217,0.1329,Trump
+El Dorado,CA,0.5338,0.4012,0.1326,Trump
+Kankakee,IL,0.5387,0.4061,0.1326,Trump
+Cayuga,NY,0.5376,0.4051,0.1325,Trump
+Nottoway,VA,0.5526,0.4212,0.1314,Trump
+Yalobusha,MS,0.5556,0.4249,0.1307,Trump
+Volusia,FL,0.5484,0.4179,0.1305,Trump
+Georgetown,SC,0.55,0.4199,0.1301,Trump
+Skamania,WA,0.5254,0.3953,0.1301,Trump
+Oxford,ME,0.5215,0.3915,0.13,Trump
+Alamance,NC,0.552,0.4226,0.1294,Trump
+Cowlitz,WA,0.5303,0.4013,0.129,Trump
+Trempealeau,WI,0.5427,0.4157,0.127,Trump
+Grand Traverse,MI,0.5327,0.4074,0.1253,Trump
+Chickasaw,MS,0.5872,0.4625,0.1247,Trump
+Dinwiddie,VA,0.5503,0.426,0.1243,Trump
+West Baton Rouge Parish,LA,0.5449,0.4234,0.1215,Trump
+St. Landry Parish,LA,0.5496,0.4305,0.1191,Trump
+Accomack,VA,0.5447,0.4276,0.1171,Trump
+McDonough,IL,0.5259,0.4088,0.1171,Trump
+Wicomico,MD,0.538,0.4216,0.1164,Trump
+Sarasota,FL,0.5431,0.4274,0.1157,Trump
+Buckingham,VA,0.5449,0.4294,0.1155,Trump
+Macomb,MI,0.5363,0.4208,0.1155,Trump
+Caswell,NC,0.5476,0.4326,0.115,Trump
+Morehouse Parish,LA,0.5486,0.4349,0.1137,Trump
+Waynesboro (city),VA,0.5264,0.4128,0.1136,Trump
+Natchitoches Parish,LA,0.5395,0.4299,0.1096,Trump
+Penobscot,ME,0.5185,0.4092,0.1093,Trump
+Uvalde,TX,0.5403,0.4323,0.108,Trump
+St. Lawrence,NY,0.5248,0.417,0.1078,Trump
+Placer,CA,0.525,0.4176,0.1074,Trump
+Oklahoma,OK,0.5169,0.4118,0.1051,Trump
+Monongalia,WV,0.5115,0.4077,0.1038,Trump
+Ouachita,AR,0.5385,0.4351,0.1034,Trump
+Red River Parish,LA,0.5407,0.4383,0.1024,Trump
+Berks,PA,0.5291,0.4273,0.1018,Trump
+Beltrami,MN,0.5059,0.4076,0.0983,Trump
+Anoka,MN,0.5071,0.4101,0.097,Trump
+Chesterfield,VA,0.5591,0.4621,0.097,Trump
+Wasco,OR,0.5085,0.4119,0.0966,Trump
+Bladen,NC,0.5406,0.446,0.0946,Trump
+Monmouth,NJ,0.5307,0.4361,0.0946,Trump
+Sangamon,IL,0.5165,0.4222,0.0943,Trump
+Androscoggin,ME,0.5094,0.4152,0.0942,Trump
+Fluvanna,VA,0.5202,0.4263,0.0939,Trump
+Ada,ID,0.4793,0.3869,0.0924,Trump
+Grand,UT,0.5247,0.4337,0.091,Trump
+Lynchburg (city),VA,0.5086,0.4183,0.0903,Trump
+Gates,NC,0.5351,0.445,0.0901,Trump
+Bienville Parish,LA,0.5362,0.4467,0.0895,Trump
+Woodruff,AR,0.5238,0.4353,0.0885,Trump
+Yamhill,OR,0.5007,0.413,0.0877,Trump
+Tarrant,TX,0.5215,0.4345,0.087,Trump
+Ontario,NY,0.5107,0.4245,0.0862,Trump
+Valencia,NM,0.4789,0.393,0.0859,Trump
+Colleton,SC,0.5271,0.442,0.0851,Trump
+Spokane,WA,0.4994,0.4164,0.083,Trump
+Early,GA,0.5337,0.4527,0.081,Trump
+Hardeman,TN,0.5315,0.4516,0.0799,Trump
+Navajo,AZ,0.513,0.4338,0.0792,Trump
+Mower,MN,0.5018,0.4233,0.0785,Trump
+Cerro Gordo,IA,0.5118,0.4348,0.077,Trump
+Des Moines,IA,0.5065,0.437,0.0695,Trump
+Lewis and Clark,MT,0.493,0.424,0.069,Trump
+Poweshiek,IA,0.5092,0.4407,0.0685,Trump
+Grays Harbor,WA,0.4969,0.4286,0.0683,Trump
+Porter,IN,0.5062,0.4384,0.0678,Trump
+Cortland,NY,0.4997,0.4329,0.0668,Trump
+Muscatine,IA,0.5003,0.434,0.0663,Trump
+Huerfano,CO,0.4971,0.4324,0.0647,Trump
+LaPorte,IN,0.504,0.4399,0.0641,Trump
+Trumbull,OH,0.5119,0.4478,0.0641,Trump
+Whiteside,IL,0.4997,0.4365,0.0632,Trump
+Lenoir,NC,0.5237,0.4609,0.0628,Trump
+Pacific,WA,0.5009,0.4396,0.0613,Trump
+Tillamook,OR,0.4891,0.4299,0.0592,Trump
+Tippecanoe,IN,0.496,0.4394,0.0566,Trump
+Eaton,MI,0.4958,0.4406,0.0552,Trump
+Conecuh,AL,0.5216,0.4691,0.0525,Trump
+Barnwell,SC,0.5157,0.4637,0.052,Trump
+James City,VA,0.498,0.4467,0.0513,Trump
+Robeson,NC,0.5144,0.4658,0.0486,Trump
+Brewster,TX,0.4905,0.4423,0.0482,Trump
+Chaffee,CO,0.4803,0.4339,0.0464,Trump
+Riley,KS,0.4795,0.4343,0.0452,Trump
+Virginia Beach (city),VA,0.491,0.4465,0.0445,Trump
+Racine,WI,0.4977,0.4537,0.044,Trump
+Benson,ND,0.4778,0.434,0.0438,Trump
+Saratoga,NY,0.4908,0.4472,0.0436,Trump
+New Hanover,NC,0.5027,0.4618,0.0409,Trump
+Luna,NM,0.4768,0.438,0.0388,Trump
+Deschutes,OR,0.4821,0.444,0.0381,Trump
+Blue Earth,MN,0.4711,0.4338,0.0373,Trump
+Darlington,SC,0.5052,0.4679,0.0373,Trump
+Kennebec,ME,0.4811,0.4439,0.0372,Trump
+Broome,NY,0.4903,0.4534,0.0369,Trump
+Isabella,MI,0.4868,0.45,0.0368,Trump
+Maricopa,AZ,0.4913,0.4568,0.0345,Trump
+Conejos,CO,0.4748,0.4416,0.0332,Trump
+McCormick,SC,0.5083,0.4754,0.0329,Trump
+Door,WI,0.4934,0.4613,0.0321,Trump
+Leelanau,MI,0.4905,0.459,0.0315,Trump
+Kent,RI,0.5016,0.4708,0.0308,Trump
+Nicollet,MN,0.4709,0.4402,0.0307,Trump
+Peach,GA,0.5052,0.4751,0.0301,Trump
+Mahnomen,MN,0.4778,0.4484,0.0294,Trump
+Winona,MN,0.4689,0.4397,0.0292,Trump
+Rensselaer,NY,0.4839,0.4552,0.0287,Trump
+Shawnee,KS,0.48,0.4517,0.0283,Trump
+Granville,NC,0.5015,0.4765,0.025,Trump
+St. Lucie,FL,0.4992,0.4747,0.0245,Trump
+Dooly,GA,0.506,0.4849,0.0211,Trump
+Twiggs,GA,0.5019,0.4861,0.0158,Trump
+Nueces,TX,0.4877,0.4723,0.0154,Trump
+Chesapeake (city),VA,0.4828,0.47,0.0128,Trump
+Stanislaus,CA,0.4797,0.467,0.0127,Trump
+Dubuque,IA,0.4769,0.4644,0.0125,Trump
+Saginaw,MI,0.4827,0.4713,0.0114,Trump
+Pinellas,FL,0.4857,0.4747,0.011,Trump
+Dutchess,NY,0.4839,0.4732,0.0107,Trump
+Hays,TX,0.4716,0.463,0.0086,Trump
+Winneshiek,IA,0.4753,0.467,0.0083,Trump
+Kenosha,WI,0.4751,0.4717,0.0034,Trump
+Lorain,OH,0.4782,0.4753,0.0029,Trump
+Nash,NC,0.4934,0.4909,0.0025,Trump
+Clallam,WA,0.4705,0.4703,0.0002,Trump
